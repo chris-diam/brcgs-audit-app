@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "BRCGS Audit",
+    "slug": "brcgs-audit-app",
+    "version": "1.0.0",
+    "scheme": "brcgs",
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f766e"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
