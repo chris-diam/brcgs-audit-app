@@ -1,0 +1,8 @@
+{
+  "version": "v34.7.33",
+  "title": "Language Pass Section 4.9 Part A",
+  "principle": "Only true BRCGS requirement control points are scored. Introductory/header lines that introduce bullet lists are not scored.",
+  "language_normalization": "v34.7 Natural Greek Baseline: free, auditor-friendly Greek wording; scoring/finding logic preserved from v34.6.4–v34.6.6.",
+  "language_style": "Ελεύθερη, φυσική ελληνική διατύπωση για χρήση από επιθεωρητή· όχι λέξη προς λέξη μετάφραση. Τεχνικά ακρωνύμια διατηρούνται όπου είναι πρακτικά χρήσιμα.",
+  "language_pass": "Section 4.9 Part A: clauses 4.9.1–4.9.6.3 rewritten in natural audit Greek. Scoring/finding logic unchanged."
+}

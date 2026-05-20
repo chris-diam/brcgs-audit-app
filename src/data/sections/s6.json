@@ -1,0 +1,1174 @@
+[
+  {
+    "clause": "6.1.1",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Τεκμηριωμένη διεργασία Προδιαγραφές και οδηγίες εργασίας/Οι διαδικασίες πρέπει να είναι διαθέσιμο για βασικό διεργασίες σε παραγωγή προϊόντα ώστε να διασφαλίζεται ότι ασφάλεια προϊόντος, νομιμότητα και ποιότητα. διεργασία Προδιαγραφές και οδηγίες εργασίας/διαδικασίες (Όπου αρμόζει) πρέπει να περιλαμβάνουν: recipes – συμπεριλαμβανομένων ταυτοποίηση κάθε αλλεργιογόνα mixing οδηγίες, ταχύτητα, χρόνος εξοπλισμός διεργασία ρυθμίσεις cooking χρόνοι και θερμοκρασίες cooling χρόνοι και θερμοκρασίες επισήμανση οδηγίες coding και διάρκεια ζωής marking αποθήκευση συνθήκες (π. χ. αποθήκευση θερμοκρασίες) κάθε πρόσθετα κρίσιμα σημεία ελέγχου εντοπισμένα σε HACCP ή σχέδιο ασφάλειας τροφίμων. διεργασία Προδιαγραφές πρέπει να είναι σύμφωνα με συμφωνημένο τελικό προϊόν προδιαγραφή. Η εγκατάσταση πρέπει να ανασκόπηση διεργασία Προδιαγραφές και οδηγίες εργασίας/διαδικασίες πριν να κάθε αλλαγές που μπορεί να επηρεάζουν ασφάλειας τροφίμων, νομιμότητα και ποιότητα.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τεκμηριωμένη διεργασία Προδιαγραφές και οδηγίες εργασίας/Οι διαδικασίες πρέπει να είναι διαθέσιμο για βασικό διεργασίες σε παραγωγή προϊόντα ώστε να διασφαλίζεται ότι ασφάλεια προϊόντος, νομιμότητα και ποιότητα. διεργασία Προδιαγραφές και οδηγίες εργασίας/διαδικασίες (Όπου αρμόζει) πρέπει να περιλαμβάνουν",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Recipes – συμπεριλαμβανομένων ταυτοποίηση κάθε αλλεργιογόνα",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Mixing οδηγίες, ταχύτητα, χρόνος",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Εξοπλισμός διεργασία ρυθμίσεις",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Cooking χρόνοι και θερμοκρασίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Cooling χρόνοι και θερμοκρασίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Επισήμανση οδηγίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Coding και διάρκεια ζωής marking",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "Αποθήκευση συνθήκες (π. χ. αποθήκευση θερμοκρασίες)",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "Κάθε πρόσθετα κρίσιμα σημεία ελέγχου εντοπισμένα σε HACCP ή σχέδιο ασφάλειας τροφίμων.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "Διεργασία Προδιαγραφές πρέπει να είναι σύμφωνα με συμφωνημένο τελικό προϊόν προδιαγραφή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i11",
+        "text": "Η εγκατάσταση πρέπει να ανασκόπηση διεργασία Προδιαγραφές και οδηγίες εργασίας/διαδικασίες πριν να κάθε αλλαγές που μπορεί να επηρεάζουν ασφάλειας τροφίμων, νομιμότητα και ποιότητα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.2",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Όπου εξοπλισμός ρυθμίσεις είναι κρίσιμο να ασφάλεια ή νομιμότητα προϊόν, αλλαγές να εξοπλισμός ρυθμίσεις πρέπει να μόνο είναι ολοκληρωμένα από εκπαιδευμένο και εξουσιοδοτημένο προσωπικό. Όπου εφαρμόζεται, έλεγχοι πρέπει να είναι κωδικό πρόσβασης-protected ή διαφορετικά restricted.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εξοπλισμός ρυθμίσεις είναι κρίσιμο να ασφάλεια ή νομιμότητα προϊόν, αλλαγές να εξοπλισμός ρυθμίσεις πρέπει να μόνο είναι ολοκληρωμένα από εκπαιδευμένο και εξουσιοδοτημένο προσωπικό. Όπου εφαρμόζεται, έλεγχοι πρέπει να είναι κωδικό πρόσβασης-protected ή διαφορετικά restricted.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.3",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Διεργασία παρακολούθηση, όπως θερμοκρασία, χρόνος, πίεση και χημικό properties, πρέπει να είναι εφαρμοσμένο, επαρκώς ελεγχόμενο και καταγράφεται ώστε να διασφαλίζεται ότι ότι προϊόν είναι παραγόμενο εντός απαιτείται διεργασία προδιαγραφή.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Διεργασία παρακολούθηση, όπως θερμοκρασία, χρόνος, πίεση και χημικό properties, πρέπει να είναι εφαρμοσμένο, επαρκώς ελεγχόμενο και καταγράφεται ώστε να διασφαλίζεται ότι ότι προϊόν είναι παραγόμενο εντός απαιτείται διεργασία προδιαγραφή.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.4",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Σε περιστάσεις Όπου διεργασία παράμετροι ή προϊόν ποιότητα είναι ελεγχόμενο από σε-γραμμή συσκευές παρακολούθησης, αυτά πρέπει να είναι linked να κατάλληλο αστοχία alert σύστημα ότι είναι συστηματικά δοκιμασμένο.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Σε περιστάσεις Όπου διεργασία παράμετροι ή προϊόν ποιότητα είναι ελεγχόμενο από σε-γραμμή συσκευές παρακολούθησης, αυτά πρέπει να είναι linked να κατάλληλο αστοχία alert σύστημα ότι είναι συστηματικά δοκιμασμένο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.5",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Όπου variation σε επεξεργασία συνθήκες μπορεί να εμφανιστεί εντός εξοπλισμός κρίσιμο να ασφάλεια ή ποιότητα προϊόντα, επεξεργασία characteristics πρέπει να είναι επικυρωμένο και επαληθεύεται σε συχνότητα βάσει κινδύνου και απόδοση εξοπλισμός (π. χ. heat διανομή σε retorts, ovens και επεξεργασία vessels; θερμοκρασία διανομή σε freezers και cold stores).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου variation σε επεξεργασία συνθήκες μπορεί να εμφανιστεί εντός εξοπλισμός κρίσιμο να ασφάλεια ή ποιότητα προϊόντα, επεξεργασία characteristics πρέπει να είναι επικυρωμένο και επαληθεύεται σε συχνότητα βάσει κινδύνου και απόδοση εξοπλισμός (π. χ. heat διανομή σε retorts, ovens και επεξεργασία vessels; θερμοκρασία διανομή σε freezers και cold stores).",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.6",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Σε συμβάν εξοπλισμός αστοχία ή deviation διεργασία από προδιαγραφή, Οι διαδικασίες πρέπει να είναι σε εφαρμογή να καθορίζει ασφάλεια κατάσταση και ποιότητα προϊόν να καθορίζουν ενέργεια να είναι λαμβάνονται.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Σε συμβάν εξοπλισμός αστοχία ή deviation διεργασία από προδιαγραφή, Οι διαδικασίες πρέπει να είναι σε εφαρμογή να καθορίζει ασφάλεια κατάσταση και ποιότητα προϊόν να καθορίζουν ενέργεια να είναι λαμβάνονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.1.7",
+    "section": "6. 1 Έλεγχος λειτουργιών",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος λειτουργιών",
+    "requirement_checklist": "Όπου εγκατάσταση handles προϊόντα ή υλικά (π. χ. από-προϊόντα από παραγωγή διεργασίες) ότι είναι εκτός πεδίο εφαρμογής επιθεώρηση, αυτά πρέπει να ελέγχονταιο ώστε να διασφαλίζεται ότι ότι αυτά κάνουν δεν create ασφάλεια προϊόντος, αυθεντικότητα ή νομιμότητα κίνδυνος να προϊόντα εντός πεδίο εφαρμογής.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εγκατάσταση handles προϊόντα ή υλικά (π. χ. από-προϊόντα από παραγωγή διεργασίες) ότι είναι εκτός πεδίο εφαρμογής επιθεώρηση, αυτά πρέπει να ελέγχονταιο ώστε να διασφαλίζεται ότι ότι αυτά κάνουν δεν create ασφάλεια προϊόντος, αυθεντικότητα ή νομιμότητα κίνδυνος να προϊόντα εντός πεδίο εφαρμογής.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.2.1",
+    "section": "6. 2 Έλεγχος επισήμανσης και συσκευασίας",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος επισήμανσης και συσκευασίας",
+    "requirement_checklist": "Πρέπει να υπάρχει επίσημο διεργασία για allocation υλικά συσκευασίας να συσκευασία γραμμήs και έλεγχος σε συσκευασία περιοχή που διασφαλίζει ότι μόνο συσκευασία για immediate χρήση είναι διαθέσιμο να συσκευασία μηχανήματα. Όπου offγραμμή coding ή εκτύπωση υλικά συσκευασίας συμβαίνει: setting και τροποποιήσεις να printer παράμετροι (π. χ. input, ή αλλαγές να, Ημερομηνία codes) πρέπει να μόνο είναι ολοκληρωμένα από εξουσιοδοτημένο μέλος προσωπικό έλεγχοι πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι μόνο σωστά εκτυπωμένο υλικό είναι διαθέσιμο σε συσκευασία μηχανήματα. διεργασίες πρέπει να είναι σε εφαρμογή να έλεγχος ετικέτα χρήση είναι reconciled με expected χρήση και αιτία κάθε inconsistencies διερευνήθηκε.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πρέπει να υπάρχει επίσημο διεργασία για allocation υλικά συσκευασίας να συσκευασία γραμμήs και έλεγχος σε συσκευασία περιοχή που διασφαλίζει ότι μόνο συσκευασία για immediate χρήση είναι διαθέσιμο να συσκευασία μηχανήματα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Όπου offγραμμή coding ή εκτύπωση υλικά συσκευασίας συμβαίνει",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Setting και τροποποιήσεις να printer παράμετροι (π. χ. input, ή αλλαγές να, Ημερομηνία codes) πρέπει να μόνο είναι ολοκληρωμένα από εξουσιοδοτημένο μέλος προσωπικό",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Έλεγχοι πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι μόνο σωστά εκτυπωμένο υλικό είναι διαθέσιμο σε συσκευασία μηχανήματα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Διεργασίες πρέπει να είναι σε εφαρμογή να έλεγχος ετικέτα χρήση είναι reconciled με expected χρήση και αιτία κάθε inconsistencies διερευνήθηκε.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.2.2",
+    "section": "6. 2 Έλεγχος επισήμανσης και συσκευασίας",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος επισήμανσης και συσκευασίας",
+    "requirement_checklist": "Τεκμηριωμένο έλεγχοςs παραγωγή γραμμή πρέπει να είναι διενεργείται πριν commencing παραγωγή και ακόλουθα αλλαγές προϊόν. Αυτά πρέπει να διασφαλίζει ότι γραμμήs έχουν κατάλληλα cleared και είναι ready για παραγωγή. τεκμηριωμένο έλεγχοςs πρέπει να είναι διενεργείται σε προϊόν αλλαγές ώστε να διασφαλίζεται ότι ότι όλα προϊόντα και εκτυπωμένο συσκευασία και ετικέτες από προηγούμενο παραγωγή έχουν απομακρυνθεί από γραμμή πριν αλλαγή να next παραγωγή.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τεκμηριωμένο έλεγχοςs παραγωγή γραμμή πρέπει να είναι διενεργείται πριν commencing παραγωγή και ακόλουθα αλλαγές προϊόν.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτά πρέπει να διασφαλίζει ότι γραμμήs έχουν κατάλληλα cleared και είναι ready για παραγωγή. τεκμηριωμένο έλεγχοςs πρέπει να είναι διενεργείται σε προϊόν αλλαγές ώστε να διασφαλίζεται ότι ότι όλα προϊόντα και εκτυπωμένο συσκευασία και ετικέτες από προηγούμενο παραγωγή έχουν απομακρυνθεί από γραμμή πριν αλλαγή να next παραγωγή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.2.3",
+    "section": "6. 2 Έλεγχος επισήμανσης και συσκευασίας",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος επισήμανσης και συσκευασίας",
+    "requirement_checklist": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι όλα προϊόντα είναι συσκευασμένα σε σωστό συσκευασία και σωστά επισημασμένα. Αυτά πρέπει να περιλαμβάνουν έλεγχοςs: σε start συσκευασία κατά τη διάρκεια συσκευασία λειτουργούν (π. χ. σε preκαθορισμένο intervals και όταν εκτυπωμένο συσκευασία ή ετικέτες είναι μεταφέρονται να γραμμή κατά τη διάρκεια παραγωγή λειτουργούν) όταν αλλαγή παρτίδαes υλικά συσκευασίας σε τέλος κάθε παραγωγή λειτουργούν. έλεγχοςs πρέπει να επίσης περιλαμβάνουν επαλήθευση κάθε εκτύπωση διενεργείται σε συσκευασία stage συμπεριλαμβανομένων, Όπου αρμόζει: κωδικοποίηση ημερομηνίας κωδικοποίηση παρτίδας ποσότητα indication pricing πληροφορίες γραμμωτός κώδικας χώρα προέλευσης αλλεργιογόνο πληροφορίες.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι όλα προϊόντα είναι συσκευασμένα σε σωστό συσκευασία και σωστά επισημασμένα. Αυτά πρέπει να περιλαμβάνουν έλεγχοςs",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Σε start συσκευασία",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Κατά τη διάρκεια συσκευασία λειτουργούν (π. χ. σε preκαθορισμένο intervals και όταν εκτυπωμένο συσκευασία ή ετικέτες είναι μεταφέρονται να γραμμή κατά τη διάρκεια παραγωγή λειτουργούν)",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Όταν αλλαγή παρτίδαes υλικά συσκευασίας σε τέλος κάθε παραγωγή λειτουργούν. έλεγχοςs πρέπει να επίσης περιλαμβάνουν επαλήθευση κάθε εκτύπωση διενεργείται σε συσκευασία stage συμπεριλαμβανομένων, Όπου αρμόζει",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Κωδικοποίηση ημερομηνίας",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Κωδικοποίηση παρτίδας",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Ποσότητα indication",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Pricing πληροφορίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "Γραμμωτός κώδικας",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "Χώρα προέλευσης",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "Αλλεργιογόνο πληροφορίες.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.2.4",
+    "section": "6. 2 Έλεγχος επισήμανσης και συσκευασίας",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Έλεγχος επισήμανσης και συσκευασίας",
+    "requirement_checklist": "Όπου διαδικτυακά επαλήθευση εξοπλισμός (π. χ. bar code scanners) είναι χρησιμοποιείται να έλεγχος προϊόν ετικέτες και εκτύπωση, Η εγκατάσταση πρέπει να καθορίζει και εφαρμόζουν διαδικασίες για λειτουργία και δοκιμές εξοπλισμός ώστε να διασφαλίζεται ότι ότι σύστημα είναι σωστά set up και ικανό alerting ή rejecting προϊόν όταν συσκευασία πληροφορίες είναι προδιαγραφή. Κατ’ ελάχιστον, δοκιμές εξοπλισμός πρέπει να είναι ολοκληρωμένα σε: start συσκευασία λειτουργούν τέλος συσκευασία λειτουργούν συχνότητα βασισμένο στην εγκατάσταση’s ability να εντοπίζουν, hold και προλαμβάνουν αποδέσμευση κάθε εμπλεκόμενα υλικά θα πρέπει να εξοπλισμός fail (π. χ. κατά τη διάρκεια συσκευασία λειτουργούν ή όταν αλλαγή παρτίδαes υλικά συσκευασίας). Η εγκατάσταση πρέπει να καθορίζει και εφαρμόζουν διαδικασίες σε συμβάν αστοχία σε διαδικτυακά επαλήθευση εξοπλισμός (π. χ. τεκμηριωμένο και εκπαιδευμένο εγχειρίδιο έλεγχοςing διαδικασία).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου διαδικτυακά επαλήθευση εξοπλισμός (π. χ. bar code scanners) είναι χρησιμοποιείται να έλεγχος προϊόν ετικέτες και εκτύπωση, Η εγκατάσταση πρέπει να καθορίζει και εφαρμόζουν διαδικασίες για λειτουργία και δοκιμές εξοπλισμός ώστε να διασφαλίζεται ότι ότι σύστημα είναι σωστά set up και ικανό alerting ή rejecting προϊόν όταν συσκευασία πληροφορίες είναι προδιαγραφή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Κατ’ ελάχιστον, δοκιμές εξοπλισμός πρέπει να είναι ολοκληρωμένα σε: start συσκευασία λειτουργούν τέλος συσκευασία λειτουργούν συχνότητα βασισμένο στην εγκατάσταση’s ability να εντοπίζουν, hold και προλαμβάνουν αποδέσμευση κάθε εμπλεκόμενα υλικά θα πρέπει να εξοπλισμός fail (π. χ. κατά τη διάρκεια συσκευασία λειτουργούν ή όταν αλλαγή παρτίδαes υλικά συσκευασίας).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η εγκατάσταση πρέπει να καθορίζει και εφαρμόζουν διαδικασίες σε συμβάν αστοχία σε διαδικτυακά επαλήθευση εξοπλισμός (π. χ. τεκμηριωμένο και εκπαιδευμένο εγχειρίδιο έλεγχοςing διαδικασία).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.3.1",
+    "section": "6. 3 Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "requirement_checklist": "Συχνότητα και μέθοδοςology ποσότητα έλεγχοςing πρέπει να πληρούν Απαιτήσεις κατάλληλο νομοθεσία governing ποσότητα επαλήθευση, και αρχεία έλεγχοςs πρέπει να διατηρούνται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Συχνότητα και μέθοδοςology ποσότητα έλεγχοςing πρέπει να πληρούν Απαιτήσεις κατάλληλο νομοθεσία governing ποσότητα επαλήθευση, και αρχεία έλεγχοςs πρέπει να διατηρούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.3.2",
+    "section": "6. 3 Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "requirement_checklist": "Όπου ποσότητα προϊόν είναι δεν governed από νομοθετικό Απαιτήσεις (π. χ. χύδην ποσότητα), προϊόν πρέπει να conform να πελάτης Απαιτήσεις και Τα αρχεία πρέπει να διατηρούνται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου ποσότητα προϊόν είναι δεν governed από νομοθετικό Απαιτήσεις (π. χ. χύδην ποσότητα), προϊόν πρέπει να conform να πελάτης Απαιτήσεις και Τα αρχεία πρέπει να διατηρούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.3.3",
+    "section": "6. 3 Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Ποσότητα – έλεγχος βάρους, όγκου και αριθμού",
+    "requirement_checklist": "Όπου χρησιμοποιείται, Η εγκατάσταση πρέπει να καθορίζει διαδικασίες για λειτουργία και δοκιμές διαδικτυακά ελεγκτικοί ζυγοί. Κατ’ ελάχιστον, Αυτό πρέπει να περιλαμβάνει: εξέταση κάθε νομικές απαιτήσεις αρμοδιότητες για δοκιμές εξοπλισμός λειτουργίας αποτελεσματικότητα και κάθε variations για συγκεκριμένο προϊόντα μέθοδοι και συχνότητα δοκιμές ελεγκτικοί ζυγοί διεργασίες για χειρισμός απορριφθέντα συσκευασίες αρχεία δοκιμή αποτελέσματα.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου χρησιμοποιείται, Η εγκατάσταση πρέπει να καθορίζει διαδικασίες για λειτουργία και δοκιμές διαδικτυακά ελεγκτικοί ζυγοί.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Εξέταση κάθε νομικές απαιτήσεις",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αρμοδιότητες για δοκιμές εξοπλισμός",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Λειτουργίας αποτελεσματικότητα και κάθε variations για συγκεκριμένο προϊόντα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Μέθοδοι και συχνότητα δοκιμές ελεγκτικοί ζυγοί",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Διεργασίες για χειρισμός απορριφθέντα συσκευασίες",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Αρχεία δοκιμή αποτελέσματα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.4.1",
+    "section": "6. 4 Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να εντοπίζουν και έλεγχος εξοπλισμός μέτρησης χρησιμοποιείται να monitor κρίσιμα σημεία ελέγχου και ασφάλεια προϊόντος, νομιμότητα και ποιότητα. Αυτό πρέπει να περιλαμβάνει, Κατ’ ελάχιστον: τεκμηριωμένο λίστα εξοπλισμός και της θέση ταυτοποίηση code και διακρίβωση due Ημερομηνία πρόληψη από adjustment από unauthorised προσωπικό προστασία από ζημιά, deterioration ή misuse.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να εντοπίζουν και έλεγχος εξοπλισμός μέτρησης χρησιμοποιείται να monitor κρίσιμα σημεία ελέγχου και ασφάλεια προϊόντος, νομιμότητα και ποιότητα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να περιλαμβάνει, Κατ’ ελάχιστον: τεκμηριωμένο λίστα εξοπλισμός και της θέση ταυτοποίηση code και διακρίβωση due Ημερομηνία",
+        "weight": 3,
+        "weight_label": "Οδηγός ενότητας",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Πρόληψη από adjustment από unauthorised προσωπικό",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Προστασία από ζημιά, deterioration ή misuse.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.4.2",
+    "section": "6. 4 Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "requirement_checklist": "Όλα εντοπισμένα measuring συσκευές, συμπεριλαμβανομένων νέος εξοπλισμός, πρέπει να είναι έλεγχοςed και, Όπου απαραίτητο, adjusted: σε προκαθορισμένο συχνότητα, βάσει αξιολόγηση κινδύνου να καθορισμένες μέθοδος traceable να αναγνωρισμένο εθνικό ή international Πρότυπο Όπου δυνατό. αποτελέσματα πρέπει να τεκμηριώνεται. εξοπλισμός πρέπει να είναι readable και είναι κατάλληλο accuracy για measurements αυτό είναι απαιτείται να perform.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα εντοπισμένα measuring συσκευές, συμπεριλαμβανομένων νέος εξοπλισμός, πρέπει να είναι έλεγχοςed και, Όπου απαραίτητο, adjusted",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Σε προκαθορισμένο συχνότητα, βάσει αξιολόγηση κινδύνου",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Να καθορισμένες μέθοδος traceable να αναγνωρισμένο εθνικό ή international Πρότυπο Όπου δυνατό.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Αποτελέσματα πρέπει να τεκμηριώνεται. εξοπλισμός πρέπει να είναι readable και είναι κατάλληλο accuracy για measurements αυτό είναι απαιτείται να perform.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.4.3",
+    "section": "6. 4 Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "requirement_checklist": "Reference εξοπλισμός μέτρησης πρέπει να είναι calibrated και traceable να αναγνωρισμένο εθνικό ή international Πρότυπο και αρχεία διατηρείται. uncertainty διακρίβωση πρέπει να είναι εξετάζονται όταν εξοπλισμός είναι χρησιμοποιείται να αξιολογούν κρίσιμα όρια.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Reference εξοπλισμός μέτρησης πρέπει να είναι calibrated και traceable να αναγνωρισμένο εθνικό ή international Πρότυπο και αρχεία διατηρείται. uncertainty διακρίβωση πρέπει να είναι εξετάζονται όταν εξοπλισμός είναι χρησιμοποιείται να αξιολογούν κρίσιμα όρια.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "6.4.4",
+    "section": "6. 4 Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "main_section": "6 Έλεγχος διεργασιών",
+    "title": "Διακρίβωση και έλεγχος συσκευών μέτρησης και παρακολούθησης",
+    "requirement_checklist": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή να αρχείο ενέργειες να είναι λαμβάνονται όταν προβλεπόμενες measuring συσκευές είναι found δεν να είναι λειτουργίας εντός καθορισμένο όρια. Όπου ασφάλεια ή νομιμότητα προϊόντα είναι βάσει εξοπλισμός found να είναι inaccurate, ενέργεια πρέπει να είναι λαμβάνονται ώστε να διασφαλίζεται ότι σε-κίνδυνος προϊόν είναι δεν offered για sale.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή να αρχείο ενέργειες να είναι λαμβάνονται όταν προβλεπόμενες measuring συσκευές είναι found δεν να είναι λειτουργίας εντός καθορισμένο όρια. Όπου ασφάλεια ή νομιμότητα προϊόντα είναι βάσει εξοπλισμός found να είναι inaccurate, ενέργεια πρέπει να είναι λαμβάνονται ώστε να διασφαλίζεται ότι σε-κίνδυνος προϊόν είναι δεν offered για sale.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  }
+]

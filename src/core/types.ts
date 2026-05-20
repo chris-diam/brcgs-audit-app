@@ -46,6 +46,7 @@ export interface ClauseState {
 
 export interface AuditMeta {
   site: string
+  company: string
   auditDate: string
   auditor: string
   auditType: string

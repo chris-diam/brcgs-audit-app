@@ -12,6 +12,7 @@ const storage =
 
 const defaultMeta: AuditMeta = {
   site: '',
+  company: '',
   auditDate: new Date().toISOString().split('T')[0],
   auditor: '',
   auditType: 'Ανακοινωμένος',

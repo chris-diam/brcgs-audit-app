@@ -1,14 +1,14 @@
 import React from 'react'
 import { View, Text } from 'react-native'
 
-const GRADE_CONFIG: Record<string, { bg: string; text: string; label: string }> = {
-  AA:    { bg: 'bg-emerald-100', text: 'text-emerald-800', label: 'Άριστα' },
-  A:     { bg: 'bg-green-100',   text: 'text-green-800',   label: 'Πολύ Καλά' },
-  B:     { bg: 'bg-yellow-100',  text: 'text-yellow-800',  label: 'Καλά' },
-  C:     { bg: 'bg-orange-100',  text: 'text-orange-800',  label: 'Αποδεκτά' },
-  D:     { bg: 'bg-red-100',     text: 'text-red-700',     label: 'Μη Αποδεκτά' },
-  F:     { bg: 'bg-red-900',     text: 'text-white',       label: 'Αποτυχία' },
-  'N/A': { bg: 'bg-slate-100',   text: 'text-slate-500',   label: 'Δεν αξιολογήθηκε' },
+const GRADE_CONFIG: Record<string, { bgColor: string; textColor: string; label: string }> = {
+  AA:    { bgColor: '#d1fae5', textColor: '#065f46', label: 'Άριστα' },
+  A:     { bgColor: '#dcfce7', textColor: '#166534', label: 'Πολύ Καλά' },
+  B:     { bgColor: '#fef9c3', textColor: '#854d0e', label: 'Καλά' },
+  C:     { bgColor: '#ffedd5', textColor: '#9a3412', label: 'Αποδεκτά' },
+  D:     { bgColor: '#fee2e2', textColor: '#b91c1c', label: 'Μη Αποδεκτά' },
+  F:     { bgColor: '#7f1d1d', textColor: '#ffffff', label: 'Αποτυχία' },
+  'N/A': { bgColor: '#f1f5f9', textColor: '#64748b', label: 'Δεν αξιολογήθηκε' },
 }
 
 interface Props {
@@ -25,8 +25,11 @@ export default function GradeBadge({ grade, done, total, avgScore }: Props) {
   return (
     <View className="bg-white rounded-2xl p-4 shadow-sm">
       <View className="flex-row items-center gap-4">
-        <View className={`${cfg.bg} rounded-2xl w-20 h-20 items-center justify-center`}>
-          <Text className={`${cfg.text} text-4xl font-black`}>{grade}</Text>
+        <View
+          className="rounded-2xl w-20 h-20 items-center justify-center"
+          style={{ backgroundColor: cfg.bgColor }}
+        >
+          <Text className="text-4xl font-black" style={{ color: cfg.textColor }}>{grade}</Text>
         </View>
         <View className="flex-1">
           <Text className="text-slate-900 text-lg font-bold">{cfg.label}</Text>

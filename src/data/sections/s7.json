@@ -1,0 +1,1081 @@
+[
+  {
+    "clause": "7.1.1",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όλα Προσωπικό, συμπεριλαμβανομένων agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι, πρέπει να είναι κατάλληλα εκπαιδευμένο πριν να commencing εργασία και επαρκώς supervised σε όλη τη διάρκεια εργασίας περίοδος.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα Προσωπικό, συμπεριλαμβανομένων agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι, πρέπει να είναι κατάλληλα εκπαιδευμένο πριν να commencing εργασία και επαρκώς supervised σε όλη τη διάρκεια εργασίας περίοδος.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.2",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όπου Προσωπικό είναι απασχολούμενα σε δραστηριότητες που σχετίζονται με να μέτρα ελέγχου και κρίσιμα σημεία ελέγχου, σχετικές Εκπαίδευση και επάρκεια αξιολόγηση πρέπει να είναι σε εφαρμογή.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου Προσωπικό είναι απασχολούμενα σε δραστηριότητες που σχετίζονται με να μέτρα ελέγχου και κρίσιμα σημεία ελέγχου, σχετικές Εκπαίδευση και επάρκεια αξιολόγηση πρέπει να είναι σε εφαρμογή.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.3",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να τοποθετούνται σε εφαρμογή τεκμηριωμένο προγράμματα covering Εκπαίδευση needs Προσωπικό. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον: αναγνώριση απαραίτητο ικανότητες για συγκεκριμένες roles providing Εκπαίδευση ή άλλες ενέργεια ώστε να διασφαλίζεται ότι προσωπικό έχουν απαραίτητο ικανότητες ανασκόπησηing αποτελεσματικότητα Εκπαίδευση παράδοση Εκπαίδευση σε κατάλληλο γλώσσα trainees.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να τοποθετούνται σε εφαρμογή τεκμηριωμένο προγράμματα covering Εκπαίδευση needs Προσωπικό. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αναγνώριση απαραίτητο ικανότητες για συγκεκριμένες roles",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Providing Εκπαίδευση ή άλλες ενέργεια ώστε να διασφαλίζεται ότι προσωπικό έχουν απαραίτητο ικανότητες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Ανασκόπησηing αποτελεσματικότητα Εκπαίδευση",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Παράδοση Εκπαίδευση σε κατάλληλο γλώσσα trainees.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.4",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όλα Προσωπικό, συμπεριλαμβανομένων engineers, agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι, πρέπει να έχουν παραλαμβάνονται general αλλεργιογόνο ενημερωμένοness Εκπαίδευση και είναι εκπαιδευμένο στην εγκατάσταση’s αλλεργιογόνο-χειρισμός διαδικασίες.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα Προσωπικό, συμπεριλαμβανομένων engineers, agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι, πρέπει να έχουν παραλαμβάνονται general αλλεργιογόνο ενημερωμένοness Εκπαίδευση και είναι εκπαιδευμένο στην εγκατάσταση’s αλλεργιογόνο-χειρισμός διαδικασίες.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.5",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όλα σχετικές Προσωπικό (συμπεριλαμβανομένων σχετικές agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι) πρέπει να έχουν παραλαμβάνονται Εκπαίδευση στην εγκατάσταση’s επισήμανση και συσκευασία διεργασίες που είναι σχεδιασμένο ώστε να διασφαλίζεται ότι σωστό επισήμανση και συσκευασία προϊόντα.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα σχετικές Προσωπικό (συμπεριλαμβανομένων σχετικές agency-παρεχόμενα προσωπικό, προσωρινό προσωπικό και εργολάβοι) πρέπει να έχουν παραλαμβάνονται Εκπαίδευση στην εγκατάσταση’s επισήμανση και συσκευασία διεργασίες που είναι σχεδιασμένο ώστε να διασφαλίζεται ότι σωστό επισήμανση και συσκευασία προϊόντα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.6",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Αρχεία όλα Εκπαίδευση πρέπει να είναι διαθέσιμο. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον: name trainee και confirmation attendance Ημερομηνία και duration Εκπαίδευση title ή course contents, Όπου αρμόζει Εκπαίδευση provider για εσωτερικό courses, αναφορά να υλικό, εργασία οδηγία ή διαδικασία ότι είναι χρησιμοποιείται σε Εκπαίδευση. Όπου Εκπαίδευση είναι εκτελούνται από agencies σε behalf εταιρεία, αρχεία Εκπαίδευση πρέπει να είναι διαθέσιμο.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Αρχεία όλα Εκπαίδευση πρέπει να είναι διαθέσιμο. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον: name trainee και confirmation attendance Ημερομηνία και duration Εκπαίδευση title ή course contents, Όπου αρμόζει Εκπαίδευση provider",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Για εσωτερικό courses, αναφορά να υλικό, εργασία οδηγία ή διαδικασία ότι είναι χρησιμοποιείται σε Εκπαίδευση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Όπου Εκπαίδευση είναι εκτελούνται από agencies σε behalf εταιρεία, αρχεία Εκπαίδευση πρέπει να είναι διαθέσιμο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.1.7",
+    "section": "7. 1 Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Εκπαίδευση: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Η εταιρεία πρέπει να συστηματικά ανασκόπηση ικανότητες της προσωπικό. Όπου αρμόζει, Αυτό πρέπει να παρέχει σχετικές Εκπαίδευση. Αυτό μπορεί να είναι σε μορφή Εκπαίδευση, refresher Εκπαίδευση, coaching, mentoring ή σε--job εμπειρία.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να συστηματικά ανασκόπηση ικανότητες της προσωπικό. Όπου αρμόζει, Αυτό πρέπει να παρέχει σχετικές Εκπαίδευση. Αυτό μπορεί να είναι σε μορφή Εκπαίδευση, refresher Εκπαίδευση, coaching, mentoring ή σε--job εμπειρία.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.2.1",
+    "section": "7. 2 Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Απαιτήσεις για Προσωπική υγιεινή πρέπει να τεκμηριώνεται και κοινοποιηθεί να όλα Προσωπικό. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον, ακόλουθα: watches και παρόμοια wearable συσκευές πρέπει να δεν είναι φθαρμένο jewellery πρέπει να δεν είναι φθαρμένο, με εξαίρεση single, plain wedding ring, wedding wristband ή ιατρική ειδοποίηση jewellery rings και studs σε εκτεθειμένα μέρη body, όπως ears, noses και eyebrows, πρέπει να δεν είναι φθαρμένο fingernails πρέπει να είναι τηρούνται short, καθαρό και unvarnished false fingernails και nail art πρέπει να δεν είναι επιτρεπόμενα excessive perfume ή aftershave πρέπει να δεν είναι φθαρμένο. συμμόρφωση με Απαιτήσεις πρέπει να είναι έλεγχοςed συστηματικά.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Απαιτήσεις για Προσωπική υγιεινή πρέπει να τεκμηριώνεται και κοινοποιηθεί να όλα Προσωπικό. Αυτά πρέπει να περιλαμβάνουν, Κατ’ ελάχιστον, ακόλουθα",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Watches και παρόμοια wearable συσκευές πρέπει να δεν είναι φθαρμένο",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Jewellery πρέπει να δεν είναι φθαρμένο, με εξαίρεση single, plain wedding ring, wedding wristband ή ιατρική ειδοποίηση jewellery",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Rings και studs σε εκτεθειμένα μέρη body, όπως ears, noses και eyebrows, πρέπει να δεν είναι φθαρμένο",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Fingernails πρέπει να είναι τηρούνται short, καθαρό και unvarnished",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "False fingernails και nail art πρέπει να δεν είναι επιτρεπόμενα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Excessive perfume ή aftershave πρέπει να δεν είναι φθαρμένο.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Συμμόρφωση με Απαιτήσεις πρέπει να είναι έλεγχοςed συστηματικά.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.2.2",
+    "section": "7. 2 Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Πλύσιμο χεριών πρέπει να είναι διενεργούνται σε είσοδος να χώροι παραγωγής και σε συχνότητα ότι είναι κατάλληλο να ελαχιστοποιούν κίνδυνος προϊόν επιμόλυνση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πλύσιμο χεριών πρέπει να είναι διενεργούνται σε είσοδος να χώροι παραγωγής και σε συχνότητα ότι είναι κατάλληλο να ελαχιστοποιούν κίνδυνος προϊόν επιμόλυνση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.2.3",
+    "section": "7. 2 Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όλα cuts και grazes σε εκτεθειμένα skin πρέπει να είναι που καλύπτονται από κατάλληλα coloured plaster ότι είναι διαφορετικό από προϊόν χρώμα (preferably blue) και contains μέταλλο detectable ταινία. Αυτά πρέπει να είναι εγκατάσταση-έκδοσηd και παρακολουθείται. Όπου αρμόζει, σε προσθήκη να plaster, glove πρέπει να είναι φθαρμένο.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα cuts και grazes σε εκτεθειμένα skin πρέπει να είναι που καλύπτονται από κατάλληλα coloured plaster ότι είναι διαφορετικό από προϊόν χρώμα (preferably blue) και contains μέταλλο detectable ταινία.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτά πρέπει να είναι εγκατάσταση-έκδοσηd και παρακολουθείται. Όπου αρμόζει, σε προσθήκη να plaster, glove πρέπει να είναι φθαρμένο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.2.4",
+    "section": "7. 2 Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Όπου μέταλλο ανίχνευση εξοπλισμός είναι χρησιμοποιείται, δείγμα από κάθε παρτίδα επιθέματα πρέπει να είναι successfully δοκιμασμένο μέσω εξοπλισμός και Τα αρχεία πρέπει να είναι τηρούνται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου μέταλλο ανίχνευση εξοπλισμός είναι χρησιμοποιείται, δείγμα από κάθε παρτίδα επιθέματα πρέπει να είναι successfully δοκιμασμένο μέσω εξοπλισμός και Τα αρχεία πρέπει να είναι τηρούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.2.5",
+    "section": "7. 2 Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "main_section": "7 Προσωπικό",
+    "title": "Προσωπική υγιεινή: πρώτη ύλη χειρισμός, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης",
+    "requirement_checklist": "Διεργασίες και γραπτή οδηγίες για προσωπικό πρέπει να είναι σε εφαρμογή να έλεγχος χρήση και αποθήκευση προσωπική medicines, ώστε ως να ελαχιστοποιούν κίνδυνος προϊόν επιμόλυνση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Διεργασίες και γραπτή οδηγίες για προσωπικό πρέπει να είναι σε εφαρμογή να έλεγχος χρήση και αποθήκευση προσωπική medicines, ώστε ως να ελαχιστοποιούν κίνδυνος προϊόν επιμόλυνση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.3.1",
+    "section": "7. 3 Ιατρικός έλεγχος",
+    "main_section": "7 Προσωπικό",
+    "title": "Ιατρικός έλεγχος",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να κάνουν προσωπικό ενημερωμένο συμπτώματα λοίμωξη, ασθένεια ή κατάσταση που θα προλαμβάνουν πρόσωπο εργασίας με ανοικτό τρόφιμα. Η εγκατάσταση πρέπει να διαθέτει διαδικασία που enables notification από προσωπικό (συμπεριλαμβανομένων προσωρινό εργαζόμενοι), εργολάβοι και επισκέπτες να εγκατάσταση, κάθε σχετικές συμπτώματα, λοίμωξη, ασθένεια ή κατάσταση που αυτά μπορεί να έχουν σε επαφής με ή μπορεί να είναι πάσχουν από.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να κάνουν προσωπικό ενημερωμένο συμπτώματα λοίμωξη, ασθένεια ή κατάσταση που θα προλαμβάνουν πρόσωπο εργασίας με ανοικτό τρόφιμα.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η εγκατάσταση πρέπει να διαθέτει διαδικασία που enables notification από προσωπικό (συμπεριλαμβανομένων προσωρινό εργαζόμενοι), εργολάβοι και επισκέπτες να εγκατάσταση, κάθε σχετικές συμπτώματα, λοίμωξη, ασθένεια ή κατάσταση που αυτά μπορεί να έχουν σε επαφής με ή μπορεί να είναι πάσχουν από.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.3.2",
+    "section": "7. 3 Ιατρικός έλεγχος",
+    "main_section": "7 Προσωπικό",
+    "title": "Ιατρικός έλεγχος",
+    "requirement_checklist": "Όπου εκεί μπορεί να είναι κίνδυνος να ασφάλεια προϊόντος, επισκέπτες και εργολάβοι πρέπει να είναι κατασκευασμένο ενημερωμένο types συμπτώματα, λοίμωξη, ασθένεια ή κατάσταση που θα προλαμβάνουν πρόσωπο visiting περιοχές με ανοικτό τρόφιμα. Όπου επιτρεπόμενα από νομοθεσία, επισκέπτες πρέπει να είναι απαιτείται να πλήρης health ερωτηματολόγιο ή διαφορετικά επιβεβαιώνει ότι αυτά είναι δεν πάσχουν από κάθε συμπτώματα που μπορεί να τοποθετούνται ασφάλεια προϊόντος σε κίνδυνος, πριν να είσοδος πρώτη ύλη, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εκεί μπορεί να είναι κίνδυνος να ασφάλεια προϊόντος, επισκέπτες και εργολάβοι πρέπει να είναι κατασκευασμένο ενημερωμένο types συμπτώματα, λοίμωξη, ασθένεια ή κατάσταση που θα προλαμβάνουν πρόσωπο visiting περιοχές με ανοικτό τρόφιμα. Όπου επιτρεπόμενα από νομοθεσία, επισκέπτες πρέπει να είναι απαιτείται να πλήρης health ερωτηματολόγιο ή διαφορετικά επιβεβαιώνει ότι αυτά είναι δεν πάσχουν από κάθε συμπτώματα που μπορεί να τοποθετούνται ασφάλεια προϊόντος σε κίνδυνος, πριν να είσοδος πρώτη ύλη, προετοιμασία, επεξεργασία, συσκευασία και χώροι αποθήκευσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.3.3",
+    "section": "7. 3 Ιατρικός έλεγχος",
+    "main_section": "7 Προσωπικό",
+    "title": "Ιατρικός έλεγχος",
+    "requirement_checklist": "Πρέπει να υπάρχει διαδικασίες για προσωπικό (συμπεριλαμβανομένων προσωρινό εργαζόμενοι), εργολάβοι και επισκέπτες που σχετίζονται με να ενέργεια να είναι λαμβάνονται Όπου αυτά μπορεί να είναι πάσχουν από ή έχουν σε επαφής με infectious ασθένεια. Expert medical advice πρέπει να είναι sought Όπου απαιτείται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πρέπει να υπάρχει διαδικασίες για προσωπικό (συμπεριλαμβανομένων προσωρινό εργαζόμενοι), εργολάβοι και επισκέπτες που σχετίζονται με να ενέργεια να είναι λαμβάνονται Όπου αυτά μπορεί να είναι πάσχουν από ή έχουν σε επαφής με infectious ασθένεια.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Expert medical advice πρέπει να είναι sought Όπου απαιτείται.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.1",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Η εταιρεία πρέπει να έγγραφο και communicate να όλα προσωπικό (συμπεριλαμβανομένων agency και προσωρινό Προσωπικό), εργολάβοι και επισκέπτες rules regarding wearing Προστατευτική ενδυμασία σε καθορισμένο εργασία περιοχές (π. χ. χώροι παραγωγής, χώροι αποθήκευσης). Αυτό πρέπει να επίσης περιλαμβάνουν πολιτικές που σχετίζονται με να wearing Προστατευτική ενδυμασία μακριά από παραγωγή περιβάλλον (π. χ. απομάκρυνση πριν είσοδος τουαλέτες, και χρήση canteen και χώροι καπνίσματος).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να έγγραφο και communicate να όλα προσωπικό (συμπεριλαμβανομένων agency και προσωρινό Προσωπικό), εργολάβοι και επισκέπτες rules regarding wearing Προστατευτική ενδυμασία σε καθορισμένο εργασία περιοχές (π. χ. χώροι παραγωγής, χώροι αποθήκευσης).",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να επίσης περιλαμβάνουν πολιτικές που σχετίζονται με να wearing Προστατευτική ενδυμασία μακριά από παραγωγή περιβάλλον (π. χ. απομάκρυνση πριν είσοδος τουαλέτες, και χρήση canteen και χώροι καπνίσματος).",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.2",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Προστατευτική ενδυμασία πρέπει να είναι διαθέσιμο ότι: είναι παρέχεται σε επαρκές numbers Για κάθε employee είναι κατάλληλο σχεδιασμός για την πρόληψη επιμόλυνση προϊόν (Κατ’ ελάχιστον που περιέχει όχι εξωτερική pockets παραπάνω waist ή sewn-σε buttons) πλήρως contains όλα scalp hair για την πρόληψη προϊόν επιμόλυνση περιλαμβάνει snoods για beards και moustaches, Όπου απαιτείται, για την πρόληψη προϊόν επιμόλυνση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Προστατευτική ενδυμασία πρέπει να είναι διαθέσιμο ότι",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Είναι παρέχεται σε επαρκές numbers Για κάθε employee",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Είναι κατάλληλο σχεδιασμός για την πρόληψη επιμόλυνση προϊόν (Κατ’ ελάχιστον που περιέχει όχι εξωτερική pockets παραπάνω waist ή sewn-σε buttons)",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Πλήρως contains όλα scalp hair για την πρόληψη προϊόν επιμόλυνση",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Περιλαμβάνει snoods για beards και moustaches, Όπου απαιτείται, για την πρόληψη προϊόν επιμόλυνση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.3",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Προστατευτική ενδυμασία πρέπει να είναι laundered από εγκεκριμένο συμβατικά ορισμένο ή εσωτερική πλυντήριο/υπηρεσία πλύσης με χρήση καθορισμένες κριτήρια να επικυρώνει αποτελεσματικότητα πλύσιμο διεργασία. πλυντήριο/υπηρεσία πλύσης πρέπει λειτουργούν διαδικασίες που διασφαλίζει: επαρκές διαχωρισμός μεταξύ ακάθαρτα και καθαρισμένα ρούχα αποτελεσματικές καθαρισμός Προστατευτική ενδυμασία καθαρισμένα ρούχα είναι παρεχόμενα προστατευμένο από επιμόλυνση μέχρι χρήση (π. χ. από χρήση covers ή bags). Washing Προστατευτική ενδυμασία από employee είναι exceptional αλλά πρέπει να είναι αποδεκτό όπου: Προστατευτική ενδυμασία είναι δεν χρησιμοποιείται για ασφάλεια προϊόντος σκοπούς; για παράδειγμα, αυτό είναι χρησιμοποιείται να προστατεύουν employee από προϊόντα χειριζόμενα και Προστατευτική ενδυμασία είναι φθαρμένο σε κλειστό προϊόν ή χαμηλού κινδύνου περιοχές μόνο.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Προστατευτική ενδυμασία πρέπει να είναι laundered από εγκεκριμένο συμβατικά ορισμένο ή εσωτερική πλυντήριο/υπηρεσία πλύσης με χρήση καθορισμένες κριτήρια να επικυρώνει αποτελεσματικότητα πλύσιμο διεργασία. πλυντήριο/υπηρεσία πλύσης πρέπει λειτουργούν διαδικασίες που διασφαλίζει",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Επαρκές διαχωρισμός μεταξύ ακάθαρτα και καθαρισμένα ρούχα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αποτελεσματικές καθαρισμός Προστατευτική ενδυμασία",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Καθαρισμένα ρούχα είναι παρεχόμενα προστατευμένο από επιμόλυνση μέχρι χρήση (π. χ. από χρήση covers ή bags).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Washing Προστατευτική ενδυμασία από employee είναι exceptional αλλά πρέπει να είναι αποδεκτό όπου: Προστατευτική ενδυμασία είναι δεν χρησιμοποιείται για ασφάλεια προϊόντος σκοπούς; για παράδειγμα, αυτό είναι χρησιμοποιείται να προστατεύουν employee από προϊόντα χειριζόμενα",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Και Προστατευτική ενδυμασία είναι φθαρμένο σε κλειστό προϊόν ή χαμηλού κινδύνου περιοχές μόνο.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.4",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Προστατευτική ενδυμασία πρέπει να είναι changed σε κατάλληλο συχνότητα, βάσει κινδύνου.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Προστατευτική ενδυμασία πρέπει να είναι changed σε κατάλληλο συχνότητα, βάσει κινδύνου.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.5",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Εάν γάντια είναι χρησιμοποιείται, αυτά πρέπει να είναι replaced τακτικά. Όπου αρμόζει, γάντια πρέπει να είναι κατάλληλο για τρόφιμα χρήση, disposable τύπος, διακριτή χρώμα (blue Όπου δυνατό) και intact, και πρέπει να δεν shed loose fibres.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Εάν γάντια είναι χρησιμοποιείται, αυτά πρέπει να είναι replaced τακτικά. Όπου αρμόζει, γάντια πρέπει να είναι κατάλληλο για τρόφιμα χρήση, disposable τύπος, διακριτή χρώμα (blue Όπου δυνατό) και intact, και πρέπει να δεν shed loose fibres.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "7.4.6",
+    "section": "7. 4 Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "main_section": "7 Προσωπικό",
+    "title": "Προστατευτική ενδυμασία: προσωπικό ή επισκέπτες να χώροι παραγωγής",
+    "requirement_checklist": "Όπου αντικείμενα Προστατευτική ενδυμασία ότι είναι δεν κατάλληλο για πλύσιμο είναι παρέχεται (όπως αλυσίδα mail, γάντια και aprons), αυτά πρέπει να είναι καθαρισμένα και απολυμασμένα σε συχνότητα βάσει κινδύνου.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου αντικείμενα Προστατευτική ενδυμασία ότι είναι δεν κατάλληλο για πλύσιμο είναι παρέχεται (όπως αλυσίδα mail, γάντια και aprons), αυτά πρέπει να είναι καθαρισμένα και απολυμασμένα σε συχνότητα βάσει κινδύνου.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  }
+]

@@ -2,10 +2,10 @@ import React from 'react'
 import { View, Text, TouchableOpacity } from 'react-native'
 
 const OPTIONS = [
-  { value: 'OK',               label: 'OK',       activeBg: 'bg-emerald-500' },
-  { value: 'Μερικό',           label: 'Μερικό',   activeBg: 'bg-amber-400' },
-  { value: 'Μη συμμόρφωση',   label: 'Μη Συμμ.', activeBg: 'bg-red-500' },
-  { value: 'N/A',              label: 'N/A',      activeBg: 'bg-slate-400' },
+  { value: 'OK',               label: 'OK',       activeStyle: { backgroundColor: '#22c55e' } },
+  { value: 'Μερικό',           label: 'Μερικό',   activeStyle: { backgroundColor: '#fbbf24' } },
+  { value: 'Μη συμμόρφωση',   label: 'Μη Συμμ.', activeStyle: { backgroundColor: '#ef4444' } },
+  { value: 'N/A',              label: 'N/A',      activeStyle: { backgroundColor: '#94a3b8' } },
 ]
 
 interface Props {
@@ -22,13 +22,13 @@ export default function SeverityPicker({ value, onChange }: Props) {
           <TouchableOpacity
             key={opt.value}
             onPress={() => onChange(active ? '' : opt.value)}
-            className={`flex-1 py-2.5 rounded-xl items-center justify-center ${
-              active ? opt.activeBg : 'bg-slate-100'
-            }`}
+            className="flex-1 py-2.5 rounded-xl items-center justify-center bg-slate-100"
+            style={active ? opt.activeStyle : undefined}
             activeOpacity={0.7}
           >
             <Text
-              className={`font-bold text-sm ${active ? 'text-white' : 'text-slate-500'}`}
+              className="font-bold text-sm text-slate-500"
+              style={active ? { color: '#fff' } : undefined}
             >
               {opt.label}
             </Text>

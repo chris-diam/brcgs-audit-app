@@ -5,22 +5,22 @@ import {
   ScrollView,
   TouchableOpacity,
   TextInput,
-  SafeAreaView,
 } from 'react-native'
+import { SafeAreaView } from 'react-native-safe-area-context'
 import { useLocalSearchParams, useRouter } from 'expo-router'
 import { useAuditStore } from '../../src/store/auditStore'
 import { getClause, allClauses } from '../../src/data'
 import { evalClause } from '../../src/core/scoring'
 import SeverityPicker from '../../src/components/SeverityPicker'
 
-const SEV_BADGE: Record<string, string> = {
-  OK:                   'bg-emerald-100 text-emerald-700',
-  OFI:                  'bg-blue-100 text-blue-700',
-  Minor:                'bg-amber-100 text-amber-700',
-  Major:                'bg-red-100 text-red-600',
-  Critical:             'bg-red-900 text-white',
-  'Εκκρεμεί':          'bg-slate-100 text-slate-500',
-  'Δεν αξιολογήθηκε':  'bg-slate-100 text-slate-400',
+const SEV_BADGE: Record<string, { bg: string; text: string }> = {
+  OK:                   { bg: '#d1fae5', text: '#065f46' },
+  OFI:                  { bg: '#dbeafe', text: '#1d4ed8' },
+  Minor:                { bg: '#fef3c7', text: '#b45309' },
+  Major:                { bg: '#fee2e2', text: '#dc2626' },
+  Critical:             { bg: '#7f1d1d', text: '#ffffff' },
+  'Εκκρεμεί':          { bg: '#f1f5f9', text: '#64748b' },
+  'Δεν αξιολογήθηκε':  { bg: '#f1f5f9', text: '#94a3b8' },
 }
 
 export default function ClauseDetailScreen() {
@@ -28,7 +28,7 @@ export default function ClauseDetailScreen() {
   const router = useRouter()
   const clauseId = decodeURIComponent(id ?? '')
   const clause = getClause(clauseId)
-  const { clauses, setItemResult, setOverride, setComments, recomputeSummary } = useAuditStore()
+  const { clauses, setItemResult, setComments, recomputeSummary } = useAuditStore()
   const [showGuidance, setShowGuidance] = useState(false)
 
   if (!clause) {
@@ -44,7 +44,7 @@ export default function ClauseDetailScreen() {
 
   const st = clauses[clauseId]
   const ev = evalClause(clause, st)
-  const badgeCls = SEV_BADGE[ev.severity] ?? 'bg-slate-100 text-slate-500'
+  const badgeCls = SEV_BADGE[ev.severity] ?? { bg: '#f1f5f9', text: '#64748b' }
   const items = (clause.scored_checklist ?? []).filter(i => !i.non_assessable_header)
 
   const idx = allClauses.findIndex(c => c.clause === clauseId)
@@ -70,8 +70,8 @@ export default function ClauseDetailScreen() {
             <Text className="text-white font-bold text-sm">← Πίσω</Text>
           </TouchableOpacity>
           <Text className="text-teal-200 font-black text-base flex-1">{clause.clause}</Text>
-          <View className={`px-2.5 py-1 rounded-full ${badgeCls}`}>
-            <Text className="text-xs font-bold">{ev.severity}</Text>
+          <View className="px-2.5 py-1 rounded-full" style={{ backgroundColor: badgeCls.bg }}>
+            <Text className="text-xs font-bold" style={{ color: badgeCls.text }}>{ev.severity}</Text>
           </View>
         </View>
         <Text className="text-white font-bold text-sm leading-snug">{clause.title}</Text>

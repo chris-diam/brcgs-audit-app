@@ -5,13 +5,13 @@ import type { Clause, ClauseState } from '../core/types'
 import { evalClause } from '../core/scoring'
 
 const SEV_DOT: Record<string, string> = {
-  OK:                   'bg-emerald-500',
-  OFI:                  'bg-blue-500',
-  Minor:                'bg-amber-400',
-  Major:                'bg-red-500',
-  Critical:             'bg-red-900',
-  'Εκκρεμεί':          'bg-slate-300',
-  'Δεν αξιολογήθηκε':  'bg-slate-200',
+  OK:                   '#22c55e',
+  OFI:                  '#3b82f6',
+  Minor:                '#fbbf24',
+  Major:                '#ef4444',
+  Critical:             '#7f1d1d',
+  'Εκκρεμεί':          '#cbd5e1',
+  'Δεν αξιολογήθηκε':  '#e2e8f0',
 }
 
 interface Props {
@@ -22,7 +22,7 @@ interface Props {
 export default function ClauseListItem({ clause, state }: Props) {
   const router = useRouter()
   const ev = evalClause(clause, state)
-  const dotColor = SEV_DOT[ev.severity] ?? 'bg-slate-300'
+  const dotColor = SEV_DOT[ev.severity] ?? '#cbd5e1'
   const items = (clause.scored_checklist ?? []).filter(i => !i.non_assessable_header)
   const doneCount = Object.values(state?.results ?? {}).filter(Boolean).length
 
@@ -32,7 +32,7 @@ export default function ClauseListItem({ clause, state }: Props) {
       className="bg-white border border-slate-100 rounded-xl px-4 py-3 mb-2 flex-row items-center gap-3 shadow-sm"
       activeOpacity={0.7}
     >
-      <View className={`w-3 h-3 rounded-full ${dotColor}`} />
+      <View className="w-3 h-3 rounded-full" style={{ backgroundColor: dotColor }} />
       <View className="flex-1">
         <Text className="text-teal-700 font-bold text-sm">{clause.clause}</Text>
         <Text className="text-slate-800 text-sm font-medium" numberOfLines={1}>

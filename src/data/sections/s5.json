@@ -1,0 +1,2415 @@
+[
+  {
+    "clause": "5.1.1",
+    "section": "5. 1 Σχεδιασμός/ανάπτυξη προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Σχεδιασμός/ανάπτυξη προϊόντος",
+    "requirement_checklist": "Η εταιρεία πρέπει να διαθέτει διαδικασία για ανάπτυξη νέου προϊόντος και αλλαγές να υφιστάμενη προϊόν, συσκευασία και παραγωγή διεργασίες. Αυτό διαδικασία πρέπει να περιλαμβάνουν κάθε περιορισμοί να πεδίο εφαρμογής ανάπτυξη νέου προϊόντος να έλεγχος εισαγωγή κίνδυνοι που θα είναι μη αποδεκτό να εγκατάσταση ή πελάτες (π. χ. εισαγωγή αλλεργιογόνα, γυαλί συσκευασία, μικροβιολογικό κίνδυνοι ή εισαγωγή συστατικά ότι μπορεί να επηρεάζουν προϊόν ισχυρισμοί).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να διαθέτει διαδικασία για ανάπτυξη νέου προϊόντος και αλλαγές να υφιστάμενη προϊόν, συσκευασία και παραγωγή διεργασίες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό διαδικασία πρέπει να περιλαμβάνουν κάθε περιορισμοί να πεδίο εφαρμογής ανάπτυξη νέου προϊόντος να έλεγχος εισαγωγή κίνδυνοι που θα είναι μη αποδεκτό να εγκατάσταση ή πελάτες (π. χ. εισαγωγή αλλεργιογόνα, γυαλί συσκευασία, μικροβιολογικό κίνδυνοι ή εισαγωγή συστατικά ότι μπορεί να επηρεάζουν προϊόν ισχυρισμοί).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.1.2",
+    "section": "5. 1 Σχεδιασμός/ανάπτυξη προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Σχεδιασμός/ανάπτυξη προϊόντος",
+    "requirement_checklist": "Όλα νέα προϊόντα και αλλαγές να σύνθεση προϊόντος, συσκευασία ή μέθοδοι επεξεργασία πρέπει να είναι επίσημα εγκεκριμένο από HACCP ομάδα επικεφαλής ή εξουσιοδοτημένο HACCP ομάδα μέλος. Αυτό πρέπει να διασφαλίζει ότι κίνδυνοι έχουν αξιολογούνται και κατάλληλο έλεγχοι, εντοπισμένα μέσω HACCP σύστημα, είναι εφαρμοσμένο. Αυτό έγκριση πρέπει να είναι χορηγηθεί πριν προϊόντα είναι introduced στην εγκατάσταση περιβάλλον.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα νέα προϊόντα και αλλαγές να σύνθεση προϊόντος, συσκευασία ή μέθοδοι επεξεργασία πρέπει να είναι επίσημα εγκεκριμένο από HACCP ομάδα επικεφαλής ή εξουσιοδοτημένο HACCP ομάδα μέλος.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να διασφαλίζει ότι κίνδυνοι έχουν αξιολογούνται και κατάλληλο έλεγχοι, εντοπισμένα μέσω HACCP σύστημα, είναι εφαρμοσμένο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αυτό έγκριση πρέπει να είναι χορηγηθεί πριν προϊόντα είναι introduced στην εγκατάσταση περιβάλλον.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.1.3",
+    "section": "5. 1 Σχεδιασμός/ανάπτυξη προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Σχεδιασμός/ανάπτυξη προϊόντος",
+    "requirement_checklist": "Trials με χρήση παραγωγή εξοπλισμός πρέπει να είναι διενεργείται Όπου αυτό είναι απαραίτητο να επικυρώνει ότι σύνθεση προϊόντος και παραγωγή διεργασίες είναι ικανό producing ασφαλές προϊόν απαιτείται ποιότητα.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Trials με χρήση παραγωγή εξοπλισμός πρέπει να είναι διενεργείται Όπου αυτό είναι απαραίτητο να επικυρώνει ότι σύνθεση προϊόντος και παραγωγή διεργασίες είναι ικανό producing ασφαλές προϊόν απαιτείται ποιότητα.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.1.4",
+    "section": "5. 1 Σχεδιασμός/ανάπτυξη προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Σχεδιασμός/ανάπτυξη προϊόντος",
+    "requirement_checklist": "Αρχική διάρκεια ζωής trials πρέπει να είναι εκτελούνται με χρήση τεκμηριωμένο protocols ότι αντικατοπτρίζουν συνθήκες expected κατά τη διάρκεια παραγωγή, αποθήκευση, μεταφορά/διανομή, χρήση και χειρισμός να καθορίζουν προϊόν διάρκεια ζωής. αποτελέσματα πρέπει να είναι καταγράφεται και διατηρείται και πρέπει να επιβεβαιώνει συμμόρφωση με σχετικές μικροβιολογικό, χημικό και organoleptic κριτήρια ή sensory ανάλυση. Όπου διάρκεια ζωής trials πριν να παραγωγή είναι impractical, για περίπτωση για some long-life προϊόντα, τεκμηριωμένο science-βασισμένο αιτιολόγηση για assigned διάρκεια ζωής πρέπει να είναι παραγόμενο.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Αρχική διάρκεια ζωής trials πρέπει να είναι εκτελούνται με χρήση τεκμηριωμένο protocols ότι αντικατοπτρίζουν συνθήκες expected κατά τη διάρκεια παραγωγή, αποθήκευση, μεταφορά/διανομή, χρήση και χειρισμός να καθορίζουν προϊόν διάρκεια ζωής.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αποτελέσματα πρέπει να είναι καταγράφεται και διατηρείται και πρέπει να επιβεβαιώνει συμμόρφωση με σχετικές μικροβιολογικό, χημικό και organoleptic κριτήρια ή sensory ανάλυση. Όπου διάρκεια ζωής trials πριν να παραγωγή είναι impractical, για περίπτωση για some long-life προϊόντα, τεκμηριωμένο science-βασισμένο αιτιολόγηση για assigned διάρκεια ζωής πρέπει να είναι παραγόμενο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.2.1",
+    "section": "5. 2 Επισήμανση προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επισήμανση προϊόντος",
+    "requirement_checklist": "Όλα προϊόντα πρέπει να είναι επισημασμένα να πληρούν νομικές απαιτήσεις για καθορισμένο χώρα χρήση και πρέπει να περιλαμβάνουν πληροφορίες να επιτρέπουν ασφαλές χειρισμός, display, αποθήκευση, προετοιμασία και χρήση προϊόν εντός τρόφιμα παροχή αλυσίδα ή από πελάτης. Πρέπει να υπάρχει διεργασία να επαληθεύει ότι συστατικό και αλλεργιογόνο επισήμανση είναι σωστό βάσει προϊόν συνταγή και συστατικό Προδιαγραφές. Η εταιρεία πρέπει να διαθέτει διαδικασία για έγκριση μακέτας και sign-εκτός.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όλα προϊόντα πρέπει να είναι επισημασμένα να πληρούν νομικές απαιτήσεις για καθορισμένο χώρα χρήση και πρέπει να περιλαμβάνουν πληροφορίες να επιτρέπουν ασφαλές χειρισμός, display, αποθήκευση, προετοιμασία και χρήση προϊόν εντός τρόφιμα παροχή αλυσίδα ή από πελάτης.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Πρέπει να υπάρχει διεργασία να επαληθεύει ότι συστατικό και αλλεργιογόνο επισήμανση είναι σωστό βάσει προϊόν συνταγή και συστατικό Προδιαγραφές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η εταιρεία πρέπει να διαθέτει διαδικασία για έγκριση μακέτας και sign-εκτός.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.2.2",
+    "section": "5. 2 Επισήμανση προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επισήμανση προϊόντος",
+    "requirement_checklist": "Πρέπει να υπάρχει αποτελεσματικές διεργασίες σε εφαρμογή ώστε να διασφαλίζεται ότι ότι επισήμανση πληροφορίες είναι ανασκοπείται όποτε αλλαγές εμφανιστεί να: προϊόν συνταγή πρώτες ύλες προμηθευτής πρώτες ύλες χώρα προέλευσης πρώτες ύλες νομοθεσία.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πρέπει να υπάρχει αποτελεσματικές διεργασίες σε εφαρμογή ώστε να διασφαλίζεται ότι ότι επισήμανση πληροφορίες είναι ανασκοπείται όποτε αλλαγές εμφανιστεί να: προϊόν συνταγή",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Πρώτες ύλες προμηθευτής πρώτες ύλες χώρα προέλευσης πρώτες ύλες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Νομοθεσία.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.2.3",
+    "section": "5. 2 Επισήμανση προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επισήμανση προϊόντος",
+    "requirement_checklist": "Όπου ετικέτα πληροφορίες είναι ευθύνη πελάτης ή ορισμένα δεύτερο ή τρίτου μέρους, Η εταιρεία πρέπει να παρέχει πληροφορίες: να επιτρέπουν ετικέτα να είναι accurately created όποτε αλλαγή συμβαίνει που μπορεί να επηρεάζουν ετικέτα πληροφορίες.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου ετικέτα πληροφορίες είναι ευθύνη πελάτης ή ορισμένα δεύτερο ή τρίτου μέρους, Η εταιρεία πρέπει να παρέχει πληροφορίες",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Να επιτρέπουν ετικέτα να είναι accurately created",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Όποτε αλλαγή συμβαίνει που μπορεί να επηρεάζουν ετικέτα πληροφορίες.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.2.4",
+    "section": "5. 2 Επισήμανση προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επισήμανση προϊόντος",
+    "requirement_checklist": "Όπου cooking οδηγίες είναι παρέχεται ώστε να διασφαλίζεται ότι ασφάλεια προϊόντος, αυτά πρέπει να είναι πλήρως επικυρωμένο ώστε να διασφαλίζεται ότι ότι, όταν προϊόν είναι cooked σύμφωνα να οδηγίες, ασφαλές, ready-να-eat προϊόν είναι με συνέπεια παραγόμενο.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου cooking οδηγίες είναι παρέχεται ώστε να διασφαλίζεται ότι ασφάλεια προϊόντος, αυτά πρέπει να είναι πλήρως επικυρωμένο ώστε να διασφαλίζεται ότι ότι, όταν προϊόν είναι cooked σύμφωνα να οδηγίες, ασφαλές, ready-να-eat προϊόν είναι με συνέπεια παραγόμενο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.1",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να φέρουν αξιολόγηση πρώτες ύλες να καθορίζει presence και likelihood επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνα. Αυτό πρέπει να περιλαμβάνει ανασκόπηση πρώτη ύλη Προδιαγραφές και, Όπου απαιτείται, acquisition πρόσθετα πληροφορίες από προμηθευτές (π. χ. μέσω ερωτηματολόγια να κατανοούν αλλεργιογόνο profile πρώτη ύλη, της συστατικά και εγκατάσταση σε που αυτό είναι παραγόμενο).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να φέρουν αξιολόγηση πρώτες ύλες να καθορίζει presence και likelihood επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να περιλαμβάνει ανασκόπηση πρώτη ύλη Προδιαγραφές και, Όπου απαιτείται, acquisition πρόσθετα πληροφορίες από προμηθευτές (π. χ. μέσω ερωτηματολόγια να κατανοούν αλλεργιογόνο profile πρώτη ύλη, της συστατικά και εγκατάσταση σε που αυτό είναι παραγόμενο).",
+        "weight": 4,
+        "weight_label": "Οδηγός ενότητας",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.2",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Η εταιρεία πρέπει να εντοπίζουν και λίστα αλλεργιογόνο-που περιέχει υλικά χειριζόμενα στην εγκατάσταση. Αυτό πρέπει να περιλαμβάνει πρώτες ύλες, επεξεργασία aids, ενδιάμεσο και τελικά προϊόντα, και κάθε ανάπτυξη νέου προϊόντος συστατικά ή προϊόντα.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να εντοπίζουν και λίστα αλλεργιογόνο-που περιέχει υλικά χειριζόμενα στην εγκατάσταση.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.3",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Τεκμηριωμένη αξιολόγηση κινδύνου πρέπει να είναι διενεργείται να εντοπίζουν διαδρομές επιμόλυνση (διασταυρούμενη επαφή) και καθορίζει τεκμηριωμένο πολιτικές, και διαδικασίες για χειρισμός πρώτες ύλες και ενδιάμεσο και τελικά προϊόντα, ώστε να διασφαλίζεται ότι διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) είναι αποφυγήed. Αυτό αξιολόγηση πρέπει να περιλαμβάνουν: εξέταση φυσικό state αλλεργιογόνο υλικό (π. χ. powder, liquid, particulate) ταυτοποίηση πιθανό σημεία διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) μέσω ροή διεργασίας αξιολόγηση κίνδυνος αλλεργιογόνο διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) σε κάθε διεργασία βήμα ταυτοποίηση κατάλληλο έλεγχοι να μειώνουν ή εξαλείφουν κίνδυνος διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τεκμηριωμένη αξιολόγηση κινδύνου πρέπει να είναι διενεργείται να εντοπίζουν διαδρομές επιμόλυνση (διασταυρούμενη επαφή) και καθορίζει τεκμηριωμένο πολιτικές, και διαδικασίες για χειρισμός πρώτες ύλες και ενδιάμεσο και τελικά προϊόντα, ώστε να διασφαλίζεται ότι διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) είναι αποφυγήed.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό αξιολόγηση πρέπει να περιλαμβάνουν",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Εξέταση φυσικό state αλλεργιογόνο υλικό (π. χ. powder, liquid, particulate)",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Ταυτοποίηση πιθανό σημεία διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) μέσω ροή διεργασίας",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Αξιολόγηση κίνδυνος αλλεργιογόνο διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) σε κάθε διεργασία βήμα",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Ταυτοποίηση κατάλληλο έλεγχοι να μειώνουν ή εξαλείφουν κίνδυνος διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή).",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.4",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Οι διαδικασίες πρέπει να είναι καθιερωμένο ώστε να διασφαλίζεται ότι αποτελεσματικές διοίκηση αλλεργιογόνο υλικά για την πρόληψη διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) προϊόντα δεν που περιέχει αλλεργιογόνο. Αυτά πρέπει να περιλαμβάνουν, Όπου αρμόζει: φυσικό ή χρόνος διαχωρισμός while αλλεργιογόνο-που περιέχει υλικά είναι είναι αποθηκευμένα, επεξεργασμένο ή συσκευασμένα χρήση χωριστό ή πρόσθετα protective overενδυμασία όταν χειρισμός αλλεργιογόνο υλικά χρήση εντοπισμένα, αποκλειστικός εξοπλισμός και utensils για επεξεργασία scheduling παραγωγή να μειώνουν αλλαγές μεταξύ προϊόντα που περιέχει αλλεργιογόνο και προϊόντα δεν που περιέχει αλλεργιογόνο συστήματα να restrict μετακίνηση airborne dust που περιέχει αλλεργιογόνο υλικό απόβλητα χειρισμός και spillage έλεγχοι περιορισμοί σε τρόφιμα μεταφέρονται onto εγκατάσταση από προσωπικό, επισκέπτες και εργολάβοι και για εστίαση σκοπούς.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι διαδικασίες πρέπει να είναι καθιερωμένο ώστε να διασφαλίζεται ότι αποτελεσματικές διοίκηση αλλεργιογόνο υλικά για την πρόληψη διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) προϊόντα δεν που περιέχει αλλεργιογόνο. Αυτά πρέπει να περιλαμβάνουν, Όπου αρμόζει",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Φυσικό ή χρόνος διαχωρισμός while αλλεργιογόνο-που περιέχει υλικά είναι είναι αποθηκευμένα, επεξεργασμένο ή συσκευασμένα χρήση χωριστό ή πρόσθετα protective overενδυμασία όταν χειρισμός αλλεργιογόνο υλικά",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Χρήση εντοπισμένα, αποκλειστικός εξοπλισμός και utensils για επεξεργασία",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Scheduling παραγωγή να μειώνουν αλλαγές μεταξύ προϊόντα που περιέχει αλλεργιογόνο και προϊόντα δεν που περιέχει αλλεργιογόνο",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Συστήματα να restrict μετακίνηση airborne dust που περιέχει αλλεργιογόνο υλικό",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Απόβλητα χειρισμός και spillage έλεγχοι",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Περιορισμοί σε τρόφιμα μεταφέρονται onto εγκατάσταση από προσωπικό, επισκέπτες και εργολάβοι και για εστίαση σκοπούς.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.5",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Όπου επανεπεξεργασία είναι χρησιμοποιείται, ή επανεπεξεργασίαing λειτουργίες είναι διενεργείται, Οι διαδικασίες πρέπει να είναι εφαρμοσμένο ώστε να διασφαλίζεται ότι επανεπεξεργασία που περιέχει αλλεργιογόνα είναι δεν χρησιμοποιείται σε προϊόντα ότι κάνουν δεν already περιέχουν αλλεργιογόνο.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου επανεπεξεργασία είναι χρησιμοποιείται, ή επανεπεξεργασίαing λειτουργίες είναι διενεργείται, Οι διαδικασίες πρέπει να είναι εφαρμοσμένο ώστε να διασφαλίζεται ότι επανεπεξεργασία που περιέχει αλλεργιογόνα είναι δεν χρησιμοποιείται σε προϊόντα ότι κάνουν δεν already περιέχουν αλλεργιογόνο.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.6",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Όπου justified, κίνδυνος-βασισμένο αξιολόγηση demonstrates ότι φύση παραγωγή διεργασία είναι όπως ότι διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνο δεν μπορούν είναι prevented, warning θα πρέπει να είναι included σε ετικέτα. νομοθεσία, εθνικό guideγραμμήs ή κώδικες πρακτικής πρέπει να είναι χρησιμοποιείται όταν making όπως warning statement.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου justified, κίνδυνος-βασισμένο αξιολόγηση demonstrates ότι φύση παραγωγή διεργασία είναι όπως ότι διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνο δεν μπορούν είναι prevented, warning θα πρέπει να είναι included σε ετικέτα. νομοθεσία, εθνικό guideγραμμήs ή κώδικες πρακτικής πρέπει να είναι χρησιμοποιείται όταν making όπως warning statement.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.7",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Όπου ισχυρισμός είναι κατασκευασμένο regarding καταλληλότητα τρόφιμα για individuals με τρόφιμα allergy ή τρόφιμα ευαισθησία (sometimes referred να ως ‘τρόφιμα hyper-ευαισθησία’), Η εγκατάσταση πρέπει να διασφαλίζει ότι παραγωγή διεργασία είναι πλήρως επικυρωμένο να πληρούν δηλώνεται ισχυρισμός και αποτελεσματικότητα διεργασία είναι συστηματικά επαληθεύεται. Αυτό πρέπει να τεκμηριώνεται.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου ισχυρισμός είναι κατασκευασμένο regarding καταλληλότητα τρόφιμα για individuals με τρόφιμα allergy ή τρόφιμα ευαισθησία (sometimes referred να ως ‘τρόφιμα hyper-ευαισθησία’), Η εγκατάσταση πρέπει να διασφαλίζει ότι παραγωγή διεργασία είναι πλήρως επικυρωμένο να πληρούν δηλώνεται ισχυρισμός και αποτελεσματικότητα διεργασία είναι συστηματικά επαληθεύεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να τεκμηριώνεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.3.8",
+    "section": "5. 3 Διαχείριση αλλεργιογόνων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Διαχείριση αλλεργιογόνων",
+    "requirement_checklist": "Εξοπλισμός ή περιοχή-καθαρισμός Οι διαδικασίες πρέπει να είναι σχεδιασμένα να απομακρύνουν ή μειώνουν να αποδεκτό επίπεδα κάθε πιθανό διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνα. καθαρισμός μέθοδοι πρέπει να είναι επικυρωμένο ώστε να διασφαλίζεται ότι ότι αυτά είναι αποτελεσματικές και αποτελεσματικότητα διαδικασία συστηματικά επαληθεύεται. καθαρισμός εξοπλισμός χρησιμοποιείται να καθαρό αλλεργιογόνο υλικά πρέπει να είτε είναι: identifiable και συγκεκριμένες για αλλεργιογόνο χρήση single χρήση αποτελεσματικά καθαρισμένα μετά χρήση.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Εξοπλισμός ή περιοχή-καθαρισμός Οι διαδικασίες πρέπει να είναι σχεδιασμένα να απομακρύνουν ή μειώνουν να αποδεκτό επίπεδα κάθε πιθανό διασταυρούμενη επιμόλυνση (διασταυρούμενη επαφή) από αλλεργιογόνα. καθαρισμός μέθοδοι πρέπει να είναι επικυρωμένο ώστε να διασφαλίζεται ότι ότι αυτά είναι αποτελεσματικές και αποτελεσματικότητα διαδικασία συστηματικά επαληθεύεται. καθαρισμός εξοπλισμός χρησιμοποιείται να καθαρό αλλεργιογόνο υλικά πρέπει να είτε είναι",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Identifiable και συγκεκριμένες για αλλεργιογόνο χρήση",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Single χρήση",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Αποτελεσματικά καθαρισμένα μετά χρήση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.1",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Όπου Προσωπικό είναι απασχολούμενα σε ευαλωτότητα αξιολογήσεις, μεμονωμένο ή ομάδα υπεύθυνος πρέπει να κατανοούν πιθανό νοθεία τροφίμων κίνδυνοι. Αυτό πρέπει να περιλαμβάνει γνώση πρώτες ύλες χρησιμοποιείται από εγκατάσταση και Αρχήs αξιολόγηση ευπάθειας.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου Προσωπικό είναι απασχολούμενα σε ευαλωτότητα αξιολογήσεις, μεμονωμένο ή ομάδα υπεύθυνος πρέπει να κατανοούν πιθανό νοθεία τροφίμων κίνδυνοι.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.2",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Η εταιρεία πρέπει να διαθέτει διεργασίες σε εφαρμογή να πρόσβαση πληροφορίες σε historical και developing απειλήs να παροχή αλυσίδα που μπορεί να παρόντες κίνδυνος νοθεία ή υποκατάσταση πρώτες ύλες (δηλ. απάτηulent πρώτες ύλες). όπως πληροφορίες μπορεί να come από, για παράδειγμα: trade associations government πηγές private resource centres δραστηριότητες ολοκληρωμένα για Παράγραφος 1. 1. 8.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να διαθέτει διεργασίες σε εφαρμογή να πρόσβαση πληροφορίες σε historical και developing απειλήs να παροχή αλυσίδα που μπορεί να παρόντες κίνδυνος νοθεία ή υποκατάσταση πρώτες ύλες (δηλ. απάτηulent πρώτες ύλες). όπως πληροφορίες μπορεί να come από, για παράδειγμα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Trade associations",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Government πηγές",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Private resource centres",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Δραστηριότητες ολοκληρωμένα για Παράγραφος 1. 1. 8.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.3",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Τεκμηριωμένο αξιολόγηση ευπάθειας πρέπει να είναι διενεργείται σε όλα τρόφιμα πρώτες ύλες ή groups πρώτες ύλες να αξιολογούν πιθανό κίνδυνος νοθεία ή υποκατάσταση. Αυτό πρέπει να λαμβάνει σε υπόψη: historical τεκμήρια υποκατάσταση ή νοθεία economic παράγοντες που μπορεί να κάνουν νοθεία ή υποκατάσταση περισσότερα attractive ease πρόσβαση να πρώτες ύλες μέσω παροχή αλυσίδα sophistication ρουτίνας δοκιμές να εντοπίζουν adulterants φύση πρώτη ύλη. output από αυτό αξιολόγηση πρέπει να τεκμηριώνεται αξιολόγηση ευπάθειας σχέδιο. Αυτό σχέδιο πρέπει να είναι τηρούνται υπό ανασκόπηση να αντικατοπτρίζουν αλλαγή economic περιστάσεις και market intelligence που μπορεί να alter πιθανοί κίνδυνοι. Αυτό πρέπει να είναι ανασκοπείται ετησίως και όποτε εκεί είναι: αλλαγή σε πρώτες ύλες ή προμηθευτής πρώτες ύλες εμφάνιση νέα κίνδυνος (π. χ. γνωστό νοθεία συστατικό ή εξελίξεις σε επιστημονικά πληροφορίες σχετιζόμενοι με αυθεντικότητα εγκατάσταση’s προϊόντα ή πρώτες ύλες, για παράδειγμα, πληροφορίες λαμβάνεται ως μέρος Παράγραφος 1. 1. 8) ακόλουθα σημαντικό ασφάλεια προϊόντος περιστατικό (π. χ. ανάκληση προϊόντος) Όπου αυθεντικότητα εγκατάσταση’s προϊόντα ή πρώτες ύλες είναι εμπλεκόμενα.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τεκμηριωμένο αξιολόγηση ευπάθειας πρέπει να είναι διενεργείται σε όλα τρόφιμα πρώτες ύλες ή groups πρώτες ύλες να αξιολογούν πιθανό κίνδυνος νοθεία ή υποκατάσταση. Αυτό πρέπει να λαμβάνει σε υπόψη",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Historical τεκμήρια υποκατάσταση ή νοθεία",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Economic παράγοντες που μπορεί να κάνουν νοθεία ή υποκατάσταση περισσότερα attractive",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Ease πρόσβαση να πρώτες ύλες μέσω παροχή αλυσίδα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Sophistication ρουτίνας δοκιμές να εντοπίζουν adulterants φύση πρώτη ύλη. output από αυτό αξιολόγηση πρέπει να τεκμηριώνεται αξιολόγηση ευπάθειας σχέδιο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Αυτό σχέδιο πρέπει να είναι τηρούνται υπό ανασκόπηση να αντικατοπτρίζουν αλλαγή economic περιστάσεις και market intelligence που μπορεί να alter πιθανοί κίνδυνοι. Αυτό πρέπει να είναι ανασκοπείται ετησίως και όποτε εκεί είναι: αλλαγή σε πρώτες ύλες ή προμηθευτής πρώτες ύλες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Εμφάνιση νέα κίνδυνος (π. χ. γνωστό νοθεία συστατικό ή εξελίξεις σε επιστημονικά πληροφορίες σχετιζόμενοι με αυθεντικότητα εγκατάσταση’s προϊόντα ή πρώτες ύλες, για παράδειγμα, πληροφορίες λαμβάνεται ως μέρος Παράγραφος 1. 1. 8)",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Ακόλουθα σημαντικό ασφάλεια προϊόντος περιστατικό (π. χ. ανάκληση προϊόντος) Όπου αυθεντικότητα εγκατάσταση’s προϊόντα ή πρώτες ύλες είναι εμπλεκόμενα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.4",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Όπου πρώτες ύλες είναι εντοπισμένα ως είναι σε συγκεκριμένο κίνδυνος νοθεία ή υποκατάσταση, αξιολόγηση ευπάθειας σχέδιο πρέπει να περιλαμβάνουν κατάλληλο assurance και/ή δοκιμές διεργασίες να μετριάζουν εντοπισμένα κίνδυνοι.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου πρώτες ύλες είναι εντοπισμένα ως είναι σε συγκεκριμένο κίνδυνος νοθεία ή υποκατάσταση, αξιολόγηση ευπάθειας σχέδιο πρέπει να περιλαμβάνουν κατάλληλο assurance και/ή δοκιμές διεργασίες να μετριάζουν εντοπισμένα κίνδυνοι.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.5",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Όπου προϊόντα είναι επισημασμένα ή ισχυρισμοί είναι κατασκευασμένο σε τελικά συσκευασίες που είναι dependent σε κατάσταση πρώτη ύλη, κατάσταση κάθε παρτίδα πρώτη ύλη πρέπει να είναι επαληθεύεται. Αυτά ισχυρισμοί περιλαμβάνουν: συγκεκριμένες προέλευση ή καταγωγή/προέλευση breed/varietal ισχυρισμοί assured κατάσταση (π. χ. GLOBALG. . P. ) genetically τροποποιημένο organism (ΓΤΟ) κατάσταση ταυτότητα preserved named συγκεκριμένες εμπορικά σήματα συστατικά. εγκατάσταση πρέπει να διατηρεί purchasing αρχεία, Ιχνηλασιμότητα πρώτη ύλη χρήσης και τελικό προϊόν συσκευασία αρχεία να substantiate ισχυρισμοί. Η εγκατάσταση πρέπει να διενεργούν τεκμηριωμένο ισοζύγιο μάζας δοκιμές σε συχνότητα να πληρούν συγκεκριμένο Απαιτήσεις κάθε scheme αυτό είναι πιστοποιημένη να, ή σε absence scheme-συγκεκριμένες απαίτηση, τουλάχιστον ένα ισοζύγιο μάζας δοκιμή κάθε 6 months.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου προϊόντα είναι επισημασμένα ή ισχυρισμοί είναι κατασκευασμένο σε τελικά συσκευασίες που είναι dependent σε κατάσταση πρώτη ύλη, κατάσταση κάθε παρτίδα πρώτη ύλη πρέπει να είναι επαληθεύεται. Αυτά ισχυρισμοί περιλαμβάνουν",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Συγκεκριμένες προέλευση ή καταγωγή/προέλευση",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Breed/varietal ισχυρισμοί",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Assured κατάσταση (π. χ. GLOBALG. . P. )",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Genetically τροποποιημένο organism (ΓΤΟ) κατάσταση",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Ταυτότητα preserved",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Named συγκεκριμένες εμπορικά σήματα συστατικά. εγκατάσταση πρέπει να διατηρεί purchasing αρχεία, Ιχνηλασιμότητα πρώτη ύλη χρήσης και τελικό προϊόν συσκευασία αρχεία να substantiate ισχυρισμοί.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Η εγκατάσταση πρέπει να διενεργούν τεκμηριωμένο ισοζύγιο μάζας δοκιμές σε συχνότητα να πληρούν συγκεκριμένο Απαιτήσεις κάθε scheme αυτό είναι πιστοποιημένη να, ή σε absence scheme-συγκεκριμένες απαίτηση, τουλάχιστον ένα ισοζύγιο μάζας δοκιμή κάθε 6 months.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.6",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Όπου ισχυρισμοί είναι κατασκευασμένο about μέθοδοι παραγωγή (π. χ. βιολογικό, halal, kosher), Η εγκατάσταση πρέπει να διατηρεί απαραίτητο πιστοποίηση κατάσταση σε σειρά να κάνουν όπως ισχυρισμός.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου ισχυρισμοί είναι κατασκευασμένο about μέθοδοι παραγωγή (π. χ. βιολογικό, halal, kosher), Η εγκατάσταση πρέπει να διατηρεί απαραίτητο πιστοποίηση κατάσταση σε σειρά να κάνουν όπως ισχυρισμός.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.4.7",
+    "section": "5. 4 Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αυθεντικότητα προϊόντος, ισχυρισμοί και αλυσίδα φύλαξης",
+    "requirement_checklist": "Όπου προϊόν είναι σχεδιασμένο να επιτρέπουν ισχυρισμός να είναι κατασκευασμένο, Η εταιρεία πρέπει να διασφαλίζει ότι όλα ισχυρισμοί είναι substantiated, και σύνθεση προϊόντος και παραγωγή διεργασία είναι πλήρως επικυρωμένο να πληρούν δηλώνεται ισχυρισμός και κάθε νομικές απαιτήσεις (σε χώρα προβλεπόμενο sale) που σχετίζονται με να ισχυρισμός. ροή διεργασίας (βλ. Παράγραφο 2. 5. 1) για παραγωγή προϊόντα Όπου ισχυρισμοί είναι κατασκευασμένο πρέπει να τεκμηριώνεται και πιθανό περιοχές για επιμόλυνση ή απώλεια ταυτότητα εντοπισμένα. κατάλληλο έλεγχοι πρέπει να είναι καθιερωμένο ώστε να διασφαλίζεται ότι ακεραιότητα προϊόν ισχυρισμοί.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου προϊόν είναι σχεδιασμένο να επιτρέπουν ισχυρισμός να είναι κατασκευασμένο, Η εταιρεία πρέπει να διασφαλίζει ότι όλα ισχυρισμοί είναι substantiated, και σύνθεση προϊόντος και παραγωγή διεργασία είναι πλήρως επικυρωμένο να πληρούν δηλώνεται ισχυρισμός και κάθε νομικές απαιτήσεις (σε χώρα προβλεπόμενο sale) που σχετίζονται με να ισχυρισμός. ροή διεργασίας (βλ. Παράγραφο 2. 5. 1) για παραγωγή προϊόντα Όπου ισχυρισμοί είναι κατασκευασμένο πρέπει να τεκμηριώνεται και πιθανό περιοχές για επιμόλυνση ή απώλεια ταυτότητα εντοπισμένα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Κατάλληλο έλεγχοι πρέπει να είναι καθιερωμένο ώστε να διασφαλίζεται ότι ακεραιότητα προϊόν ισχυρισμοί.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.5.1",
+    "section": "5. 5 Συσκευασία προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Συσκευασία προϊόντος",
+    "requirement_checklist": "Όταν purchasing ή specifying πρωτογενής συσκευασία, προμηθευτής υλικά συσκευασίας πρέπει να είναι κατασκευασμένο ενημερωμένο κάθε συγκεκριμένο characteristics τρόφιμα ή υφιστάμενη συσκευασία (π. χ. high fat content, pH, χρήσης συνθήκες όπως microwaving, άλλες συσκευασία χρησιμοποιείται σε προϊόν, χρήση recyclable ή reusable υλικά συσκευασίας) που μπορεί να επηρεάζουν συσκευασία καταλληλότητα. Certificates συμμόρφωση ή άλλες τεκμήρια πρέπει να είναι διαθέσιμο για πρωτογενής συσκευασία να επιβεβαιώνει αυτό complies με εφαρμόσιμο ασφάλειας τροφίμων νομοθεσία και είναι κατάλληλο για της προβλεπόμενη χρήση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όταν purchasing ή specifying πρωτογενής συσκευασία, προμηθευτής υλικά συσκευασίας πρέπει να είναι κατασκευασμένο ενημερωμένο κάθε συγκεκριμένο characteristics τρόφιμα ή υφιστάμενη συσκευασία (π. χ. high fat content, pH, χρήσης συνθήκες όπως microwaving, άλλες συσκευασία χρησιμοποιείται σε προϊόν, χρήση recyclable ή reusable υλικά συσκευασίας) που μπορεί να επηρεάζουν συσκευασία καταλληλότητα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Certificates συμμόρφωση ή άλλες τεκμήρια πρέπει να είναι διαθέσιμο για πρωτογενής συσκευασία να επιβεβαιώνει αυτό complies με εφαρμόσιμο ασφάλειας τροφίμων νομοθεσία και είναι κατάλληλο για της προβλεπόμενη χρήση.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.5.2",
+    "section": "5. 5 Συσκευασία προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Συσκευασία προϊόντος",
+    "requirement_checklist": "Προϊόν γραμμήrs και bags αγορασμένα από εταιρεία για χρήση σε άμεσο επαφής με συστατικά, ή εργασία σε διεργασία, πρέπει να είναι κατάλληλα coloured (π. χ. contrasting χρώμα να προϊόν) και resistant να tearing για την πρόληψη τυχαία επιμόλυνση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Προϊόν γραμμήrs και bags αγορασμένα από εταιρεία για χρήση σε άμεσο επαφής με συστατικά, ή εργασία σε διεργασία, πρέπει να είναι κατάλληλα coloured (π. χ. contrasting χρώμα να προϊόν) και resistant να tearing για την πρόληψη τυχαία επιμόλυνση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.5.3",
+    "section": "5. 5 Συσκευασία προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Συσκευασία προϊόντος",
+    "requirement_checklist": "Η εταιρεία πρέπει να διαθέτει διαδικασία να διαχειρίζεται παρωχημένα συσκευασία (συμπεριλαμβανομένων ετικέτες). Αυτό πρέπει να περιλαμβάνει: μηχανισμοί για την πρόληψη τυχαία χρήση παρωχημένα συσκευασία έλεγχος και απόρριψη παρωχημένα συσκευασία κατάλληλο διαδικασίες για απόρριψη παρωχημένα εκτυπωμένο υλικά (π. χ. rendering εμπορικά σήματα υλικά unusable).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να διαθέτει διαδικασία να διαχειρίζεται παρωχημένα συσκευασία (συμπεριλαμβανομένων ετικέτες).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Μηχανισμοί για την πρόληψη τυχαία χρήση παρωχημένα συσκευασία",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Έλεγχος και απόρριψη παρωχημένα συσκευασία",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Κατάλληλο διαδικασίες για απόρριψη παρωχημένα εκτυπωμένο υλικά (π. χ. rendering εμπορικά σήματα υλικά unusable).",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.1",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Πρέπει να υπάρχει προγραμματισμένα πρόγραμμα προϊόν δοκιμές που μπορεί να περιλαμβάνουν μικροβιολογικό, χημικό, φυσικό και organoleptic δοκιμές σύμφωνα να κίνδυνος. μέθοδοι, διεργασίες για obtaining προϊόν δείγματα (συμπεριλαμβανομένων, Όπου αρμόζει, τους παράδοση να εργαστήριο), συχνότητα και καθορισμένο όρια πρέπει να τεκμηριώνεται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πρέπει να υπάρχει προγραμματισμένα πρόγραμμα προϊόν δοκιμές που μπορεί να περιλαμβάνουν μικροβιολογικό, χημικό, φυσικό και organoleptic δοκιμές σύμφωνα να κίνδυνος. μέθοδοι, διεργασίες για obtaining προϊόν δείγματα (συμπεριλαμβανομένων, Όπου αρμόζει, τους παράδοση να εργαστήριο), συχνότητα και καθορισμένο όρια πρέπει να τεκμηριώνεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.2",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Δοκιμή και επιθεώρηση αποτελέσματα πρέπει να είναι καταγράφεται και ανασκοπείται τακτικά να εντοπίζουν τάσεις. σημαντικότητα σε-εγκατάσταση και εργαστήριο αποτελέσματα πρέπει να είναι κατανοητό και acted κατά ανάλογα. κατάλληλο ενέργειες πρέπει να είναι εφαρμοσμένο άμεσα να αντιμετωπίζουν κάθε unsatisεργοστάσιο αποτελέσματα ή τάσεις. Όπου νόμιμο όρια apply, αυτά πρέπει να είναι κατανοητό και κατάλληλο ενέργεια λαμβάνονται άμεσα να αντιμετωπίζουν κάθε exceedance αυτά όρια. Όπου εφαρμόζεται, μέτρηση uncertainty σχετιζόμενοι με εργαστήριο δοκιμή αποτελέσματα πρέπει να είναι εξετάζονται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Δοκιμή και επιθεώρηση αποτελέσματα πρέπει να είναι καταγράφεται και ανασκοπείται τακτικά να εντοπίζουν τάσεις. σημαντικότητα σε-εγκατάσταση και εργαστήριο αποτελέσματα πρέπει να είναι κατανοητό και acted κατά ανάλογα. κατάλληλο ενέργειες πρέπει να είναι εφαρμοσμένο άμεσα να αντιμετωπίζουν κάθε unsatisεργοστάσιο αποτελέσματα ή τάσεις.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Όπου νόμιμο όρια apply, αυτά πρέπει να είναι κατανοητό και κατάλληλο ενέργεια λαμβάνονται άμεσα να αντιμετωπίζουν κάθε exceedance αυτά όρια.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Όπου εφαρμόζεται, μέτρηση uncertainty σχετιζόμενοι με εργαστήριο δοκιμή αποτελέσματα πρέπει να είναι εξετάζονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.3",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να διασφαλίζει ότι σύστημα επικύρωση και συνεχής επαλήθευση διάρκεια ζωής είναι σε εφαρμογή. Αυτό πρέπει να είναι βάσει κινδύνου και πρέπει να περιλαμβάνουν sensory ανάλυση και, ως εφαρμόσιμο, μικροβιολογικό δοκιμές και σχετικές χημικό παράγοντες όπως pH και aw. αρχεία και αποτελέσματα από διάρκεια ζωής δοκιμές πρέπει να επαληθεύει διάρκεια ζωής περίοδος indicated σε προϊόν.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να διασφαλίζει ότι σύστημα επικύρωση και συνεχής επαλήθευση διάρκεια ζωής είναι σε εφαρμογή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτό πρέπει να είναι βάσει κινδύνου και πρέπει να περιλαμβάνουν sensory ανάλυση και, ως εφαρμόσιμο, μικροβιολογικό δοκιμές και σχετικές χημικό παράγοντες όπως pH και aw. αρχεία και αποτελέσματα από διάρκεια ζωής δοκιμές πρέπει να επαληθεύει διάρκεια ζωής περίοδος indicated σε προϊόν.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.4",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Pathogen δοκιμές (συμπεριλαμβανομένων παθογόνα δοκιμασμένο ως μέρος εγκατάσταση’s Περιβαλλοντική παρακολούθηση πρόγραμμα) πρέπει να είναι subσυμβατικά ορισμένο να εξωτερική εργαστήριο ή, Όπου conducted εσωτερικόly, εργαστήριο εγκατάσταση πρέπει να είναι πλήρως διαχωρισμένα από παραγωγή και χώροι αποθήκευσης και έχουν λειτουργίας διαδικασίες για την πρόληψη κάθε κίνδυνος επιμόλυνση προϊόντα ή χώροι παραγωγής.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Pathogen δοκιμές (συμπεριλαμβανομένων παθογόνα δοκιμασμένο ως μέρος εγκατάσταση’s Περιβαλλοντική παρακολούθηση πρόγραμμα) πρέπει να είναι subσυμβατικά ορισμένο να εξωτερική εργαστήριο ή, Όπου conducted εσωτερικόly, εργαστήριο εγκατάσταση πρέπει να είναι πλήρως διαχωρισμένα από παραγωγή και χώροι αποθήκευσης και έχουν λειτουργίας διαδικασίες για την πρόληψη κάθε κίνδυνος επιμόλυνση προϊόντα ή χώροι παραγωγής.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.5",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Όπου δοκιμές εργαστήρια είναι παρόντες σε παραγωγή εγκατάσταση, αυτά πρέπει να είναι τοποθετημένο, σχεδιασμένο και λειτουργούν να εξαλείφουν πιθανοί κίνδυνοι να ασφάλεια προϊόντος. έλεγχοι πρέπει να τεκμηριώνεται και εφαρμοσμένο, και περιλαμβάνουν εξέταση: λειτουργίας διαδικασίες να περιέχουν εργαστήριο δραστηριότητες, συμπεριλαμβανομένων σχεδιασμός και λειτουργία drainage και εξαερισμός συστήματα πρόσβαση και ασφάλεια εγκατάσταση μετακίνηση εργαστήριο Προσωπικό υγιεινή και Προστατευτική ενδυμασία arrangements μετακίνηση υλικά ότι μπορεί να ενέχουν κίνδυνος να προϊόντα, πρώτες ύλες ή παραγωγή περιοχή, σε και εργαστήριο, συμπεριλαμβανομένων απόρριψη εργαστήριο απόβλητα διοίκηση και παρακολούθηση εργαστήριο εξοπλισμός. Όπου δοκιμές δραστηριότητες είναι διενεργούνται σε παραγωγή ή χώροι αποθήκευσης (π. χ. σε γραμμή δοκιμές ή rapid δοκιμές), αυτά πρέπει να είναι τοποθετημένο, σχεδιασμένο και λειτουργούν για την πρόληψη προϊόν επιμόλυνση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου δοκιμές εργαστήρια είναι παρόντες σε παραγωγή εγκατάσταση, αυτά πρέπει να είναι τοποθετημένο, σχεδιασμένο και λειτουργούν να εξαλείφουν πιθανοί κίνδυνοι να ασφάλεια προϊόντος. έλεγχοι πρέπει να τεκμηριώνεται και εφαρμοσμένο, και περιλαμβάνουν εξέταση",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Λειτουργίας διαδικασίες να περιέχουν εργαστήριο δραστηριότητες, συμπεριλαμβανομένων σχεδιασμός και λειτουργία drainage και εξαερισμός συστήματα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Πρόσβαση και ασφάλεια εγκατάσταση",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Μετακίνηση εργαστήριο Προσωπικό",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Υγιεινή και Προστατευτική ενδυμασία arrangements",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Μετακίνηση υλικά ότι μπορεί να ενέχουν κίνδυνος να προϊόντα, πρώτες ύλες ή παραγωγή περιοχή, σε και εργαστήριο, συμπεριλαμβανομένων απόρριψη εργαστήριο απόβλητα διοίκηση και παρακολούθηση εργαστήριο εξοπλισμός.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Όπου δοκιμές δραστηριότητες είναι διενεργούνται σε παραγωγή ή χώροι αποθήκευσης (π. χ. σε γραμμή δοκιμές ή rapid δοκιμές), αυτά πρέπει να είναι τοποθετημένο, σχεδιασμένο και λειτουργούν για την πρόληψη προϊόν επιμόλυνση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.6",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Όπου εταιρεία αναλαμβάνει ή subcontracts αναλύσεις που είναι κρίσιμο να ασφάλεια προϊόντος, αυθεντικότητα ή νομιμότητα, εργαστήριο ή subcontractors πρέπει να έχουν gained αναγνωρισμένο εργαστήριο διαπίστευση ή λειτουργούν σύμφωνα με Απαιτήσεις και Αρχήs ISO/IEC 17025, συμπεριλαμβανομένων proficiency δοκιμές Όπου εφαρμόζεται. τεκμηριωμένο αιτιολόγηση πρέπει να είναι διαθέσιμο Όπου accredited μέθοδοι είναι δεν εκτελούνται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εταιρεία αναλαμβάνει ή subcontracts αναλύσεις που είναι κρίσιμο να ασφάλεια προϊόντος, αυθεντικότητα ή νομιμότητα, εργαστήριο ή subcontractors πρέπει να έχουν gained αναγνωρισμένο εργαστήριο διαπίστευση ή λειτουργούν σύμφωνα με Απαιτήσεις και Αρχήs ISO/IEC 17025, συμπεριλαμβανομένων proficiency δοκιμές Όπου εφαρμόζεται. τεκμηριωμένο αιτιολόγηση πρέπει να είναι διαθέσιμο Όπου accredited μέθοδοι είναι δεν εκτελούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.6.7",
+    "section": "5. 6 Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Επιθεώρηση προϊόντος, δοκιμές προϊόντος στον χώρο και εργαστηριακές αναλύσεις",
+    "requirement_checklist": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι reliability εργαστήριο αποτελέσματα, άλλες από εκείνα κρίσιμο να ασφάλεια και νομιμότητα καθορισμένο σε Παράγραφος 5. 6. 6. Αυτά πρέπει να περιλαμβάνουν: χρήση αναγνωρισμένο δοκιμή μέθοδοι, Όπου διαθέσιμο τεκμηριωμένο δοκιμές διαδικασίες διασφαλίζοντας προσωπικό είναι κατάλληλα qualified και/ή εκπαιδευμένο και αρμόδιο/ικανό να φέρουν ανάλυση απαιτείται χρήση σύστημα να επαληθεύει accuracy δοκιμή αποτελέσματα (π. χ. proficiency δοκιμές Όπου εφαρμόζεται) χρήση κατάλληλα calibrated και διατηρείται εξοπλισμός.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι reliability εργαστήριο αποτελέσματα, άλλες από εκείνα κρίσιμο να ασφάλεια και νομιμότητα καθορισμένο σε Παράγραφος 5. 6. 6. Αυτά πρέπει να περιλαμβάνουν",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Χρήση αναγνωρισμένο δοκιμή μέθοδοι, Όπου διαθέσιμο",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τεκμηριωμένο δοκιμές διαδικασίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Διασφαλίζοντας προσωπικό είναι κατάλληλα qualified και/ή εκπαιδευμένο και αρμόδιο/ικανό να φέρουν ανάλυση απαιτείται",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Χρήση σύστημα να επαληθεύει accuracy δοκιμή αποτελέσματα (π. χ. proficiency δοκιμές Όπου εφαρμόζεται)",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Χρήση κατάλληλα calibrated και διατηρείται εξοπλισμός.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.7.1",
+    "section": "5. 7 Αποδέσμευση προϊόντος",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Αποδέσμευση προϊόντος",
+    "requirement_checklist": "Όπου προϊόντα require θετική αποδέσμευση, Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι αποδέσμευση κάνει δεν εμφανιστεί μέχρι όλα αποδέσμευση κριτήρια έχουν ολοκληρωμένα και αποδέσμευση έχει εξουσιοδοτημένο.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου προϊόντα require θετική αποδέσμευση, Οι διαδικασίες πρέπει να είναι σε εφαρμογή ώστε να διασφαλίζεται ότι ότι αποδέσμευση κάνει δεν εμφανιστεί μέχρι όλα αποδέσμευση κριτήρια έχουν ολοκληρωμένα και αποδέσμευση έχει εξουσιοδοτημένο.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.8.1",
+    "section": "5. 8 Τροφή κατοικίδιων και ζωοτροφές",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Τροφή κατοικίδιων και ζωοτροφές",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να διασφαλίζει ότι Τροφή κατοικίδιων και ζωοτροφές είναι formulated/σχεδιασμένο για προβλεπόμενη χρήση (π. χ. Όπου προϊόντα είναι σχεδιασμένο για πλήρης diet ή ως complementary προϊόν).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να διασφαλίζει ότι Τροφή κατοικίδιων και ζωοτροφές είναι formulated/σχεδιασμένο για προβλεπόμενη χρήση (π. χ. Όπου προϊόντα είναι σχεδιασμένο για πλήρης diet ή ως complementary προϊόν).",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.8.2",
+    "section": "5. 8 Τροφή κατοικίδιων και ζωοτροφές",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Τροφή κατοικίδιων και ζωοτροφές",
+    "requirement_checklist": "Όπου εγκατάσταση’s προϊόν range περιλαμβάνει κατοικίδια τρόφιμα ή ζωικό ζωοτροφή προϊόντα για διαφορετικό ζωικό species, Η εγκατάσταση πρέπει να διαθέτει συγκεκριμένες διαδικασίες για διοίκηση κάθε συστατικά, πρώτες ύλες, προϊόντα ή επανεπεξεργασία ότι θα μπορούσε είναι harmful να unintended recipients.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εγκατάσταση’s προϊόν range περιλαμβάνει κατοικίδια τρόφιμα ή ζωικό ζωοτροφή προϊόντα για διαφορετικό ζωικό species, Η εγκατάσταση πρέπει να διαθέτει συγκεκριμένες διαδικασίες για διοίκηση κάθε συστατικά, πρώτες ύλες, προϊόντα ή επανεπεξεργασία ότι θα μπορούσε είναι harmful να unintended recipients.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.8.3",
+    "section": "5. 8 Τροφή κατοικίδιων και ζωοτροφές",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Τροφή κατοικίδιων και ζωοτροφές",
+    "requirement_checklist": "Όπου εγκατάσταση παράγει, διεργασίες ή συσκευασίες κατοικίδια τρόφιμα ή ζωικό ζωοτροφή προϊόντα ότι περιέχουν medicinal ουσίες, Η εγκατάσταση πρέπει να διαθέτει συγκεκριμένες διαδικασίες για διοίκηση φαρμακευτικά πρώτες ύλες και τελικά προϊόντα. Κατ’ ελάχιστον, αυτά Οι διαδικασίες πρέπει να περιλαμβάνουν: ταυτοποίηση medication-containing υλικά χειριζόμενα στην εγκατάσταση. Αυτά μπορεί να είναι πρώτες ύλες, επεξεργασία aids, ενδιάμεσο και τελικά προϊόντα, επανεπεξεργασία ή κάθε νέα προϊόν ή προϊόν ανάπτυξη συστατικά έγκριση προμηθευτή ισοδύναμο να ενότητα 3. 5. 1 για όλα φαρμακευτικά πρώτες ύλες συγκεκριμένες προσωπικό Εκπαίδευση σε σωστό χειρισμός φαρμακευτικά υλικά μηχανισμοί ώστε να διασφαλίζεται ότι σωστό συγκεντρώσεις medicinal ουσίες σε τελικά προϊόντα διαδικασίες (π. χ. καθαρισμός διαδικασίες) για την πρόληψη επιμόλυνση non-φαρμακευτικά κατοικίδια τρόφιμα ή ζωικό ζωοτροφή με υλικά που περιέχει medicinal ουσίες συγκεκριμένες διαδικασίες ώστε να διασφαλίζεται ότι σωστό επισήμανση φαρμακευτικά κατοικίδια τρόφιμα ή ζωικό ζωοτροφή απόβλητα απόρριψη μηχανισμοί (βλ. ενότητα 4. 12) ότι περιλαμβάνουν ασφαλές και νόμιμο απόρριψη φαρμακευτικά πρώτες ύλες και προϊόντα.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εγκατάσταση παράγει, διεργασίες ή συσκευασίες κατοικίδια τρόφιμα ή ζωικό ζωοτροφή προϊόντα ότι περιέχουν medicinal ουσίες, Η εγκατάσταση πρέπει να διαθέτει συγκεκριμένες διαδικασίες για διοίκηση φαρμακευτικά πρώτες ύλες και τελικά προϊόντα.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Κατ’ ελάχιστον, αυτά Οι διαδικασίες πρέπει να περιλαμβάνουν",
+        "weight": 2,
+        "weight_label": "Οδηγός ενότητας",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Ταυτοποίηση medication-containing υλικά χειριζόμενα στην εγκατάσταση. Αυτά μπορεί να είναι πρώτες ύλες, επεξεργασία aids, ενδιάμεσο και τελικά προϊόντα, επανεπεξεργασία ή κάθε νέα προϊόν ή προϊόν ανάπτυξη συστατικά",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Έγκριση προμηθευτή ισοδύναμο να ενότητα 3. 5. 1 για όλα φαρμακευτικά πρώτες ύλες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Συγκεκριμένες προσωπικό Εκπαίδευση σε σωστό χειρισμός φαρμακευτικά υλικά",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Μηχανισμοί ώστε να διασφαλίζεται ότι σωστό συγκεντρώσεις medicinal ουσίες σε τελικά προϊόντα",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Διαδικασίες (π. χ. καθαρισμός διαδικασίες) για την πρόληψη επιμόλυνση non-φαρμακευτικά κατοικίδια τρόφιμα ή ζωικό ζωοτροφή με υλικά που περιέχει medicinal ουσίες",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Συγκεκριμένες διαδικασίες ώστε να διασφαλίζεται ότι σωστό επισήμανση φαρμακευτικά κατοικίδια τρόφιμα ή ζωικό ζωοτροφή",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "Απόβλητα απόρριψη μηχανισμοί (βλ. ενότητα 4. 12) ότι περιλαμβάνουν ασφαλές και νόμιμο απόρριψη φαρμακευτικά πρώτες ύλες και προϊόντα.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.8.4",
+    "section": "5. 8 Τροφή κατοικίδιων και ζωοτροφές",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Τροφή κατοικίδιων και ζωοτροφές",
+    "requirement_checklist": "Εγκατάσταση Οι διαδικασίες πρέπει να είναι σχεδιασμένα και εφαρμοσμένο να πληρούν σχετικές Τροφή κατοικίδιων και ζωοτροφές ασφάλεια προϊόντος νομοθεσία (και τα δύο σε χώρα παραγωγή και σε χώρα πώλησης).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Εγκατάσταση Οι διαδικασίες πρέπει να είναι σχεδιασμένα και εφαρμοσμένο να πληρούν σχετικές Τροφή κατοικίδιων και ζωοτροφές ασφάλεια προϊόντος νομοθεσία (και τα δύο σε χώρα παραγωγή και σε χώρα πώλησης).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.9.1",
+    "section": "5. 9 Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "requirement_checklist": "Η εταιρεία πρέπει να διενεργούν αξιολόγηση κινδύνου για πιθανό prohibited ουσίες (δηλ. εκείνα prohibited από νομοθεσία σε χώρα λειτουργία ή προβλεπόμενο χώρα πώλησης). παράδειγμα ουσίες περιλαμβάνουν pharmaceuticals, veterinary medicines (π. χ. growth hormones), heavy μέταλλοs και pesticides. αξιολόγηση κινδύνου μπορεί να είναι ολοκληρωμένα ως μέρος Παράγραφος 3. 5. 1. 1 ή ως χωριστό δραστηριότητα. αποτελέσματα αξιολόγηση κινδύνου πρέπει να είναι included σε πρώτη ύλη αποδοχή και δοκιμές διαδικασίες και σε διεργασίες adopted για έγκριση προμηθευτή και παρακολούθηση (βλ. παράγραφοι 3. 5. 1. 2–3. 5. 2. 2).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εταιρεία πρέπει να διενεργούν αξιολόγηση κινδύνου για πιθανό prohibited ουσίες (δηλ. εκείνα prohibited από νομοθεσία σε χώρα λειτουργία ή προβλεπόμενο χώρα πώλησης). παράδειγμα ουσίες περιλαμβάνουν pharmaceuticals, veterinary medicines (π. χ. growth hormones), heavy μέταλλοs και pesticides. αξιολόγηση κινδύνου μπορεί να είναι ολοκληρωμένα ως μέρος Παράγραφος 3. 5. 1. 1 ή ως χωριστό δραστηριότητα. αποτελέσματα αξιολόγηση κινδύνου πρέπει να είναι included σε πρώτη ύλη αποδοχή και δοκιμές διαδικασίες και σε διεργασίες adopted για έγκριση προμηθευτή και παρακολούθηση (βλ. παράγραφοι 3. 5. 1. 2–3. 5. 2. 2).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.9.2",
+    "section": "5. 9 Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "requirement_checklist": "Όπου εγκατάσταση είναι σε παραλαβή live animals, εκεί πρέπει να είναι επιθεώρηση από κατάλληλα αρμόδιο/ικανό μεμονωμένο σε lairage και post-mortem ώστε να διασφαλίζεται ότι ότι animals είναι κατάλληλο για human consumption.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Όπου εγκατάσταση είναι σε παραλαβή live animals, εκεί πρέπει να είναι επιθεώρηση από κατάλληλα αρμόδιο/ικανό μεμονωμένο σε lairage και post-mortem ώστε να διασφαλίζεται ότι ότι animals είναι κατάλληλο για human consumption.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.9.3",
+    "section": "5. 9 Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να λειτουργούν διαδικασίες ώστε να διασφαλίζεται ότι ότι Ιχνηλασιμότητα όλα edible μέρη carcass (δηλ. όλα μέρη ότι είναι προβλεπόμενο για human τρόφιμα παροχή αλυσίδα) είναι διατηρείται.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να λειτουργούν διαδικασίες ώστε να διασφαλίζεται ότι ότι Ιχνηλασιμότητα όλα edible μέρη carcass (δηλ. όλα μέρη ότι είναι προβλεπόμενο για human τρόφιμα παροχή αλυσίδα) είναι διατηρείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  },
+  {
+    "clause": "5.9.4",
+    "section": "5. 9 Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "main_section": "5 Έλεγχος προϊόντος",
+    "title": "Πρωτογενής μεταποίηση ζωικών προϊόντων",
+    "requirement_checklist": "Η εγκατάσταση πρέπει να καθορίζει καθορισμένες χρόνος και θερμοκρασία Απαιτήσεις για όλα post-slaughter διεργασίες (για παράδειγμα, post-slaughter cooling, επεξεργασία, αποθήκευση και διανομή). Αυτά Απαιτήσεις πρέπει να είναι καθορισμένο για όλα ψυχόμενο ή κατεψυγμένο, edible μέρη carcass.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η εγκατάσταση πρέπει να καθορίζει καθορισμένες χρόνος και θερμοκρασία Απαιτήσεις για όλα post-slaughter διεργασίες (για παράδειγμα, post-slaughter cooling, επεξεργασία, αποθήκευση και διανομή).",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αυτά Απαιτήσεις πρέπει να είναι καθορισμένο για όλα ψυχόμενο ή κατεψυγμένο, edible μέρη carcass.",
+        "weight": 2,
+        "weight_label": "Κανονική",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS/F904a requirement text",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Ανασκόπηση τεκμηρίωσης, επιτόπια επιβεβαίωση εφαρμογής και αντικειμενικά αρχεία, όπου απαιτούνται.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist EL working translation"
+  }
+]
