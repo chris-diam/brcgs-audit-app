@@ -1,0 +1,990 @@
+[
+  {
+    "clause": "100-4",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Κατασκευή και διάταξη κτιρίων",
+    "requirement_checklist": "Όρια εγκατάστασης, περιβάλλον, κατασκευή, αποχετεύσεις και προστασία από επιμόλυνση.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα όρια εγκατάστασης είναι καθορισμένα και διατηρούνται.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Πηγές επιμόλυνσης από περιβάλλον αξιολογούνται και ελέγχονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Κτίρια και αποχετεύσεις συντηρούνται ώστε να μην προκαλούν κίνδυνο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Κατασκευή και διάταξη κτιρίων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Κατασκευή και διάταξη κτιρίων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-5",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Σχεδιασμός εγκαταστάσεων και χώρων",
+    "requirement_checklist": "Χώροι που ελαχιστοποιούν επιμόλυνση και υποστηρίζουν υγιεινές ροές.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει λογική ροή υλικών, προσωπικού, προϊόντων και αποβλήτων.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Εσωτερικές κατασκευές καθαρίζονται/συντηρούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ο εξοπλισμός επιτρέπει υγιεινή λειτουργία και συντήρηση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Σχεδιασμός εγκαταστάσεων και χώρων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Σχεδιασμός εγκαταστάσεων και χώρων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-6",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Utilities",
+    "requirement_checklist": "Έλεγχος νερού, πάγου, ατμού, αέρα, αερίων και φωτισμού.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν οριστεί και παρακολουθούνται κριτήρια για νερό/πάγο/ατμό.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Ο εξαερισμός αποτρέπει ροή από ρυπαρές σε καθαρές περιοχές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Πεπιεσμένος αέρας/αέρια και φωτισμός ελέγχονται όπου υπάρχει κίνδυνος.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Utilities.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Utilities;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-7",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Έλεγχος παρασίτων",
+    "requirement_checklist": "Πρόγραμμα πρόληψης, παρακολούθησης και εξάλειψης παρασίτων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει υπεύθυνος και τεκμηριωμένο πρόγραμμα pest control.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει χάρτης παγίδων/δολωμάτων και αρχεία επιθεωρήσεων.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι τάσεις δραστηριότητας αναλύονται και οδηγούν σε ενέργειες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Έλεγχος παρασίτων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Έλεγχος παρασίτων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-8",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Απόβλητα, FLW, ανακύκλωση",
+    "requirement_checklist": "Διαχείριση αποβλήτων, food loss/waste, ανακύκλωσης και επαναχρησιμοποίησης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα απόβλητα αναγνωρίζονται, συλλέγονται, αποθηκεύονται και απομακρύνονται χωρίς επιμόλυνση.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υλικά με εμπορικά σήματα καταστρέφονται/παραμορφώνονται όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ανακυκλώσιμα/επαναχρησιμοποιούμενα υλικά διαχωρίζονται και ελέγχονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Απόβλητα, FLW, ανακύκλωση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Απόβλητα, FLW, ανακύκλωση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-9",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Εξοπλισμός και συντήρηση",
+    "requirement_checklist": "Υγειονομικός σχεδιασμός, καταλληλότητα και συντήρηση εξοπλισμού.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Ο εξοπλισμός είναι κατάλληλος για υγιεινή χρήση και καθαρισμό.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η συντήρηση τεκμηριώνεται και δίνει προτεραιότητα σε food safety θέματα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Μετά τη συντήρηση γίνεται καθαρισμός/έλεγχος πριν την παραγωγή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Εξοπλισμός και συντήρηση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Εξοπλισμός και συντήρηση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-10",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Προμηθευτές και εισερχόμενα",
+    "requirement_checklist": "Έλεγχος προμηθευτών και εισερχόμενων υλικών που επηρεάζουν την ασφάλεια.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει διαδικασία επιλογής, έγκρισης και παρακολούθησης προμηθευτών βάσει κινδύνου.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα εισερχόμενα ελέγχονται με προδιαγραφές, CoA/DoC ή επιθεώρηση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οχήματα/παραδόσεις ελέγχονται ως προς υγιεινή, ακεραιότητα και συνθήκες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Προμηθευτές και εισερχόμενα.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Προμηθευτές και εισερχόμενα;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-11",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Αποθήκευση και μεταφορά",
+    "requirement_checklist": "Προστασία υλικών/προϊόντων σε αποθήκευση, dispatch και transport.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υλικά/προϊόντα αποθηκεύονται προστατευμένα και διαχωρισμένα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Εφαρμόζεται FIFO/FEFO όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οχήματα/containers ελέγχονται και τεκμηριώνονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Αποθήκευση και μεταφορά.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Αποθήκευση και μεταφορά;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-12",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Πρόληψη επιμόλυνσης",
+    "requirement_checklist": "Συστήματα πρόληψης βιολογικής, χημικής, φυσικής και αλλεργιογονικής επιμόλυνσης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πηγές επιμόλυνσης και διασταυρούμενης επιμόλυνσης έχουν εντοπιστεί.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχουν προληπτικά μέτρα ανά τύπο κινδύνου.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η αποτελεσματικότητα των μέτρων επαληθεύεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Πρόληψη επιμόλυνσης.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Πρόληψη επιμόλυνσης;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-13",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Καθαρισμός και απολύμανση",
+    "requirement_checklist": "Προγράμματα καθαρισμού/απολύμανσης με monitoring και verification.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα προγράμματα ορίζουν τι, συχνότητα, υπεύθυνο, μέθοδο και χημικά.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η αποτελεσματικότητα επιβεβαιώνεται με monitoring/verification.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Εργαλεία και χημικά είναι κατάλληλα, αναγνωρισμένα και αποθηκευμένα ασφαλώς.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Καθαρισμός και απολύμανση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Καθαρισμός και απολύμανση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-14",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Προσωπική υγιεινή",
+    "requirement_checklist": "Πρακτικές υγιεινής, συμπεριφοράς, στολής, υγείας, επισκεπτών και εργολάβων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν επαρκείς εγκαταστάσεις πλυσίματος χεριών, τουαλέτες και αποδυτήρια.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Στολές/PPE είναι κατάλληλα, καθαρά και χρησιμοποιούνται σωστά.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Υπάρχουν κανόνες υγείας, συμπεριφοράς, επισκεπτών και εξωτερικών παρόχων.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Προσωπική υγιεινή.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Προσωπική υγιεινή;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-15",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Πληροφορίες προϊόντος",
+    "requirement_checklist": "Πληροφορίες ασφαλούς χειρισμού, αποθήκευσης, προετοιμασίας και χρήσης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι πληροφορίες προϊόντος είναι επαρκείς για ασφαλή χρήση.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η επισήμανση/τεκμηρίωση συμφωνεί με προδιαγραφές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αλλαγές πληροφοριών προϊόντος ελέγχονται πριν τη διάθεση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Πληροφορίες προϊόντος.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Πληροφορίες προϊόντος;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  },
+  {
+    "clause": "100-16",
+    "section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "main_section": "ISO 22002-100:2025 — Κοινά PRPs",
+    "title": "Food defence και food fraud",
+    "requirement_checklist": "Threat assessment και vulnerability assessment με σχέδια μετριασμού.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει food defence threat assessment και σχέδιο μετριασμού.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει food fraud vulnerability assessment και σχέδιο πρόληψης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα σχέδια εκπαιδεύονται, εφαρμόζονται, επαληθεύονται και ανασκοπούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Food defence και food fraud.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Food defence και food fraud;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-100:2025"
+  }
+]

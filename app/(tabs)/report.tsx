@@ -2,7 +2,8 @@ import React, { useEffect } from 'react'
 import { ScrollView, View, Text, TouchableOpacity, Share, Alert } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useAuditStore } from '../../src/store/auditStore'
-import { allClauses } from '../../src/data'
+import { useDataset } from '../../src/data'
+import { selectActiveClauses } from '../../src/store/auditStore'
 import { evalClause } from '../../src/core/scoring'
 import KPIBar from '../../src/components/KPIBar'
 
@@ -26,12 +27,14 @@ const GRADE_COLOR: Record<string, { bg: string; text: string }> = {
 }
 
 export default function ReportScreen() {
-  const { meta, clauses, summary, recomputeSummary, resetAudit } = useAuditStore()
+  const { clauses: allClauses } = useDataset()
+  const activeClauses = useAuditStore(selectActiveClauses)
+  const { meta, summary, recomputeSummary, resetAudit } = useAuditStore()
 
-  useEffect(() => { recomputeSummary() }, [clauses])
+  useEffect(() => { recomputeSummary() }, [activeClauses])
 
   const findings = allClauses
-    .map(c => ({ clause: c, ev: evalClause(c, clauses[c.clause]) }))
+    .map(c => ({ clause: c, ev: evalClause(c, activeClauses[c.clause]) }))
     .filter(({ ev }) => SEV_ORDER.includes(ev.severity as string))
     .sort(
       (a, b) =>
@@ -71,7 +74,7 @@ export default function ReportScreen() {
         score: ev.score,
         finding: ev.finding,
       })),
-      clauses,
+      clauses: activeClauses,
     }
     try {
       await Share.share({ message: JSON.stringify(payload, null, 2) })

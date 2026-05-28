@@ -1,0 +1,8 @@
+{
+  "version": "ISO22000-GOLD-v1.0",
+  "title": "ISO 22000:2018 GOLD Audit Compact App — Greek QA Complete",
+  "principle": "Paraphrased audit aid; not a substitute for official ISO/ELOT standards.",
+  "language_normalization": "Greek auditor-friendly implementation wording for ISO 22000:2018, ISO 22002-100:2025 and ISO 22002-1:2025.",
+  "language_style": "Φυσική ελληνική διατύπωση για χρήση από επιθεωρητή / σύμβουλο.",
+  "language_pass": "Initial ISO 22000 Greek QA Complete build based on uploaded reference documents."
+}

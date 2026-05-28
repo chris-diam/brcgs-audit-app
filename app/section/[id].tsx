@@ -2,8 +2,8 @@ import React from 'react'
 import { View, Text, FlatList, TouchableOpacity } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { useAuditStore } from '../../src/store/auditStore'
-import { allClauses, mainSections } from '../../src/data'
+import { useAuditStore, selectActiveClauses } from '../../src/store/auditStore'
+import { useDataset } from '../../src/data'
 import { evalClause } from '../../src/core/scoring'
 
 const SEV_COLOR: Record<string, string> = {
@@ -19,7 +19,8 @@ const SEV_COLOR: Record<string, string> = {
 export default function SectionScreen() {
   const { id } = useLocalSearchParams<{ id: string }>()
   const router = useRouter()
-  const { clauses } = useAuditStore()
+  const { clauses: allClauses, mainSections } = useDataset()
+  const clauses = useAuditStore(selectActiveClauses)
 
   const sectionIdx = parseInt(id ?? '0', 10)
   const section = mainSections[sectionIdx] ?? ''

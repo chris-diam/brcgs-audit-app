@@ -1,0 +1,1444 @@
+[
+  {
+    "clause": "9.1.1",
+    "section": "9.1 The food safety plan – HACCP",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall either:",
+    "requirement_checklist": "The company shall either:\nhave a HACCP or food safety plan specifically for the traded products handled on site, or\nincorporate the traded products into its existing HACCP or food safety plans (see section 2).\nThe scope of traded products HACCP or food safety plan shall include the products and the processes for which the site is responsible. At a minimum, this shall include goods receipt, storage and dispatch.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must either:",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Have a HACCP or food safety plan specifically for the traded products handled on site, or",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Incorporate the traded products into its existing HACCP or food safety plans (see section 2). The scope of traded products HACCP or food safety plan must include the products and the processes for which the site is responsible. At a minimum, this must include goods receipt, storage and dispatch.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "The following items are considered where applicable:",
+        "weight": 2,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.2.1",
+    "section": "9.2 Approval and performance monitoring of manufacturers/packers of traded food products",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall have a documented supplier approval procedure which identifie…",
+    "requirement_checklist": "The company shall have a documented supplier approval procedure which identifies the process for initial and ongoing approval of suppliers and the manufacturer/processor of each product traded. The requirements shall be based on the results of a risk assessment which shall include consideration of:\nthe nature of the product and associated risks\ncustomer-specific requirements\nlegislative requirements in the country of sale or importation of the product\nsource or country of origin\npotential for adulteration or fraud\npotential risks in the supply chain to the point of receipt of the goods by the company\nthe brand identity of products (i.e. customer own brand or branded product).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must have a documented supplier approval procedure which identifies the process for initial and ongoing approval of suppliers and the manufacturer/processor of each product traded. The requirements must be based on the results of a risk assessment which must include consideration of:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The nature of the product and associated risks",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Customer-specific requirements",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Legislative requirements in the country of sale or importation of the product",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Source or country of origin",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Potential for adulteration or fraud",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Potential risks in the supply chain to the point of receipt of the goods by the company The brand identity of products (i.e. customer own brand or branded product).",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.2.2",
+    "section": "9.2 Approval and performance monitoring of manufacturers/packers of traded food products",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall have a procedure for the initial and ongoing approval of manu…",
+    "requirement_checklist": "The company shall have a procedure for the initial and ongoing approval of manufacturers of products. This approval procedure shall be based on risk and include either one or a combination of:\na valid certification to the applicable BRCGS Standard or GFSI-benchmarked standard. The scope of the certification shall include the products purchased\nsupplier audits, with a scope to include product safety, traceability, HACCP review and good manufacturing practices, undertaken by an experienced and demonstrably competent product safety auditor. Where this supplier audit is completed by a second or third party, the company shall be able to:\ndemonstrate the competency of the auditor\nconfirm that the scope of the audit includes product safety, traceability, HACCP review and good manufacturing practices\nobtain and review a copy of the full audit report\nor\nwhere a valid risk-based justification is provided and the supplier is assessed as low risk only, a completed supplier questionnaire may be used for initial approval. The questionnaire shall have a scope that includes product safety, traceability, HACCP review and good manufacturing practices, and it shall have been reviewed and verified by a demonstrably competent person.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must have a procedure for the initial and ongoing approval of manufacturers of products. This approval procedure must be based on risk and include either one or a combination of:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "A valid certification to the applicable BRCGS Standard or GFSI-benchmarked standard. The scope of the certification must include the products purchased",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Supplier audits, with a scope to include product safety, traceability, HACCP review and good manufacturing practices, undertaken by an experienced and demonstrably competent product safety auditor. Where this supplier audit is completed by a second or third party, the company must be able to:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Demonstrate the competency of the auditor",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Confirm that the scope of the audit includes product safety, traceability, HACCP review and good manufacturing practices",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Obtain and review a copy of the full audit report",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Or Where a valid risk-based justification is provided and the supplier is assessed as low risk only, a completed supplier questionnaire may be used for initial approval. The questionnaire must have a scope that includes product safety, traceability, HACCP review and good manufacturing practices, and it must have been reviewed and verified by a demonstrably competent person.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.2.3",
+    "section": "9.2 Approval and performance monitoring of manufacturers/packers of traded food products",
+    "main_section": "9 Requirements for traded products",
+    "title": "Records shall be maintained of the manufacturer’s/packer’s approval process, in…",
+    "requirement_checklist": "Records shall be maintained of the manufacturer’s/packer’s approval process, including audit reports or verified certificates confirming the product safety status of the manufacturing/packing sites supplying the products traded. There shall be a process of review and records of follow-up of any issues identified at the manufacturing/packing sites with the potential to affect food products traded by the company.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Records must be maintained of the manufacturer’s/packer’s approval process, including audit reports or verified certificates confirming the product safety status of the manufacturing/packing sites supplying the products traded.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "There must be a process of review and records of follow-up of any issues identified at the manufacturing/packing sites with the potential to affect food products traded by the company.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.2.4",
+    "section": "9.2 Approval and performance monitoring of manufacturers/packers of traded food products",
+    "main_section": "9 Requirements for traded products",
+    "title": "There shall be a process for the ongoing review of manufacturers/packers, based…",
+    "requirement_checklist": "There shall be a process for the ongoing review of manufacturers/packers, based on risk and using defined performance criteria, which may include complaints, results of any product tests, regulatory warnings/alerts, customer rejections or feedback. The process shall be fully implemented.\nWhere approval is based on questionnaires, these shall be reissued at least every 3 years and suppliers shall be required to notify the site of any significant changes in the interim, including any change in certification status.\nRecords of the review shall be kept.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "There must be a process for the ongoing review of manufacturers/packers, based on risk and using defined performance criteria, which may include complaints, results of any product tests, regulatory warnings/alerts, customer rejections or feedback.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The process must be fully implemented.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Where approval is based on questionnaires, these must be reissued at least every 3 years and suppliers must be required to notify the site of any significant changes in the interim, including any change in certification status. Records of the review must be kept.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.3.1",
+    "section": "9.3 Specifications",
+    "main_section": "9 Requirements for traded products",
+    "title": "Specifications shall be available for all products. These shall either be in th…",
+    "requirement_checklist": "Specifications shall be available for all products. These shall either be in the agreed format as supplied by the customer or, where this is not specified, include key data to meet legal requirements and assist the customer in the safe usage of the product.\nSpecifications may be in the form of a printed or electronic document, or part of an online specification system.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Specifications must be available for all products.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "These must either be in the agreed format as supplied by the customer or, where this is not specified, include key data to meet legal requirements and assist the customer in the safe usage of the product. Specifications may be in the form of a printed or electronic document, or part of an online specification system.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.3.2",
+    "section": "9.3 Specifications",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall seek formal agreement of the specifications with relevant par…",
+    "requirement_checklist": "The company shall seek formal agreement of the specifications with relevant parties. Where specifications are not formally agreed, the company shall be able to demonstrate that it has taken steps to ensure formal agreement is in place.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must seek formal agreement of the specifications with relevant parties. Where specifications are not formally agreed, the company must be able to demonstrate that it has taken steps to ensure formal agreement is in place.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.3.3",
+    "section": "9.3 Specifications",
+    "main_section": "9 Requirements for traded products",
+    "title": "Companies shall operate demonstrable processes to ensure that any customer-spec…",
+    "requirement_checklist": "Companies shall operate demonstrable processes to ensure that any customer-specified requirements are met. This may be by inclusion of customer requirements within buying specifications, or by undertaking further work on the purchased product to meet the customer’s specification (e.g. sorting or grading of product).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Companies must operate demonstrable processes to ensure that any customer-specified requirements are met.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "This may be by inclusion of customer requirements within buying specifications, or by undertaking further work on the purchased product to meet the customer’s specification (e.g. sorting or grading of product).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.3.4",
+    "section": "9.3 Specifications",
+    "main_section": "9 Requirements for traded products",
+    "title": "Specification review shall be sufficiently frequent to ensure that data is curr…",
+    "requirement_checklist": "Specification review shall be sufficiently frequent to ensure that data is current or at a minimum every 3 years, taking into account product changes, suppliers, regulations and other risks.\nReviews and changes shall be documented.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Specification review must be sufficiently frequent to ensure that data is current or at a minimum every 3 years, taking into account product changes, suppliers, regulations and other risks.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Reviews and changes must be documented.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.4.1",
+    "section": "9.4 Product inspection and laboratory testing",
+    "main_section": "9 Requirements for traded products",
+    "title": "The site shall have a product sampling or assurance programme to verify that th…",
+    "requirement_checklist": "The site shall have a product sampling or assurance programme to verify that the products are in accordance with buying specifications and meet legal and safety requirements.\nWhere verification is based on sampling, the sample rate and assessment process shall be risk-based.\nRecords of the results of assessments or analysis shall be maintained.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must have a product sampling or assurance programme to verify that the products are in accordance with buying specifications and meet legal and safety requirements.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Where verification is based on sampling, the sample rate and assessment process must be risk-based.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Records of the results of assessments or analysis must be maintained.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.4.2",
+    "section": "9.4 Product inspection and laboratory testing",
+    "main_section": "9 Requirements for traded products",
+    "title": "Where verification of conformity is provided by the supplier (e.g. certificates…",
+    "requirement_checklist": "Where verification of conformity is provided by the supplier (e.g. certificates of conformity or analysis), the level of confidence in the information provided shall be supported by commissioning periodic independent product analysis.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where verification of conformity is provided by the supplier (e.g. certificates of conformity or analysis), the level of confidence in the information provided must be supported by commissioning periodic independent product analysis.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.4.3",
+    "section": "9.4 Product inspection and laboratory testing",
+    "main_section": "9 Requirements for traded products",
+    "title": "Where claims are made about the products being handled, including the provenanc…",
+    "requirement_checklist": "Where claims are made about the products being handled, including the provenance, chain of custody and assured or ‘identity preserved’ status of a product or raw materials used, supporting information shall be available from the supplier or independently to verify the claim.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where claims are made about the products being handled, including the provenance, chain of custody and assured or ‘identity preserved’ status of a product or raw materials used, supporting information must be available from the supplier or independently to verify the claim.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.4.4",
+    "section": "9.4 Product inspection and laboratory testing",
+    "main_section": "9 Requirements for traded products",
+    "title": "Where the company undertakes or subcontracts analyses which are critical to pro…",
+    "requirement_checklist": "Where the company undertakes or subcontracts analyses which are critical to product safety or legality, the laboratory or subcontractors shall have gained recognised laboratory accreditation or operate in accordance with the requirements and principles of ISO/IEC 17025. Documented justification shall be available where non-accredited test methods are used.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where the company undertakes or subcontracts analyses which are critical to product safety or legality, the laboratory or subcontractors must have gained recognised laboratory accreditation or operate in accordance with the requirements and principles of ISO/IEC 17025. Documented justification must be available where non-accredited test methods are used.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.4.5",
+    "section": "9.4 Product inspection and laboratory testing",
+    "main_section": "9 Requirements for traded products",
+    "title": "Test and inspection results shall be retained and reviewed to identify trends.…",
+    "requirement_checklist": "Test and inspection results shall be retained and reviewed to identify trends. Appropriate actions shall be implemented promptly to address any unsatisfactory results or trends.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Test and inspection results must be retained and reviewed to identify trends. Appropriate actions must be implemented promptly to address any unsatisfactory results or trends.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.5.1",
+    "section": "9.5 Product legality",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall have documented processes to verify the legality of products…",
+    "requirement_checklist": "The company shall have documented processes to verify the legality of products which are traded. These processes shall include as appropriate:\nlabelling information\ncompliance with relevant legal compositional requirements\ncompliance with quantity or volume requirements.\nWhere such responsibilities are undertaken by the customer, this shall be clearly stated in contracts.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must have documented processes to verify the legality of products which are traded. These processes must include as appropriate:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Labelling information",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Compliance with relevant legal compositional requirements",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Compliance with quantity or volume requirements.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Where such responsibilities are undertaken by the customer, this must be clearly stated in contracts.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.6.1",
+    "section": "9.6 Traceability",
+    "main_section": "9 Requirements for traded products",
+    "title": "The site’s traceability procedure (see clause 3.9.1) shall include details of t…",
+    "requirement_checklist": "The site’s traceability procedure (see clause 3.9.1) shall include details of the system used for the traceability of traded products.\nThe traceability system shall ensure that, for all batches of product, the site can identify the last manufacturer or, in the case of primary agricultural products, the packer or place of last significant change to the product.\nRecords shall also be maintained to identify the recipient of each batch of product from the company.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site’s traceability procedure (see clause 3.9.1) must include details of the system used for the traceability of traded products.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The traceability system must ensure that, for all batches of product, the site can identify the last manufacturer or, in the case of primary agricultural products, the packer or place of last significant change to the product.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Records must also be maintained to identify the recipient of each batch of product from the company.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.6.2",
+    "section": "9.6 Traceability",
+    "main_section": "9 Requirements for traded products",
+    "title": "The company shall test the traceability system at least annually to ensure that…",
+    "requirement_checklist": "The company shall test the traceability system at least annually to ensure that traceability can be determined back to the last manufacturer and forward to the recipient of the product from the company. This shall include identification of the movement of the product through the chain from the manufacturer to receipt by the company (e.g. each movement and intermediate place of storage).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must test the traceability system at least annually to ensure that traceability can be determined back to the last manufacturer and forward to the recipient of the product from the company. This must include identification of the movement of the product through the chain from the manufacturer to receipt by the company (e.g. each movement and intermediate place of storage).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 2,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "9.6.3",
+    "section": "9.6 Traceability",
+    "main_section": "9 Requirements for traded products",
+    "title": "The traceability test shall include the reconciliation of quantities of product…",
+    "requirement_checklist": "The traceability test shall include the reconciliation of quantities of product received by the company for the chosen batch or product lot. Traceability should be achievable within 4 hours (1 day when information is required from external parties).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The traceability test must include the reconciliation of quantities of product received by the company for the chosen batch or product lot. Traceability should be achievable within 4 hours (1 day when information is required from external parties).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  }
+]

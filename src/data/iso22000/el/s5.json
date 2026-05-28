@@ -1,0 +1,944 @@
+[
+  {
+    "clause": "8.1",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Σχεδιασμός και έλεγχος λειτουργίας",
+    "requirement_checklist": "Σχεδιασμός, εφαρμογή και έλεγχος λειτουργιών ώστε να πληρούνται απαιτήσεις ΣΔΑΤ.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι λειτουργικές διεργασίες που επηρεάζουν ασφάλεια τροφίμων έχουν καθοριστεί.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Κριτήρια αποδοχής και έλεγχοι είναι διαθέσιμα στα σημεία εφαρμογής.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αλλαγές και εξωτερικές διεργασίες ελέγχονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Σχεδιασμός και έλεγχος λειτουργίας.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Σχεδιασμός και έλεγχος λειτουργίας;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.2",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Προαπαιτούμενα προγράμματα PRPs",
+    "requirement_checklist": "Καθιέρωση, εφαρμογή, διατήρηση και επικαιροποίηση κατάλληλων PRPs.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα PRPs είναι κατάλληλα για εγκατάσταση, προϊόντα και κινδύνους.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα PRPs βασίζονται σε νομοθεσία, ISO 22002, κώδικες και απαιτήσεις πελατών όπου εφαρμόζεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα PRPs παρακολουθούνται, επαληθεύονται και επικαιροποιούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Προαπαιτούμενα προγράμματα PRPs.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Προαπαιτούμενα προγράμματα PRPs;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.3",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Ιχνηλασιμότητα",
+    "requirement_checklist": "Σύνδεση εισερχομένων υλικών, επεξεργασίας και παραδοτέων προϊόντων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η ιχνηλασιμότητα καλύπτει πρώτες ύλες, συσκευασία, ενδιάμεσα και τελικά προϊόντα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Γίνονται δοκιμές ιχνηλασιμότητας και αξιολογούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα lot/batch records είναι πλήρη και ανακτήσιμα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ιχνηλασιμότητα.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ιχνηλασιμότητα;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.4",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Έκτακτες ανάγκες και περιστατικά",
+    "requirement_checklist": "Διαδικασίες ανταπόκρισης σε περιστατικά που μπορούν να επηρεάσουν την ασφάλεια τροφίμων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν αναγνωριστεί πιθανές έκτακτες καταστάσεις.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει σχέδιο ανταπόκρισης, επικοινωνίας και αξιολόγησης προϊόντων.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι διαδικασίες δοκιμάζονται ή ανασκοπούνται περιοδικά.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Έκτακτες ανάγκες και περιστατικά.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Έκτακτες ανάγκες και περιστατικά;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.5.1",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Προκαταρκτικά στοιχεία ανάλυσης κινδύνων",
+    "requirement_checklist": "Περιγραφές προϊόντων, πρώτων υλών, χρήσης, διεργασιών και διαγραμμάτων ροής.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν περιγραφές προϊόντων, πρώτων υλών και προβλεπόμενης χρήσης.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχουν διαγράμματα ροής και περιγραφές διεργασιών.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα διαγράμματα ροής επιβεβαιώνονται επιτόπου.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Προκαταρκτικά στοιχεία ανάλυσης κινδύνων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Προκαταρκτικά στοιχεία ανάλυσης κινδύνων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.5.2",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Ανάλυση κινδύνων",
+    "requirement_checklist": "Εντοπισμός και αξιολόγηση βιολογικών, χημικών, φυσικών και αλλεργιογόνων κινδύνων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν εντοπιστεί σχετικοί κίνδυνοι ανά στάδιο.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η αξιολόγηση λαμβάνει υπόψη πιθανότητα, σοβαρότητα και αποδεκτά επίπεδα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα μέτρα ελέγχου είναι αιτιολογημένα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ανάλυση κινδύνων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ανάλυση κινδύνων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.5.3",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Επικύρωση μέτρων ελέγχου",
+    "requirement_checklist": "Επικύρωση ότι τα μέτρα ελέγχου μπορούν να επιτύχουν τον αναμενόμενο έλεγχο.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν τεκμήρια επικύρωσης για CCP/OPRP/κρίσιμα μέτρα ελέγχου.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η επικύρωση γίνεται πριν την εφαρμογή ή μετά από αλλαγές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ανεπαρκή μέτρα τροποποιούνται και επανεπικυρώνονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Επικύρωση μέτρων ελέγχου.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Επικύρωση μέτρων ελέγχου;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.5.4",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Σχέδιο ελέγχου κινδύνων HACCP/OPRP",
+    "requirement_checklist": "Καθορισμός OPRPs/CCPs, ορίων, παρακολούθησης, διορθώσεων και αρμοδιοτήτων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν καθοριστεί CCP και/ή OPRP με αιτιολόγηση.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Έχουν οριστεί κρίσιμα όρια ή κριτήρια δράσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η παρακολούθηση καθορίζει τι, πώς, πότε και ποιος.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Υπάρχουν διορθώσεις και διορθωτικές ενέργειες για αποκλίσεις.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Σχέδιο ελέγχου κινδύνων HACCP/OPRP.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Σχέδιο ελέγχου κινδύνων HACCP/OPRP;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.6",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Επικαιροποίηση PRP/HACCP πληροφοριών",
+    "requirement_checklist": "Επικαιροποίηση πληροφοριών μετά την καθιέρωση του σχεδίου ελέγχου κινδύνων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Πληροφορίες προϊόντων/διεργασιών/PRPs ενημερώνονται μετά από αλλαγές.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Το HACCP/OPRP plan ανασκοπείται μετά από αλλαγές ή αποκλίσεις.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Υπάρχει τεκμηριωμένη έγκριση αλλαγών.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Επικαιροποίηση PRP/HACCP πληροφοριών.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Επικαιροποίηση PRP/HACCP πληροφοριών;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.7",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Παρακολούθηση και μέτρηση",
+    "requirement_checklist": "Έλεγχος εξοπλισμού και μεθόδων παρακολούθησης/μέτρησης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Κρίσιμος εξοπλισμός μέτρησης είναι αναγνωρισμένος.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει πρόγραμμα διακρίβωσης/επαλήθευσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Αποκλίσεις εξοπλισμού αξιολογούνται ως προς προϊόντα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Παρακολούθηση και μέτρηση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Παρακολούθηση και μέτρηση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.8",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Επαλήθευση PRP και HACCP/OPRP",
+    "requirement_checklist": "Πρόγραμμα επαλήθευσης και ανάλυση αποτελεσμάτων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει πρόγραμμα επαλήθευσης PRPs, OPRPs και CCPs.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα αποτελέσματα αναλύονται για τάσεις και αποτελεσματικότητα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ανεπαρκή αποτελέσματα οδηγούν σε CAPA.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Επαλήθευση PRP και HACCP/OPRP.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Επαλήθευση PRP και HACCP/OPRP;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "8.9",
+    "section": "ISO 22000:2018 — 8 Λειτουργία",
+    "main_section": "ISO 22000:2018 — 8 Λειτουργία",
+    "title": "Μη συμμορφώσεις, δυνητικά μη ασφαλή προϊόντα, ανάκληση",
+    "requirement_checklist": "Έλεγχος αποκλίσεων, διορθώσεων, CAPA, δέσμευσης προϊόντος και ανάκλησης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει διαδικασία χειρισμού μη συμμορφώσεων και αποκλίσεων CCP/OPRP.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Δυνητικά μη ασφαλή προϊόντα εντοπίζονται, δεσμεύονται και αξιολογούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Υπάρχει διαδικασία απόσυρσης/ανάκλησης και δοκιμάζεται περιοδικά.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "CAPA βασίζεται σε ανάλυση αιτίας και επαλήθευση αποτελεσματικότητας.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Μη συμμορφώσεις, δυνητικά μη ασφαλή προϊόντα, ανάκληση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Μη συμμορφώσεις, δυνητικά μη ασφαλή προϊόντα, ανάκληση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]

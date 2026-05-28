@@ -1,0 +1,1575 @@
+[
+  {
+    "clause": "1.1.1",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site shall have a documented policy which states the site’s intention to me…",
+    "requirement_checklist": "The site shall have a documented policy which states the site’s intention to meet its obligation to produce safe, legal and authentic products to the specified quality, and its responsibility to its customers. This shall:\nbe signed by the person with overall responsibility for the site\nbe communicated to all staff\ninclude commitment to continuously improve the site’s food safety and quality culture.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must have a documented policy which states the site’s intention to meet its obligation to produce safe, legal and authentic products to the specified quality, and its responsibility to its customers. This must:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Be signed by the person with overall responsibility for the site",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Be communicated to all staff",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Include commitment to continuously improve the site’s food safety and quality culture.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.2",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site’s senior management shall define and maintain a clear plan for the dev…",
+    "requirement_checklist": "The site’s senior management shall define and maintain a clear plan for the development and continuing improvement of a food safety and quality culture. The plan shall include measures needed to achieve a positive culture change.\nThis shall include:\ndefined activities involving all sections of the site that have an impact on product safety. As a minimum, these activities shall be designed around:\nclear and open communication on product safety\ntraining\nfeedback from employees\nthe behaviours required to maintain and improve product safety processes\nperformance measurement of activities related to the safety, authenticity, legality and quality of products\nan action plan indicating how the activities will be undertaken and measured, and the intended timescales\na review of the effectiveness of completed activities.\nThe plan shall be reviewed and updated at least annually, at a minimum.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site’s senior management must define and maintain a clear plan for the development and continuing improvement of a food safety and quality culture. The plan must include measures needed to achieve a positive culture change.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "This must include:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Defined activities involving all sections of the site that have an impact on product safety. As a minimum, these activities must be designed around:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Clear and open communication on product safety",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Training",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Feedback from employees",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "The behaviours required to maintain and improve product safety processes",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Performance measurement of activities related to the safety, authenticity, legality and quality of products",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "An action plan indicating how the activities will be undertaken and measured, and the intended timescales",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "A review of the effectiveness of completed activities.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "The plan must be reviewed and updated at least annually, at a minimum.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.3",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site’s senior management shall ensure that clear objectives are defined to…",
+    "requirement_checklist": "The site’s senior management shall ensure that clear objectives are defined to maintain and improve the safety, authenticity, legality and quality of products manufactured, in accordance with the food safety and quality policy and this Standard. These objectives shall be:\ndocumented and include targets or clear measures of success\nclearly communicated to all staff\nmonitored and results reported at least quarterly to site senior management and all staff.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site’s senior management must ensure that clear objectives are defined to maintain and improve the safety, authenticity, legality and quality of products manufactured, in accordance with the food safety and quality policy and this Standard. These objectives must be:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Documented and include targets or clear measures of success",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Clearly communicated to all staff",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Monitored and results reported at least quarterly to site senior management and all staff.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.4",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "Management review meetings attended by the site’s senior management shall be un…",
+    "requirement_checklist": "Management review meetings attended by the site’s senior management shall be undertaken at appropriate planned intervals, annually at a minimum, to review the site performance against the Standard and objectives set in clause 1.1.3. The review process shall include the evaluation of:\nprevious management review action plans and timeframes\nthe results of internal, second-party and/or third-party audits\nany objectives that have not been met, to understand the underlying reasons. This information shall be used when setting future objectives and to facilitate continual improvement\nany customer complaints and the results of any customer feedback\nany incidents (including both recalls and withdrawals), corrective actions, out-of-specification results and non-conforming materials\nthe effectiveness of the systems for HACCP, food defence and authenticity, and the food safety and quality culture plan\nresource requirements.\nRecords of the meeting shall be documented and used to revise the objectives, thereby encouraging continual improvement. The decisions and actions agreed within the review process shall be effectively communicated to appropriate staff, and actions implemented within agreed timescales.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Management review meetings attended by the site’s senior management must be undertaken at appropriate planned intervals, annually at a minimum, to review the site performance against the Standard and objectives set in clause 1.1.3. The review process must include the evaluation of:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Previous management review action plans and timeframes",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "The results of internal, second-party and/or third-party audits",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Any objectives that have not been met, to understand the underlying reasons. This information must be used when setting future objectives and to facilitate continual improvement",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Any customer complaints and the results of any customer feedback",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Any incidents (including both recalls and withdrawals), corrective actions, out-of-specification results and non-conforming materials",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "The effectiveness of the systems for HACCP, food defence and authenticity, and the food safety and quality culture plan",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "Resource requirements.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "Records of the meeting must be documented and used to revise the objectives, thereby encouraging continual improvement. The decisions and actions agreed within the review process must be effectively communicated to appropriate staff, and actions implemented within agreed timescales.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.5",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site shall have a demonstrable meeting programme which enables food safety,…",
+    "requirement_checklist": "The site shall have a demonstrable meeting programme which enables food safety, authenticity, legality and quality issues to be brought to the attention of senior management. These meetings shall occur at least monthly.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must have a demonstrable meeting programme which enables food safety, authenticity, legality and quality issues to be brought to the attention of senior management. These meetings must occur at least monthly.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.6",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The company shall have a confidential reporting system to enable staff to repor…",
+    "requirement_checklist": "The company shall have a confidential reporting system to enable staff to report concerns relating to product safety, authenticity, legality and quality.\nThe mechanism (e.g. the relevant telephone number) for reporting concerns shall be clearly communicated to staff.\nThe company’s senior management shall have a process for assessing any concerns raised. Records of the assessment and, where appropriate, actions taken, shall be documented.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must have a confidential reporting system to enable staff to report concerns relating to product safety, authenticity, legality and quality.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The mechanism (e.g. the relevant telephone number) for reporting concerns must be clearly communicated to staff. The company’s senior management must have a process for assessing any concerns raised. Records of the assessment and, where appropriate, actions taken, must be documented.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.7",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The company’s senior management shall provide the human and financial resources…",
+    "requirement_checklist": "The company’s senior management shall provide the human and financial resources required to produce safe, authentic, legal products to the specified quality and in compliance with the requirements of this Standard.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company’s senior management must provide the human and financial resources required to produce safe, authentic, legal products to the specified quality and in compliance with the requirements of this Standard.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.8",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The company’s senior management shall have a system in place to ensure that the…",
+    "requirement_checklist": "The company’s senior management shall have a system in place to ensure that the site is kept informed of and reviews:\nscientific and technical developments\nindustry codes of practice\nnew risks to authenticity of raw materials\nall relevant legislation in the country where the product will be sold (where known).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company’s senior management must have a system in place to ensure that the site is kept informed of and reviews:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Scientific and technical developments",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Industry codes of practice",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "New risks to authenticity of raw materials",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "All relevant legislation in the country where the product will be sold (where known).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.9",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site shall have a genuine, original hard copy or electronic version of the…",
+    "requirement_checklist": "The site shall have a genuine, original hard copy or electronic version of the current Standard available and be aware of any changes to the Standard or protocol that are published on the BRCGS website.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must have a genuine, original hard copy or electronic version of the current Standard available and be aware of any changes to the Standard or protocol that are published on the BRCGS website.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.10",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "Where the site is certificated to the Standard, it shall ensure that announced…",
+    "requirement_checklist": "Where the site is certificated to the Standard, it shall ensure that announced or blended announced recertification audits occur on or before the audit due date indicated on the certificate.\nIt is the site’s responsibility to ensure that all requirements are in place to ensure the unannounced audit can be undertaken in accordance with the protocol.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where the site is certificated to the Standard, it must ensure that announced or blended announced recertification audits occur on or before the audit due date indicated on the certificate. It is the site’s responsibility to ensure that all requirements are in place to ensure the unannounced audit can be undertaken in accordance with the protocol.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.11",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The most senior production or operations manager on site shall participate in t…",
+    "requirement_checklist": "The most senior production or operations manager on site shall participate in the opening and closing meetings of the audit for certification to the Standard.\nRelevant departmental managers or their deputies shall be available as required during the audit.\nA member of the senior management team on site shall be available during the audit for a discussion on effective implementation of the food safety and quality culture plan.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The most senior production or operations manager on site must participate in the opening and closing meetings of the audit for certification to the Standard.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Relevant departmental managers or their deputies must be available as required during the audit. A member of the senior management team on site must be available during the audit for a discussion on effective implementation of the food safety and quality culture plan.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.12",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site’s senior management shall ensure that the root causes of any non-confo…",
+    "requirement_checklist": "The site’s senior management shall ensure that the root causes of any non-conformities against the Standard identified at the previous audit have been effectively addressed to prevent recurrence.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site’s senior management must ensure that the root causes of any non-conformities against the Standard identified at the previous audit have been effectively addressed to prevent recurrence.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.13",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The BRCGS logo and references to certification status shall be used only in acc…",
+    "requirement_checklist": "The BRCGS logo and references to certification status shall be used only in accordance with the conditions of use detailed in the audit protocol section (Part III, section 6.7) of the Standard.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The BRCGS logo and references to certification status must be used only in accordance with the conditions of use detailed in the audit protocol section (Part III, section 6.7) of the Standard.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.1.14",
+    "section": "1.1 Senior management commitment and continual improvement",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "Where required by legislation, the site shall maintain appropriate registration…",
+    "requirement_checklist": "Where required by legislation, the site shall maintain appropriate registrations with the relevant authorities.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where required by legislation, the site must maintain appropriate registrations with the relevant authorities.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.2.1",
+    "section": "1.2 Organisational structure, responsibilities and management authority",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The company shall have an organisation chart demonstrating the management struc…",
+    "requirement_checklist": "The company shall have an organisation chart demonstrating the management structure of the company. The responsibilities for the management of activities which ensure food safety, authenticity, legality and quality shall be clearly allocated and understood by the managers responsible. It shall be clearly documented who deputises in the absence of the responsible person.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must have an organisation chart demonstrating the management structure of the company.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The responsibilities for the management of activities which ensure food safety, authenticity, legality and quality must be clearly allocated and understood by the managers responsible.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "It must be clearly documented who deputises in the absence of the responsible person.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.2.2",
+    "section": "1.2 Organisational structure, responsibilities and management authority",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "The site’s senior management shall ensure that all staff are aware of their res…",
+    "requirement_checklist": "The site’s senior management shall ensure that all staff are aware of their responsibilities and demonstrate that work is carried out in accordance with documented site policies, procedures, work instructions and existing practices for activities undertaken. All staff shall have access to relevant documentation.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site’s senior management must ensure that all staff are aware of their responsibilities and demonstrate that work is carried out in accordance with documented site policies, procedures, work instructions and existing practices for activities undertaken.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "All staff must have access to relevant documentation.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.2.3",
+    "section": "1.2 Organisational structure, responsibilities and management authority",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "Staff shall be aware of the need to report any risks or any evidence of unsafe…",
+    "requirement_checklist": "Staff shall be aware of the need to report any risks or any evidence of unsafe or out-of-specification product, equipment, packaging or raw materials, to a designated manager to enable the resolution of issues requiring immediate action.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Staff must be aware of the need to report any risks or any evidence of unsafe or out-of-specification product, equipment, packaging or raw materials, to a designated manager to enable the resolution of issues requiring immediate action.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "1.2.4",
+    "section": "1.2 Organisational structure, responsibilities and management authority",
+    "main_section": "1 Senior management commitment and continual improvement",
+    "title": "If the site does not have the appropriate in-house knowledge of food safety, au…",
+    "requirement_checklist": "If the site does not have the appropriate in-house knowledge of food safety, authenticity, legality or quality, external expertise (e.g. food safety consultants) may be used; however, the day-to-day management of the food safety systems shall remain the responsibility of the company.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "If the site does not have the appropriate in-house knowledge of food safety, authenticity, legality or quality, external expertise (e.g. food safety consultants) may be used",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "however, the day-to-day management of the food safety systems must remain the responsibility of the company.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  }
+]

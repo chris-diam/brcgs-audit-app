@@ -1,0 +1,230 @@
+[
+  {
+    "clause": "9.1",
+    "section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "main_section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "title": "Παρακολούθηση, μέτρηση, ανάλυση και αποτίμηση",
+    "requirement_checklist": "Καθορισμός και ανάλυση μετρήσεων για την επίδοση του ΣΔΑΤ.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν καθοριστεί δείκτες και μέθοδοι παρακολούθησης.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα δεδομένα αναλύονται και αποτιμάται η επίδοση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα αποτελέσματα οδηγούν σε αποφάσεις και βελτίωση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Παρακολούθηση, μέτρηση, ανάλυση και αποτίμηση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Παρακολούθηση, μέτρηση, ανάλυση και αποτίμηση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "9.2",
+    "section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "main_section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "title": "Εσωτερική επιθεώρηση",
+    "requirement_checklist": "Προγραμματισμένες εσωτερικές επιθεωρήσεις συμμόρφωσης και αποτελεσματικότητας.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει πρόγραμμα εσωτερικών επιθεωρήσεων που καλύπτει ISO, PRPs και διεργασίες.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Οι επιθεωρητές είναι επαρκείς και αντικειμενικοί.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα ευρήματα τεκμηριώνονται και παρακολουθούνται έως κλείσιμο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Εσωτερική επιθεώρηση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Εσωτερική επιθεώρηση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "9.3",
+    "section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "main_section": "ISO 22000:2018 — 9 Αποτίμηση επιδόσεων",
+    "title": "Ανασκόπηση διοίκησης",
+    "requirement_checklist": "Ανασκόπηση καταλληλότητας, επάρκειας και αποτελεσματικότητας του ΣΔΑΤ.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η ανασκόπηση καλύπτει τα απαιτούμενα εισερχόμενα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα αποτελέσματα περιλαμβάνουν αποφάσεις για βελτίωση, πόρους και αλλαγές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι ενέργειες παρακολουθούνται έως ολοκλήρωση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ανασκόπηση διοίκησης.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ανασκόπηση διοίκησης;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]

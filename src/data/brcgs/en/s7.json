@@ -1,0 +1,1585 @@
+[
+  {
+    "clause": "7.1.1",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "All personnel, including agency-supplied staff, temporary staff and contractors…",
+    "requirement_checklist": "All personnel, including agency-supplied staff, temporary staff and contractors, shall be appropriately trained prior to commencing work and adequately supervised throughout the working period.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "All personnel, including agency-supplied staff, temporary staff and contractors, must be appropriately trained prior to commencing work and adequately supervised throughout the working period.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.2",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "Where personnel are engaged in activities relating to control measures and crit…",
+    "requirement_checklist": "Where personnel are engaged in activities relating to control measures and critical control points, relevant training and competency assessment shall be in place.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where personnel are engaged in activities relating to control measures and critical control points, relevant training and competency assessment must be in place.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.3",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "The site shall put in place documented programmes covering the training needs o…",
+    "requirement_checklist": "The site shall put in place documented programmes covering the training needs of personnel. These shall include, at a minimum:\nidentifying the necessary competencies for specific roles\nproviding training or other action to ensure staff have the necessary competencies\nreviewing the effectiveness of training\ndelivery of training in the appropriate language of trainees.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must put in place documented programmes covering the training needs of personnel. These must include, at a minimum:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Identifying the necessary competencies for specific roles",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Providing training or other action to ensure staff have the necessary competencies",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Reviewing the effectiveness of training",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Delivery of training in the appropriate language of trainees.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.4",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "All personnel, including engineers, agency-supplied staff, temporary staff and…",
+    "requirement_checklist": "All personnel, including engineers, agency-supplied staff, temporary staff and contractors, shall have received general allergen awareness training and be trained in the site’s allergen-handling procedures.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "All personnel, including engineers, agency-supplied staff, temporary staff and contractors, must have received general allergen awareness training and be trained in the site’s allergen-handling procedures.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.5",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "All relevant personnel (including relevant agency-supplied staff, temporary sta…",
+    "requirement_checklist": "All relevant personnel (including relevant agency-supplied staff, temporary staff and contractors) shall have received training on the site’s labelling and packing processes which are designed to ensure the correct labelling and packing of products.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "All relevant personnel (including relevant agency-supplied staff, temporary staff and contractors) must have received training on the site’s labelling and packing processes which are designed to ensure the correct labelling and packing of products.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.6",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "Records of all training shall be available. These shall include, at a minimum:",
+    "requirement_checklist": "Records of all training shall be available. These shall include, at a minimum:\nthe name of the trainee and confirmation of attendance\nthe date and duration of the training\nthe title or course contents, as appropriate\nthe training provider\nfor internal courses, a reference to the material, work instruction or procedure that is used in the training.\nWhere training is undertaken by agencies on behalf of the company, records of the training shall be available.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Records of all training must be available. These must include, at a minimum:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The name of the trainee and confirmation of attendance",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The date and duration of the training The title or course contents, as appropriate The training provider For internal courses, a reference to the material, work instruction or procedure that is used in the training. Where training is undertaken by agencies on behalf of the company, records of the training must be available.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.1.7",
+    "section": "7.1 Training: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "The company shall routinely review the competencies of its staff. As appropriat…",
+    "requirement_checklist": "The company shall routinely review the competencies of its staff. As appropriate, it shall provide relevant training. This may be in the form of training, refresher training, coaching, mentoring or on-the-job experience.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must routinely review the competencies of its staff. As appropriate, it must provide relevant training. This may be in the form of training, refresher training, coaching, mentoring or on-the-job experience.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.2.1",
+    "section": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "The requirements for personal hygiene shall be documented and communicated to a…",
+    "requirement_checklist": "The requirements for personal hygiene shall be documented and communicated to all personnel. These shall include, at a minimum, the following:\nwatches and similar wearable devices shall not be worn\njewellery shall not be worn, with the exception of a single, plain wedding ring, wedding wristband or medical alert jewellery\nrings and studs in exposed parts of the body, such as ears, noses and eyebrows, shall not be worn\nfingernails shall be kept short, clean and unvarnished\nfalse fingernails and nail art shall not be permitted\nexcessive perfume or aftershave shall not be worn.\nCompliance with the requirements shall be checked routinely.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The requirements for personal hygiene must be documented and communicated to all personnel. These must include, at a minimum, the following:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Watches and similar wearable devices must not be worn",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Jewellery must not be worn, with the exception of a single, plain wedding ring, wedding wristband or medical alert jewellery",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Rings and studs in exposed parts of the body, such as ears, noses and eyebrows, must not be worn",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Fingernails must be kept short, clean and unvarnished",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "False fingernails and nail art must not be permitted",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Excessive perfume or aftershave must not be worn.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Compliance with the requirements must be checked routinely.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.2.2",
+    "section": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "Hand-washing shall be performed on entry to the production areas and at a frequ…",
+    "requirement_checklist": "Hand-washing shall be performed on entry to the production areas and at a frequency that is appropriate to minimise the risk of product contamination.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Hand-washing must be performed on entry to the production areas and at a frequency that is appropriate to minimise the risk of product contamination.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.2.3",
+    "section": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "All cuts and grazes on exposed skin shall be covered by an appropriately colour…",
+    "requirement_checklist": "All cuts and grazes on exposed skin shall be covered by an appropriately coloured plaster that is different from the product colour (preferably blue) and contains a metal detectable strip. These shall be site-issued and monitored. Where appropriate, in addition to the plaster, a glove shall be worn.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "All cuts and grazes on exposed skin must be covered by an appropriately coloured plaster that is different from the product colour (preferably blue) and contains a metal detectable strip.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "These must be site-issued and monitored. Where appropriate, in addition to the plaster, a glove must be worn.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.2.4",
+    "section": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "Where metal detection equipment is used, a sample from each batch of plasters s…",
+    "requirement_checklist": "Where metal detection equipment is used, a sample from each batch of plasters shall be successfully tested through the equipment and records shall be kept.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where metal detection equipment is used, a sample from each batch of plasters must be successfully tested through the equipment and records must be kept.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.2.5",
+    "section": "7.2 Personal hygiene: raw material handling, preparation, processing, packing and storage areas",
+    "main_section": "7 Personnel",
+    "title": "Processes and written instructions for staff shall be in place to control the u…",
+    "requirement_checklist": "Processes and written instructions for staff shall be in place to control the use and storage of personal medicines, so as to minimise the risk of product contamination.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Processes and written instructions for staff must be in place to control the use and storage of personal medicines, so as to minimise the risk of product contamination.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.3.1",
+    "section": "7.3 Medical screening",
+    "main_section": "7 Personnel",
+    "title": "The site shall make staff aware of the symptoms of infection, disease or condit…",
+    "requirement_checklist": "The site shall make staff aware of the symptoms of infection, disease or condition which would prevent a person working with open food. The site shall have a procedure which enables notification by staff (including temporary employees), contractors and visitors to the site, of any relevant symptoms, infection, disease or condition which they may have been in contact with or may be suffering from.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must make staff aware of the symptoms of infection, disease or condition which would prevent a person working with open food.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The site must have a procedure which enables notification by staff (including temporary employees), contractors and visitors to the site, of any relevant symptoms, infection, disease or condition which they may have been in contact with or may be suffering from.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.3.2",
+    "section": "7.3 Medical screening",
+    "main_section": "7 Personnel",
+    "title": "Where there may be a risk to product safety, visitors and contractors shall be…",
+    "requirement_checklist": "Where there may be a risk to product safety, visitors and contractors shall be made aware of the types of symptoms, infection, disease or condition which would prevent a person visiting areas with open food. Where permitted by law, visitors shall be required to complete a health questionnaire or otherwise confirm that they are not suffering from any symptoms which may put product safety at risk, prior to entering the raw material, preparation, processing, packing and storage areas.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where there may be a risk to product safety, visitors and contractors must be made aware of the types of symptoms, infection, disease or condition which would prevent a person visiting areas with open food. Where permitted by law, visitors must be required to complete a health questionnaire or otherwise confirm that they are not suffering from any symptoms which may put product safety at risk, prior to entering the raw material, preparation, processing, packing and storage areas.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.3.3",
+    "section": "7.3 Medical screening",
+    "main_section": "7 Personnel",
+    "title": "There shall be procedures for staff (including temporary employees), contractor…",
+    "requirement_checklist": "There shall be procedures for staff (including temporary employees), contractors and visitors relating to action to be taken where they may be suffering from or have been in contact with an infectious disease. Expert medical advice shall be sought where required.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "There must be procedures for staff (including temporary employees), contractors and visitors relating to action to be taken where they may be suffering from or have been in contact with an infectious disease.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Expert medical advice must be sought where required.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.1",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "The company shall document and communicate to all staff (including agency and t…",
+    "requirement_checklist": "The company shall document and communicate to all staff (including agency and temporary personnel), contractors and visitors the rules regarding the wearing of protective clothing in specified work areas (e.g. production areas, storage areas). This shall also include policies relating to the wearing of protective clothing away from the production environment (e.g. removal before entering toilets, and use of canteen and smoking areas).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The company must document and communicate to all staff (including agency and temporary personnel), contractors and visitors the rules regarding the wearing of protective clothing in specified work areas (e.g. production areas, storage areas).",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "This must also include policies relating to the wearing of protective clothing away from the production environment (e.g. removal before entering toilets, and use of canteen and smoking areas).",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.2",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "Protective clothing shall be available that:",
+    "requirement_checklist": "Protective clothing shall be available that:\nis provided in sufficient numbers for each employee\nis of suitable design to prevent contamination of the product (at a minimum containing no external pockets above the waist or sewn-on buttons)\nfully contains all scalp hair to prevent product contamination\nincludes snoods for beards and moustaches, where required, to prevent product contamination.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Protective clothing must be available that:",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Is provided in sufficient numbers for each employee",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Is of suitable design to prevent contamination of the product (at a minimum containing no external pockets above the waist or sewn-on buttons)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Fully contains all scalp hair to prevent product contamination",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Includes snoods for beards and moustaches, where required, to prevent product contamination.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.3",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "Protective clothing shall be laundered by an approved contracted or in-house la…",
+    "requirement_checklist": "Protective clothing shall be laundered by an approved contracted or in-house laundry using defined criteria to validate the effectiveness of the laundering process. The laundry must operate procedures which ensure:\nadequate segregation between dirty and cleaned clothes\neffective cleaning of the protective clothing\ncleaned clothes are supplied protected from contamination until use (e.g. by the use of covers or bags).\nWashing of protective clothing by the employee is exceptional but shall be acceptable where:\nthe protective clothing is not used for product safety purposes; for example, it is used to protect the employee from the products handled\nand\nthe protective clothing is worn in enclosed product or low-risk areas only.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Protective clothing must be laundered by an approved contracted or in-house laundry using defined criteria to validate the effectiveness of the laundering process. The laundry must operate procedures which ensure:",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Adequate segregation between dirty and cleaned clothes",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Effective cleaning of the protective clothing",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Cleaned clothes are supplied protected from contamination until use (e.g. by the use of covers or bags).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Washing of protective clothing by the employee is exceptional but must be acceptable where:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "The protective clothing is not used for product safety purposes; for example, it is used to protect the employee from the products handled And The protective clothing is worn in enclosed product or low-risk areas only.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.4",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "Protective clothing shall be changed at an appropriate frequency, based on risk.",
+    "requirement_checklist": "Protective clothing shall be changed at an appropriate frequency, based on risk.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Protective clothing must be changed at an appropriate frequency, based on risk.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.5",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "If gloves are used, they shall be replaced regularly. Where appropriate, gloves…",
+    "requirement_checklist": "If gloves are used, they shall be replaced regularly. Where appropriate, gloves shall be suitable for food use, of a disposable type, of a distinctive colour (blue where possible) and intact, and shall not shed loose fibres.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "If gloves are used, they must be replaced regularly. Where appropriate, gloves must be suitable for food use, of a disposable type, of a distinctive colour (blue where possible) and intact, and must not shed loose fibres.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "7.4.6",
+    "section": "7.4 Protective clothing: staff or visitors to production areas",
+    "main_section": "7 Personnel",
+    "title": "Where items of protective clothing that are not suitable for laundering are pro…",
+    "requirement_checklist": "Where items of protective clothing that are not suitable for laundering are provided (such as chain mail, gloves and aprons), these shall be cleaned and disinfected at a frequency based on risk.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where items of protective clothing that are not suitable for laundering are provided (such as chain mail, gloves and aprons), these must be cleaned and disinfected at a frequency based on risk.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  }
+]

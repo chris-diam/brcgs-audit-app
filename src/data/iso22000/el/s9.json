@@ -1,0 +1,793 @@
+[
+  {
+    "clause": "1-4",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Αποχετεύσεις και ροές κτιρίου",
+    "requirement_checklist": "Ειδικές απαιτήσεις για αποχετεύσεις και καθαρές/ρυπαρές περιοχές.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι αποχετεύσεις δεν περνούν πάνω από γραμμές επεξεργασίας.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η ροή αποστράγγισης δεν πηγαίνει από ρυπαρή σε καθαρή περιοχή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Αποχετεύσεις και ροές κτιρίου.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Αποχετεύσεις και ροές κτιρίου;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-6.2",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Νερό, πάγος και ατμός παραγωγής",
+    "requirement_checklist": "Ποιότητα νερού/πάγου/ατμού ως συστατικό ή σε επαφή με προϊόν.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν προδιαγραφές ποιότητας/μικροβιολογίας.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η χλωρίωση ή άλλη επεξεργασία παρακολουθείται στα σημεία χρήσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι σωληνώσεις καθαρίζονται/απολυμαίνονται όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Νερό, πάγος και ατμός παραγωγής.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Νερό, πάγος και ατμός παραγωγής;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-6.6",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Χημικά λέβητα",
+    "requirement_checklist": "Καταλληλότητα και ασφαλής αποθήκευση χημικών λέβητα.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα χημικά λέβητα είναι κατάλληλα/εγκεκριμένα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αποθηκεύονται σε ξεχωριστό ασφαλή χώρο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Χημικά λέβητα.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Χημικά λέβητα;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-10",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Bulk παραλαβές",
+    "requirement_checklist": "Έλεγχος bulk receiving lines και πρόσβασης.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα bulk receiving access points είναι αναγνωρισμένα, κλειστά και κλειδωμένα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η εκφόρτωση γίνεται μετά από έγκριση και επαλήθευση υλικού.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Bulk παραλαβές.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Bulk παραλαβές;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-12.2",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Micro zoning",
+    "requirement_checklist": "Σχέδιο διαχωρισμού για μικροβιολογική διασταυρούμενη επιμόλυνση.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχει αξιολογηθεί πιθανή μικροβιολογική cross-contamination.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει zoning plan για raw/RTE ή καθαρές/ρυπαρές περιοχές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ελέγχονται ροές προσωπικού, υλικών, εργαλείων και πιέσεις αέρα όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Micro zoning.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Micro zoning;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-12.3",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Allergen management",
+    "requirement_checklist": "Προστασία από ακούσια διασταυρούμενη επαφή αλλεργιογόνων και σωστή δήλωση.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν cleaning/change-over, sequencing, dedicated tools ή άλλα controls.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Rework με αλλεργιογόνα χρησιμοποιείται μόνο με καθορισμένο και ασφαλή τρόπο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Το προσωπικό έχει εκπαιδευτεί σε allergen awareness.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Η επισήμανση αλλεργιογόνων είναι ορθή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Allergen management.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Allergen management;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-12.4",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Φυσική επιμόλυνση / brittle materials",
+    "requirement_checklist": "Πρόληψη/ανίχνευση ξένων σωμάτων, γυαλιού και σκληρών πλαστικών.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν covers, sieves, filters, magnets, metal detector ή X-ray όπου απαιτείται.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Υπάρχει brittle material register και διαδικασία θραύσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Κάθε θραύση τεκμηριώνεται και αξιολογείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Φυσική επιμόλυνση / brittle materials.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Φυσική επιμόλυνση / brittle materials;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-12.5",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Χημική επιμόλυνση",
+    "requirement_checklist": "Έλεγχος χημικών, λιπαντικών, απολυμαντικών και φυτοφαρμάκων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Τα χημικά είναι εγκεκριμένα, επισημασμένα και χρησιμοποιούνται σύμφωνα με οδηγίες.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αποθηκεύονται ξεχωριστά σε ασφαλή χώρο.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Πιθανή χημική επιμόλυνση οδηγεί σε διορθώσεις/CAPA και επικοινωνία.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Χημική επιμόλυνση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Χημική επιμόλυνση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-13.3",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Post-clean / pre-start-up checks",
+    "requirement_checklist": "Έλεγχοι μετά τον καθαρισμό ή πριν την εκκίνηση όπου απαιτείται.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι έλεγχοι μετά τον καθαρισμό ή πριν την εκκίνηση είναι καθορισμένοι.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα αποτελέσματα καταγράφονται και αποκλίσεις διορθώνονται πριν την παραγωγή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Post-clean / pre-start-up checks.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Post-clean / pre-start-up checks;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-13.4",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "CIP systems",
+    "requirement_checklist": "Διαχωρισμός CIP και έλεγχος παραμέτρων.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Το CIP είναι διαχωρισμένο από ενεργές γραμμές προϊόντος.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Παράμετροι χημικού, συγκέντρωσης, χρόνου και θερμοκρασίας παρακολουθούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: CIP systems.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: CIP systems;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  },
+  {
+    "clause": "1-17",
+    "section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "main_section": "ISO 22002-1:2025 — Ειδικά PRPs παραγωγής τροφίμων",
+    "title": "Rework",
+    "requirement_checklist": "Ασφαλής αποθήκευση, ταυτοποίηση, ιχνηλασιμότητα και χρήση rework.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Το rework προστατεύεται από μικροβιολογική, χημική, φυσική και αλλεργιογονική επιμόλυνση.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Το rework ταυτοποιείται/επισημαίνεται και ιχνηλατείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ποσότητα, τύπος και συνθήκες χρήσης rework είναι καθορισμένες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Υπάρχει έλεγχος αφαίρεσης υλικών συσκευασίας όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Rework.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Rework;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ISO 22002-1:2025"
+  }
+]

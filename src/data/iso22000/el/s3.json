@@ -1,0 +1,230 @@
+[
+  {
+    "clause": "6.1",
+    "section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "main_section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "title": "Απειλές και ευκαιρίες",
+    "requirement_checklist": "Προσδιορισμός απειλών/ευκαιριών και σχεδιασμός ενεργειών ανάλογων με την επίδραση στην ασφάλεια τροφίμων.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει μεθοδολογία ή μητρώο απειλών και ευκαιριών.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Οι ενέργειες είναι ανάλογες με την επίδραση στην ασφάλεια τροφίμων και συμμόρφωση προϊόντων.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η αποτελεσματικότητα των ενεργειών αξιολογείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Απειλές και ευκαιρίες.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Απειλές και ευκαιρίες;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "6.2",
+    "section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "main_section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "title": "Στόχοι ΣΔΑΤ",
+    "requirement_checklist": "Στόχοι συμβατοί με την πολιτική, μετρήσιμοι όπου δυνατό, παρακολουθούμενοι και επικοινωνημένοι.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι στόχοι ΣΔΑΤ είναι τεκμηριωμένοι και σχετικοί.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Έχουν οριστεί υπεύθυνοι, πόροι, προθεσμίες και δείκτες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η πρόοδος παρακολουθείται και επικοινωνείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Στόχοι ΣΔΑΤ.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Στόχοι ΣΔΑΤ;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "6.3",
+    "section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "main_section": "ISO 22000:2018 — 6 Σχεδιασμός",
+    "title": "Σχεδιασμός αλλαγών",
+    "requirement_checklist": "Σχεδιασμένη εφαρμογή αλλαγών με αξιολόγηση σκοπού, συνεπειών, πόρων και αρμοδιοτήτων.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει change control για αλλαγές που επηρεάζουν το ΣΔΑΤ.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Αξιολογείται η επίδραση στην ασφάλεια τροφίμων πριν την εφαρμογή.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Ενημερώνονται HACCP, PRPs, έγγραφα και εκπαιδεύσεις όπου απαιτείται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Σχεδιασμός αλλαγών.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Σχεδιασμός αλλαγών;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]

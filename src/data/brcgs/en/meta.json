@@ -1,0 +1,8 @@
+{
+  "version": "v35.0.2",
+  "title": "BRCGS GOLD Audit Compact App v35.0.2 — English Auditor-Friendly QA Fixed",
+  "principle": "Only true BRCGS requirement control points are scored. Introductory or header lines that introduce bullet lists are not scored.",
+  "language_normalization": "v35.0.2 fixed English build. APP_DATA embedded as valid compact JSON; section and clause navigator restored. Remaining Greek UI strings removed. Scoring/finding logic preserved from v35.0.2.",
+  "language_style": "Auditor-friendly English wording using “must” language for practical audit use; official BRCGS terms and acronyms retained where useful.",
+  "language_pass": "English auditor-friendly QA fixed. Scoring/finding logic unchanged."
+}

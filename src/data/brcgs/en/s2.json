@@ -1,0 +1,2255 @@
+[
+  {
+    "clause": "2.1.1",
+    "section": "2.1 The HACCP Food Safety team (equivalent to codex Alimentarius Step 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP or food safety plan shall be developed and managed by a multi-discipl…",
+    "requirement_checklist": "The HACCP or food safety plan shall be developed and managed by a multi-disciplinary food safety team that includes those responsible for quality assurance, technical management, production operations and other relevant functions (e.g. engineering, hygiene).\nThe team leader shall have an in-depth knowledge of Codex HACCP principles (or equivalent) and be able to demonstrate competence, experience and training. Where there is a legal requirement for specific training, this shall be in place.\nThe team members shall have specific knowledge of HACCP and relevant knowledge of products, processes and associated hazards.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP or food safety plan must be developed and managed by a multi-disciplinary food safety team that includes those responsible for quality assurance, technical management, production operations and other relevant functions (e.g. engineering, hygiene).",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The team leader must have an in-depth knowledge of Codex HACCP principles (or equivalent) and be able to demonstrate competence, experience and training. Where there is a legal requirement for specific training, this must be in place.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The team members must have specific knowledge of HACCP and relevant knowledge of products, processes and associated hazards.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.1.2",
+    "section": "2.1 The HACCP Food Safety team (equivalent to codex Alimentarius Step 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The scope of each HACCP or food safety plan, including the products and process…",
+    "requirement_checklist": "The scope of each HACCP or food safety plan, including the products and processes covered, shall be defined.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The scope of each HACCP or food safety plan, including the products and processes covered, must be defined.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.2.1",
+    "section": "2.2 Prerequisite programmes",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The site shall establish and maintain environmental and operational programmes…",
+    "requirement_checklist": "The site shall establish and maintain environmental and operational programmes necessary to create an environment suitable to produce safe and legal food products (prerequisite programmes). As a guide these may include the following, although this is not an exhaustive list:\ncleaning and disinfection (see section 4.11)\npest management (see section 4.14)\nmaintenance programmes for equipment and buildings (see sections 4.4 and 4.6)\npersonal hygiene requirements (see section 7.2)\nstaff training (see section 7.1)\nsupplier approval and purchasing (see section 3.5.1)\ntransportation arrangements (see section 4.16)\nprocesses to prevent cross-contamination (see sections 4.9 and 4.10)\nallergen management (see section 5.3).\nThe prerequisite programmes for the particular areas of the site shall take into account the production risk zoning (see clause 4.3.1).\nThe control measures and monitoring procedures for the prerequisite programmes shall be clearly documented and shall be included within the development and reviews of the HACCP or food safety plan.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The site must establish and maintain environmental and operational programmes necessary to create an environment suitable to produce safe and legal food products (prerequisite programmes). As a guide these may include the following, although this is not an exhaustive list:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      },
+      {
+        "id": "i2",
+        "text": "Cleaning and disinfection (see section 4.11)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Pest management (see section 4.14)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Maintenance programmes for equipment and buildings (see sections 4.4 and 4.6)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Personal hygiene requirements (see section 7.2)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Staff training (see section 7.1)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Supplier approval and purchasing (see section 3.5.1)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "Transportation arrangements (see section 4.16)",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "Processes to prevent cross-contamination (see sections 4.9 and 4.10)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "Allergen management (see section 5.3).",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i11",
+        "text": "The prerequisite programmes for the particular areas of the site must take into account the production risk zoning (see clause 4.3.1). The control measures and monitoring procedures for the prerequisite programmes must be clearly documented and must be included within the development and reviews of the HACCP or food safety plan.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.3.1",
+    "section": "2.3 Describe the product (equivalent to Codex Alimentarius Step 2)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "A full description for each product or group of products shall be developed, wh…",
+    "requirement_checklist": "A full description for each product or group of products shall be developed, which includes all relevant information on food safety. As a guide, this may include the following, although this is not an exhaustive list:\ncomposition (e.g. raw materials, ingredients, allergens, recipe)\norigin of ingredients\nphysical or chemical properties that impact food safety (e.g. pH, aw)\ntreatment and processing (e.g. cooking, cooling)\npackaging system (e.g. modified atmosphere, vacuum)\nstorage and distribution conditions (e.g. chilled, ambient)\nmaximum safe shelf life under prescribed storage and usage conditions.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "A full description for each product or group of products must be developed, which includes all relevant information on food safety. As a guide, this may include the following, although this is not an exhaustive list:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Composition (e.g. raw materials, ingredients, allergens, recipe)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Origin of ingredients Physical or chemical properties that impact food safety (e.g. pH, aw) Treatment and processing (e.g. cooking, cooling) Packaging system (e.g. modified atmosphere, vacuum) Storage and distribution conditions (e.g. chilled, ambient) Maximum safe shelf life under prescribed storage and usage conditions.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.3.2",
+    "section": "2.3 Describe the product (equivalent to Codex Alimentarius Step 2)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "All relevant information needed to conduct the hazard analysis shall be collect…",
+    "requirement_checklist": "All relevant information needed to conduct the hazard analysis shall be collected, maintained, documented and updated. The company shall ensure that the HACCP or food safety plan is based on comprehensive information sources, which are referenced and available on request. As a guide, this may include the following, although this is not an exhaustive list:\nthe latest scientific literature\nhistorical and known hazards associated with specific food products\nrelevant codes of practice\nrecognised guidelines\nfood safety legislation relevant for the production and sale of products\ncustomer requirements\na copy of any existing site HACCP plans (e.g. for products already in production at the site)\na map of the premises and equipment layout (see clause 4.3.2)\na water distribution diagram for the site (see clause 4.5.2)\nindication of any areas (zones) where high-risk, high-care or ambient high-care production facilities are required (see clause 4.3.1).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "All relevant information needed to conduct the hazard analysis must be collected, maintained, documented and updated. The company must ensure that the HACCP or food safety plan is based on comprehensive information sources, which are referenced and available on request. As a guide, this may include the following, although this is not an exhaustive list:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The latest scientific literature",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Historical and known hazards associated with specific food products Relevant codes of practice Recognised guidelines Food safety legislation relevant for the production and sale of products Customer requirements A copy of any existing site HACCP plans (e.g. for products already in production at the site) A map of the premises and equipment layout (see clause 4.3.2) A water distribution diagram for the site (see clause 4.5.2) Indication of any areas (zones) where high-risk, high-care or ambient high-care production facilities are required (see clause 4.3.1).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.4.1",
+    "section": "2.4 Identify intended use (equivalent to Codex Alimentarius Step 3)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The intended use of the product by the customer, and expected alternative uses,…",
+    "requirement_checklist": "The intended use of the product by the customer, and expected alternative uses, shall be described, defining the consumer target groups, including the suitability of the product for vulnerable groups of the population (e.g. infants, elderly, allergy sufferers).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The intended use of the product by the customer, and expected alternative uses, must be described, defining the consumer target groups, including the suitability of the product for vulnerable groups of the population (e.g. infants, elderly, allergy sufferers).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.5.1",
+    "section": "2.5 Construct a process flow diagram (equivalent to Codex Alimentarius Step 4)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "A flow diagram shall be prepared to cover each product, product category or pro…",
+    "requirement_checklist": "A flow diagram shall be prepared to cover each product, product category or process. This shall set out all aspects of the food process operation within the HACCP or food safety plan scope, from raw material receipt through to processing, storage and distribution. As a guide, this should include the following, although this is not an exhaustive list:\nplan of premises and equipment layout\nraw materials, including introduction of utilities and other contact materials (e.g. water, packaging)\nsequence and interaction of all process steps\noutsourced processes and subcontracted work\npotential for process delay\nrework and recycling\nlow-risk/high-risk/high-care area segregation\nfinished products, intermediate/semi-processed products, by-products and waste.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "A flow diagram must be prepared to cover each product, product category or process. This must set out all aspects of the food process operation within the HACCP or food safety plan scope, from raw material receipt through to processing, storage and distribution. As a guide, this should include the following, although this is not an exhaustive list:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Plan of premises and equipment layout",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Raw materials, including introduction of utilities and other contact materials (e.g. water, packaging) Sequence and interaction of all process steps Outsourced processes and subcontracted work Potential for process delay Rework and recycling Low-risk/high-risk/high-care area segregation Finished products, intermediate/semi-processed products, by-products and waste.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.6.1",
+    "section": "2.6 Verify flow diagram (equivalent to Codex Alimentarius Step 5)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall verify the accuracy of the flow diagrams by on…",
+    "requirement_checklist": "The HACCP food safety team shall verify the accuracy of the flow diagrams by on-site audit at least annually, and whenever there are changes to the process, to ensure any changes have been considered as a part of the HACCP or food safety plan. Daily and seasonal variations shall be considered and evaluated. Records of verified flow diagrams shall be maintained.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must verify the accuracy of the flow diagrams by on-site audit at least annually, and whenever there are changes to the process, to ensure any changes have been considered as a part of the HACCP or food safety plan.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Daily and seasonal variations must be considered and evaluated. Records of verified flow diagrams must be maintained.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.7.1",
+    "section": "2.7 List all potential hazards associated with each process step, conduct a hazard analysis and consider any measures to control identified hazards (equivalent to Codex Alimentarius Step 6, Principle 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall identify and record all the potential hazards…",
+    "requirement_checklist": "The HACCP food safety team shall identify and record all the potential hazards that are reasonably expected to occur at each step in relation to product, process and facilities. This shall include hazards present in raw materials, those introduced during the process or surviving the process steps, and consideration of the following types of hazard:\nmicrobiological\nphysical contamination\nchemical and radiological contamination\nfraud (e.g. substitution or deliberate/intentional adulteration) (see section 5.4)\nmalicious contamination of products (see section 4.2)\nallergen risks (see section 5.3).\nIt shall also take account of the preceding and following steps in the process chain.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must identify and record all the potential hazards that are reasonably expected to occur at each step in relation to product, process and facilities. This must include hazards present in raw materials, those introduced during the process or surviving the process steps, and consideration of the following types of hazard:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Microbiological",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Physical contamination",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Chemical and radiological contamination",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Fraud (e.g. substitution or deliberate/intentional adulteration) (see section 5.4)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Malicious contamination of products (see section 4.2)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Allergen risks (see section 5.3).",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "It must also take account of the preceding and following steps in the process chain.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.7.2",
+    "section": "2.7 List all potential hazards associated with each process step, conduct a hazard analysis and consider any measures to control identified hazards (equivalent to Codex Alimentarius Step 6, Principle 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall conduct a hazard analysis to identify the sign…",
+    "requirement_checklist": "The HACCP food safety team shall conduct a hazard analysis to identify the significant hazards (i.e. those hazards that are reasonably likely to occur at an unacceptable level), which need to be prevented, eliminated or reduced to acceptable levels. Consideration shall be given to the following:\nlikely occurrence of hazard\nseverity of the effects on consumer safety\nvulnerability of those exposed\nsurvival and multiplication of micro-organisms of specific concern to the product\npresence or production of toxins, chemicals or foreign bodies\ncontamination of raw materials, intermediate/semi-processed product, or finished product.\nWhere elimination of the hazard is not practical, justification for acceptable levels of the hazard in the finished product shall be determined and documented.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must conduct a hazard analysis to identify the significant hazards (i.e. those hazards that are reasonably likely to occur at an unacceptable level), which need to be prevented, eliminated or reduced to acceptable levels. Consideration must be given to the following:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Likely occurrence of hazard",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Severity of the effects on consumer safety",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Vulnerability of those exposed",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Survival and multiplication of micro-organisms of specific concern to the product",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Presence or production of toxins, chemicals or foreign bodies",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Contamination of raw materials, intermediate/semi-processed product, or finished product.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Where elimination of the hazard is not practical, justification for acceptable levels of the hazard in the finished product must be determined and documented.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.7.3",
+    "section": "2.7 List all potential hazards associated with each process step, conduct a hazard analysis and consider any measures to control identified hazards (equivalent to Codex Alimentarius Step 6, Principle 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall consider the control measures necessary to pre…",
+    "requirement_checklist": "The HACCP food safety team shall consider the control measures necessary to prevent or eliminate a food safety hazard or reduce it to an acceptable level.\nConsideration may be given to using more than one control measure.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must consider the control measures necessary to prevent or eliminate a food safety hazard or reduce it to an acceptable level.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Consideration may be given to using more than one control measure.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The relevant requirement is implemented, evidenced and maintained in practice.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.7.4",
+    "section": "2.7 List all potential hazards associated with each process step, conduct a hazard analysis and consider any measures to control identified hazards (equivalent to Codex Alimentarius Step 6, Principle 1)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "Where the control of a specific food safety hazard is achieved through prerequi…",
+    "requirement_checklist": "Where the control of a specific food safety hazard is achieved through prerequisite programmes (see section 2.2) or control measures other than critical control points (CCPs; see clause 2.8.1), this shall be stated and the adequacy of the programme to control the specific hazard validated.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where the control of a specific food safety hazard is achieved through prerequisite programmes (see section 2.2) or control measures other than critical control points (CCPs",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "see clause 2.8.1), this must be stated and the adequacy of the programme to control the specific hazard validated.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.8.1",
+    "section": "2.8 Determine the critical control points (CCPs) (equivalent to Codex Alimentarius Step 7, Principle 2)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "For each hazard that requires control, control points shall be reviewed to iden…",
+    "requirement_checklist": "For each hazard that requires control, control points shall be reviewed to identify those that are critical. This requires a logical approach and may be facilitated by use of a decision tree. CCPs shall be those control points which are required in order to prevent or eliminate a food safety hazard or reduce it to an acceptable level. If a hazard is identified at a step where control is necessary for safety but the control does not exist, the product or process shall be modified at that step, or at an earlier step, to provide a control measure.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "For each hazard that requires control, control points must be reviewed to identify those that are critical.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "This requires a logical approach and may be facilitated by use of a decision tree.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "CCPs must be those control points which are required in order to prevent or eliminate a food safety hazard or reduce it to an acceptable level. If a hazard is identified at a step where control is necessary for safety but the control does not exist, the product or process must be modified at that step, or at an earlier step, to provide a control measure.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.9.1",
+    "section": "2.9 Establish validated critical limits for each CCP (equivalent to Codex Alimentarius Step 8, Principle 3)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "For each CCP, the appropriate critical limits shall be defined in order to iden…",
+    "requirement_checklist": "For each CCP, the appropriate critical limits shall be defined in order to identify clearly whether the process is in or out of control. Critical limits shall be:\nmeasurable wherever possible (e.g. time, temperature, pH)\nsupported by clear guidance or examples where measures are subjective (e.g. photographs).",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "For each CCP, the appropriate critical limits must be defined in order to identify clearly whether the process is in or out of control. Critical limits must be:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Measurable wherever possible (e.g. time, temperature, pH)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Supported by clear guidance or examples where measures are subjective (e.g. photographs).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.9.2",
+    "section": "2.9 Establish validated critical limits for each CCP (equivalent to Codex Alimentarius Step 8, Principle 3)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall validate each CCP, including critical limits.…",
+    "requirement_checklist": "The HACCP food safety team shall validate each CCP, including critical limits. Documented evidence shall show that the control measures selected and critical limits identified are capable of consistently controlling the hazard to the specified acceptable level.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must validate each CCP, including critical limits. Documented evidence must show that the control measures selected and critical limits identified are capable of consistently controlling the hazard to the specified acceptable level.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.10.1",
+    "section": "2.10 Establish a monitoring system for each CCP (equivalent to Codex Alimentarius Step 9, Principle 4)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "A monitoring procedure shall be established for each CCP to ensure compliance w…",
+    "requirement_checklist": "A monitoring procedure shall be established for each CCP to ensure compliance with critical limits. The monitoring system shall be able to detect loss of control of CCPs and, wherever possible, provide information in time for corrective action to be taken. As a guide, consideration may be given to the following, although this is not an exhaustive list:\nonline measurement\noffline measurement\ncontinuous measurement (e.g. thermographs, pH meters).\nWhere discontinuous measurement is used, the system shall ensure that the sample taken is representative of the batch of product.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "A monitoring procedure must be established for each CCP to ensure compliance with critical limits. The monitoring system must be able to detect loss of control of CCPs and, wherever possible, provide information in time for corrective action to be taken. As a guide, consideration may be given to the following, although this is not an exhaustive list:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Online measurement",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Offline measurement",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Continuous measurement (e.g. thermographs, pH meters).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Where discontinuous measurement is used, the system must ensure that the sample taken is representative of the batch of product.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.10.2",
+    "section": "2.10 Establish a monitoring system for each CCP (equivalent to Codex Alimentarius Step 9, Principle 4)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "Records associated with the monitoring of each CCP shall include the date, time…",
+    "requirement_checklist": "Records associated with the monitoring of each CCP shall include the date, time and result of measurement, and shall be signed by the person responsible for the monitoring and verified, when appropriate, by a suitably competent and authorised person. Where records are in electronic form, there shall be evidence that records have been checked and verified.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Records associated with the monitoring of each CCP must include the date, time and result of measurement, and must be signed by the person responsible for the monitoring and verified, when appropriate, by a suitably competent and authorised person. Where records are in electronic form, there must be evidence that records have been checked and verified.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.11.1",
+    "section": "2.11 Establish a corrective action plan (equivalent to Codex Alimentarius Step 10, Principle 5)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall specify and document the corrective action to…",
+    "requirement_checklist": "The HACCP food safety team shall specify and document the corrective action to be taken when monitored results indicate a failure to meet a control limit, or when monitored results indicate a trend towards loss of control. This shall include the action to be taken by nominated personnel with regard to any products that have been manufactured during the period when the process was out of control.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must specify and document the corrective action to be taken when monitored results indicate a failure to meet a control limit, or when monitored results indicate a trend towards loss of control. This must include the action to be taken by nominated personnel with regard to any products that have been manufactured during the period when the process was out of control.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.12.1",
+    "section": "2.12 Validate the HACCP plan and establish verification procedures (equivalent to Codex Alimentarius Step 11, Principle 6)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "HACCP or food safety plans shall be validated prior to any changes which may af…",
+    "requirement_checklist": "HACCP or food safety plans shall be validated prior to any changes which may affect product safety, to ensure that the plan will effectively control the identified hazards before implementation.\nFor existing HACCP or food safety plans, this may be achieved using the established processes detailed in clauses 2.12.2 and 2.12.3.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "HACCP or food safety plans must be validated prior to any changes which may affect product safety, to ensure that the plan will effectively control the identified hazards before implementation.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "For existing HACCP or food safety plans, this may be achieved using the established processes detailed in clauses 2.12.2 and 2.12.3.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.12.2",
+    "section": "2.12 Validate the HACCP plan and establish verification procedures (equivalent to Codex Alimentarius Step 11, Principle 6)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "Procedures of verification shall be established to confirm that the HACCP or fo…",
+    "requirement_checklist": "Procedures of verification shall be established to confirm that the HACCP or food safety plan, including controls managed by prerequisite programmes, continues to be effective. Examples of verification activities include:\ninternal audits\nreview of records where acceptable limits have been exceeded\nreview of complaints by enforcement authorities or customers\nreview of incidents of product withdrawal or recall.\nResults of verification shall be recorded and communicated to the HACCP food safety team.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Procedures of verification must be established to confirm that the HACCP or food safety plan, including controls managed by prerequisite programmes, continues to be effective. Examples of verification activities include:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Internal audits",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Review of records where acceptable limits have been exceeded",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Review of complaints by enforcement authorities or customers",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Review of incidents of product withdrawal or recall.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Results of verification must be recorded and communicated to the HACCP food safety team.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.12.3",
+    "section": "2.12 Validate the HACCP plan and establish verification procedures (equivalent to Codex Alimentarius Step 11, Principle 6)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "The HACCP food safety team shall review the HACCP or food safety plan and prere…",
+    "requirement_checklist": "The HACCP food safety team shall review the HACCP or food safety plan and prerequisite programmes at least annually and prior to any changes which may affect food safety. As a guide, these may include the following, although this is not an exhaustive list:\nchange in raw materials or supplier of raw materials\nchange in ingredients/recipe\nchange in processing conditions, cleaning and disinfection procedures, process flow or equipment\nchange in packaging, storage or distribution conditions\nchange in consumer use\nemergence of a new risk (e.g. known adulteration of an ingredient or other relevant, published information, such as the recall of a similar product)\nreview following a significant product safety incident (e.g. a product recall)\nnew developments in scientific information associated with ingredients, process, packaging or product.\nAppropriate changes resulting from the review shall be incorporated into the HACCP or food safety plan and/or prerequisite programmes. Changes shall be fully documented, and the validation shall be recorded.\nWhere appropriate, the changes shall also be reflected in the company’s product safety policy and food safety objectives.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The HACCP food safety team must review the HACCP or food safety plan and prerequisite programmes at least annually and prior to any changes which may affect food safety. As a guide, these may include the following, although this is not an exhaustive list:",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Change in raw materials or supplier of raw materials",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Change in ingredients/recipe",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Change in processing conditions, cleaning and disinfection procedures, process flow or equipment",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Change in packaging, storage or distribution conditions",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Change in consumer use",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "Emergence of a new risk (e.g. known adulteration of an ingredient or other relevant, published information, such as the recall of a similar product)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i7",
+        "text": "Review following a significant product safety incident (e.g. a product recall)",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i8",
+        "text": "New developments in scientific information associated with ingredients, process, packaging or product.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i9",
+        "text": "Appropriate changes resulting from the review must be incorporated into the HACCP or food safety plan and/or prerequisite programmes. Changes must be fully documented, and the validation must be recorded.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i10",
+        "text": "Where appropriate, the changes must also be reflected in the company’s product safety policy and food safety objectives.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "2.13.1",
+    "section": "2.13 HACCP documentation and record-keeping (equivalent to Codex Alimentarius Step 12, Principle 7)",
+    "main_section": "2 The food safety plan – HACCP",
+    "title": "Documentation and record-keeping shall be sufficient to enable the site to veri…",
+    "requirement_checklist": "Documentation and record-keeping shall be sufficient to enable the site to verify that the HACCP and food safety controls, including controls managed by prerequisite programmes, are in place and maintained.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Documentation and record-keeping must be sufficient to enable the site to verify that the HACCP and food safety controls, including controls managed by prerequisite programmes, are in place and maintained.",
+        "weight": 4,
+        "weight_label": "Critical",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  }
+]

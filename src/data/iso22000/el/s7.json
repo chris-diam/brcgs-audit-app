@@ -1,0 +1,230 @@
+[
+  {
+    "clause": "10.1",
+    "section": "ISO 22000:2018 — 10 Βελτίωση",
+    "main_section": "ISO 22000:2018 — 10 Βελτίωση",
+    "title": "Μη συμμόρφωση και διορθωτική ενέργεια",
+    "requirement_checklist": "Έλεγχος μη συμμόρφωσης, διόρθωση, ανάλυση αιτίας και επαλήθευση αποτελεσματικότητας.",
+    "fundamental_context": true,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι μη συμμορφώσεις καταγράφονται και ελέγχονται άμεσα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Γίνεται ανάλυση αιτίας και κατάλληλη διορθωτική ενέργεια.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η αποτελεσματικότητα διορθωτικών ενεργειών επαληθεύεται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Μη συμμόρφωση και διορθωτική ενέργεια.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Μη συμμόρφωση και διορθωτική ενέργεια;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "10.2",
+    "section": "ISO 22000:2018 — 10 Βελτίωση",
+    "main_section": "ISO 22000:2018 — 10 Βελτίωση",
+    "title": "Συνεχής βελτίωση",
+    "requirement_checklist": "Συνεχής βελτίωση καταλληλότητας, επάρκειας και αποτελεσματικότητας ΣΔΑΤ.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχουν δράσεις βελτίωσης βασισμένες σε δεδομένα.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η βελτίωση συνδέεται με KPI, audit, παράπονα και ανασκόπηση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Τα αποτελέσματα βελτίωσης αξιολογούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Συνεχής βελτίωση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Συνεχής βελτίωση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "10.3",
+    "section": "ISO 22000:2018 — 10 Βελτίωση",
+    "main_section": "ISO 22000:2018 — 10 Βελτίωση",
+    "title": "Επικαιροποίηση ΣΔΑΤ",
+    "requirement_checklist": "Συνεχής επικαιροποίηση του ΣΔΑΤ με βάση νέα δεδομένα και αλλαγές.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η ομάδα ΣΔΑΤ αξιολογεί ανάγκη επικαιροποίησης.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Χρησιμοποιούνται αποτελέσματα επαλήθευσης, αλλαγές, παράπονα και περιστατικά.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι επικαιροποιήσεις εγκρίνονται, κοινοποιούνται και εφαρμόζονται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Επικαιροποίηση ΣΔΑΤ.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Επικαιροποίηση ΣΔΑΤ;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]

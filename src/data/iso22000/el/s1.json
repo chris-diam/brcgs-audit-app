@@ -1,0 +1,306 @@
+[
+  {
+    "clause": "4.1",
+    "section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "main_section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "title": "Κατανόηση οργανισμού και πλαισίου λειτουργίας",
+    "requirement_checklist": "Εντοπισμός και ανασκόπηση εσωτερικών/εξωτερικών θεμάτων που επηρεάζουν το ΣΔΑΤ.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Έχουν εντοπιστεί εσωτερικά και εξωτερικά θέματα που επηρεάζουν το ΣΔΑΤ.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Τα θέματα καλύπτουν νομοθεσία, τεχνολογία, αγορά, κουλτούρα, food fraud/defence και επιχειρησιακές συνθήκες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι πληροφορίες ανασκοπούνται και επικαιροποιούνται.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Κατανόηση οργανισμού και πλαισίου λειτουργίας.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Κατανόηση οργανισμού και πλαισίου λειτουργίας;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "4.2",
+    "section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "main_section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "title": "Ενδιαφερόμενα μέρη και απαιτήσεις",
+    "requirement_checklist": "Καθορισμός ενδιαφερομένων μερών και σχετικών απαιτήσεων ασφάλειας τροφίμων.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει μητρώο ενδιαφερομένων μερών για το ΣΔΑΤ.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Έχουν καθοριστεί απαιτήσεις πελατών, αρχών, προμηθευτών, προσωπικού και καταναλωτών.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Οι απαιτήσεις ανασκοπούνται όταν υπάρχουν αλλαγές.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ενδιαφερόμενα μέρη και απαιτήσεις.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ενδιαφερόμενα μέρη και απαιτήσεις;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "4.3",
+    "section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "main_section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "title": "Πεδίο εφαρμογής ΣΔΑΤ",
+    "requirement_checklist": "Τεκμηριωμένο scope προϊόντων, υπηρεσιών, διεργασιών και εγκαταστάσεων.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Το πεδίο εφαρμογής είναι τεκμηριωμένο και διαθέσιμο.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Περιλαμβάνει προϊόντα, διεργασίες, υπηρεσίες και sites που επηρεάζουν την ασφάλεια τροφίμων.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Λαμβάνει υπόψη 4.1 και 4.2 και αιτιολογεί όρια/εξαιρέσεις.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Πεδίο εφαρμογής ΣΔΑΤ.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Πεδίο εφαρμογής ΣΔΑΤ;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "4.4",
+    "section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "main_section": "ISO 22000:2018 — 4 Πλαίσιο λειτουργίας του Οργανισμού",
+    "title": "Σύστημα διαχείρισης ασφάλειας τροφίμων",
+    "requirement_checklist": "Καθιέρωση, εφαρμογή, συντήρηση, επικαιροποίηση και βελτίωση του ΣΔΑΤ.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι διεργασίες του ΣΔΑΤ και οι αλληλεπιδράσεις τους έχουν καθοριστεί.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Το σύστημα εφαρμόζεται με κατάλληλες τεκμηριωμένες πληροφορίες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Υπάρχει μηχανισμός ενημέρωσης και συνεχούς βελτίωσης.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Σύστημα διαχείρισης ασφάλειας τροφίμων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Σύστημα διαχείρισης ασφάλειας τροφίμων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]

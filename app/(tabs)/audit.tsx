@@ -2,8 +2,8 @@ import React from 'react'
 import { View, Text, ScrollView, TouchableOpacity } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useRouter } from 'expo-router'
-import { useAuditStore } from '../../src/store/auditStore'
-import { allClauses, mainSections } from '../../src/data'
+import { useAuditStore, selectActiveClauses } from '../../src/store/auditStore'
+import { useDataset } from '../../src/data'
 import { evalClause } from '../../src/core/scoring'
 
 const SEV_RANK: Record<string, number> = {
@@ -21,7 +21,8 @@ function worstSeverityColor(worst: string): string {
 
 export default function AuditScreen() {
   const router = useRouter()
-  const { clauses } = useAuditStore()
+  const { clauses: allClauses, mainSections } = useDataset()
+  const clauses = useAuditStore(selectActiveClauses)
 
   return (
     <SafeAreaView className="flex-1 bg-slate-50">

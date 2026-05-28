@@ -1,0 +1,11 @@
+{
+  "version": "v34.7.44",
+  "title": "BRCGS GOLD Audit Compact App v34.7.44 — Greek Language QA Complete",
+  "principle": "Only true BRCGS requirement control points are scored. Introductory/header lines that introduce bullet lists are not scored.",
+  "language_normalization": "v34.7 Natural Greek Baseline: free, auditor-friendly Greek wording; scoring/finding logic preserved from v34.6.4–v34.6.6.",
+  "language_style": "Ελεύθερη, φυσική ελληνική διατύπωση για χρήση από επιθεωρητή· όχι λέξη προς λέξη μετάφραση. Τεχνικά ακρωνύμια διατηρούνται όπου είναι πρακτικά χρήσιμα.",
+  "language_pass": "Greek Language QA Complete: final global language QA across all sections. Residual mixed Greek-English phrasing cleaned. Scoring/finding logic unchanged.",
+  "mobile_profile": "BRCGS GOLD Mobile Field Audit App — Greek QA",
+  "mobile_version": "v34.7.44-mobile-field-v2.3-smart-support-guidance",
+  "storage": "Browser localStorage; export/import JSON supported."
+}

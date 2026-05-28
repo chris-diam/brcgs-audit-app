@@ -1,0 +1,1546 @@
+[
+  {
+    "clause": "8.1.1",
+    "section": "8.1 Layout, product flow and segregation in high-risk, high-care and ambient high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "The map of the site (see clause 4.3.2) shall include the location of the pathog…",
+    "requirement_checklist": "The map of the site (see clause 4.3.2) shall include the location of the pathogen control step(s).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "The map of the site (see clause 4.3.2) must include the location of the pathogen control step(s).",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.1.2",
+    "section": "8.1 Layout, product flow and segregation in high-risk, high-care and ambient high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where high-risk areas are part of the manufacturing site, there shall be physic…",
+    "requirement_checklist": "Where high-risk areas are part of the manufacturing site, there shall be physical segregation between these areas and other parts of the site. Segregation shall take into account the flow of product, the nature of the materials (including packaging), the equipment, the personnel, the chemicals, the disposal of waste, the flow of air, the air quality and the provision of utilities (including drains). The location of transfer points shall not compromise the segregation between high-risk areas and other areas of the factory. Practices shall be in place to minimise the risk of product contamination (e.g. the disinfection of materials on entry).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where high-risk areas are part of the manufacturing site, there must be physical segregation between these areas and other parts of the site.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Segregation must take into account the flow of product, the nature of the materials (including packaging), the equipment, the personnel, the chemicals, the disposal of waste, the flow of air, the air quality and the provision of utilities (including drains). The location of transfer points must not compromise the segregation between high-risk areas and other areas of the factory. Practices must be in place to minimise the risk of product contamination (e.g. the disinfection of materials on entry).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.1.3",
+    "section": "8.1 Layout, product flow and segregation in high-risk, high-care and ambient high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where high-care areas are part of the manufacturing site, there should be physi…",
+    "requirement_checklist": "Where high-care areas are part of the manufacturing site, there should be physical segregation between these areas and other parts of the site. Segregation shall take into account the flow of product, the nature of materials (including packaging), the equipment, the personnel, the chemicals, the disposal of waste, the flow of air, the air quality and the provision of utilities (including drains).\nWhere physical barriers are not in place, the site shall have undertaken a documented risk assessment of the potential for cross-contamination, and effective, validated processes shall be in place to protect products from contamination, including the procedures for changeover from low-risk to high-care.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where high-care areas are part of the manufacturing site, there should be physical segregation between these areas and other parts of the site.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Segregation must take into account the flow of product, the nature of materials (including packaging), the equipment, the personnel, the chemicals, the disposal of waste, the flow of air, the air quality and the provision of utilities (including drains). Where physical barriers are not in place, the site must have undertaken a documented risk assessment of the potential for cross-contamination, and effective, validated processes must be in place to protect products from contamination, including the procedures for changeover from low-risk to high-care.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.1.4",
+    "section": "8.1 Layout, product flow and segregation in high-risk, high-care and ambient high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where ambient high-care areas are required, a documented risk assessment shall…",
+    "requirement_checklist": "Where ambient high-care areas are required, a documented risk assessment shall be completed to determine the risk of cross-contamination with pathogens. The risk assessment shall take into account the potential sources of microbiological contamination and include:\nthe raw materials and products\nthe flow of raw materials, packaging, products, equipment, personnel and waste\nair flow and quality\nthe provision and location of utilities (including drains).\nEffective processes shall be in place to protect the final product from microbiological contamination. These processes may include segregation, management of process flow or other controls.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where ambient high-care areas are required, a documented risk assessment must be completed to determine the risk of cross-contamination with pathogens. The risk assessment must take into account the potential sources of microbiological contamination and include:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The raw materials and products",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "The flow of raw materials, packaging, products, equipment, personnel and waste Air flow and quality The provision and location of utilities (including drains). Effective processes must be in place to protect the final product from microbiological contamination. These processes may include segregation, management of process flow or other controls.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.2.1",
+    "section": "8.2 Building fabric in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where sites include high-risk or high-care facilities, there shall be a map of…",
+    "requirement_checklist": "Where sites include high-risk or high-care facilities, there shall be a map of the drains for these areas which shows the direction of flow and the location of any equipment fitted to prevent the backup of waste water. The flow from drains shall not present a risk of contamination to the high-risk/care area.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where sites include high-risk or high-care facilities, there must be a map of the drains for these areas which shows the direction of flow and the location of any equipment fitted to prevent the backup of waste water. The flow from drains must not present a risk of contamination to the high-risk/care area.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.2.2",
+    "section": "8.2 Building fabric in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "High-risk areas shall be supplied with sufficient changes of filtered air. The…",
+    "requirement_checklist": "High-risk areas shall be supplied with sufficient changes of filtered air. The filter specification used and frequency of air changes shall be documented, based on a risk assessment that takes into account the source of the air and the requirement to maintain a positive air pressure relative to the surrounding areas.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "High-risk areas must be supplied with sufficient changes of filtered air. The filter specification used and frequency of air changes must be documented, based on a risk assessment that takes into account the source of the air and the requirement to maintain a positive air pressure relative to the surrounding areas.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.2.3",
+    "section": "8.2 Building fabric in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where sites include removable walls as part of the design of the high-risk or h…",
+    "requirement_checklist": "Where sites include removable walls as part of the design of the high-risk or high-care area (e.g. to allow occasional movement of large items or specialist maintenance equipment), procedures shall be in place to ensure:\nremovable walls are tight fitting\ntheir use is managed\nmovement of the walls is authorised and is completed only by trained and authorised staff\ncleaning and reconditioning procedures are in place and completed prior to production.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where sites include removable walls as part of the design of the high-risk or high-care area (e.g. to allow occasional movement of large items or specialist maintenance equipment), procedures must be in place to ensure:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Removable walls are tight fitting",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Their use is managed",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Movement of the walls is authorised and is completed only by trained and authorised staff",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Cleaning and reconditioning procedures are in place and completed prior to production.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.3.1",
+    "section": "8.3 Equipment and maintenance in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Maintenance activities undertaken in high-risk and high-care areas shall respec…",
+    "requirement_checklist": "Maintenance activities undertaken in high-risk and high-care areas shall respect the segregation requirements of the area. Wherever possible, tools and equipment shall be dedicated for use in that area and retained there.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Maintenance activities undertaken in high-risk and high-care areas must respect the segregation requirements of the area. Wherever possible, tools and equipment must be dedicated for use in that area and retained there.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.3.2",
+    "section": "8.3 Equipment and maintenance in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where equipment is removed from the high-risk or high-care area, the site shall…",
+    "requirement_checklist": "Where equipment is removed from the high-risk or high-care area, the site shall have a procedure to ensure the cleanliness and removal of contamination hazards before the equipment is accepted back into the area.\nRecords of acceptance back into the area shall be maintained.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where equipment is removed from the high-risk or high-care area, the site must have a procedure to ensure the cleanliness and removal of contamination hazards before the equipment is accepted back into the area.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Records of acceptance back into the area must be maintained.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.3.3",
+    "section": "8.3 Equipment and maintenance in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where portable equipment (e.g. handheld devices) and battery-charging equipment…",
+    "requirement_checklist": "Where portable equipment (e.g. handheld devices) and battery-charging equipment is used in high-risk or high-care areas, these items shall either:\nbe visually distinctive and dedicated for use in that area, or\nhave specific procedures (e.g. a full clean) to ensure that their use does not result in contamination.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where portable equipment (e.g. handheld devices) and battery-charging equipment is used in high-risk or high-care areas, these items must either:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Be visually distinctive and dedicated for use in that area, or",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Have specific procedures (e.g. a full clean) to ensure that their use does not result in contamination.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.4.1",
+    "section": "8.4 Staff facilities for high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where an operation includes a high-risk or high-care area, personnel shall ente…",
+    "requirement_checklist": "Where an operation includes a high-risk or high-care area, personnel shall enter via a specially designated changing facility at the entrance to the area. The changing facilities shall incorporate the following:\nclear instructions for the order of changing into and out of dedicated protective clothes to prevent the contamination of clean clothing\nprotective clothing that is visually distinct from that worn in other areas and which shall not be worn outside the area\na hand-washing routine during the changing procedure to prevent contamination of the clean clothing (i.e. hand-washing after hair covering and footwear have been put on, but before handling clean protective clothing)\nhand-washing and disinfection facilities that shall, as a minimum, be situated:\nprior to entry for high-risk areas\non entry for high-care areas\ndedicated site footwear that is provided by the site and which shall not be worn outside the factory\nan effective control of footwear to prevent the introduction of pathogens into the area. Control may be by segregation and a controlled change of footwear before entering the area (such as a barrier or bench system), or by the use of controlled and managed boot-wash facilities where these demonstrably provide an effective control of footwear to prevent the introduction of pathogens into the area.\nA programme of environmental monitoring shall be used to assess the effectiveness of footwear controls.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where an operation includes a high-risk or high-care area, personnel must enter via a specially designated changing facility at the entrance to the area. The changing facilities must incorporate the following:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Clear instructions for the order of changing into and out of dedicated protective clothes to prevent the contamination of clean clothing",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Protective clothing that is visually distinct from that worn in other areas and which must not be worn outside the area",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "A hand-washing routine during the changing procedure to prevent contamination of the clean clothing (i.e. hand-washing after hair covering and footwear have been put on, but before handling clean protective clothing)",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Hand-washing and disinfection facilities that must, as a minimum, be situated:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Prior to entry for high-risk areas",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i6",
+        "text": "On entry for high-care areas Dedicated site footwear that is provided by the site and which must not be worn outside the factory An effective control of footwear to prevent the introduction of pathogens into the area. Control may be by segregation and a controlled change of footwear before entering the area (such as a barrier or bench system), or by the use of controlled and managed boot-wash facilities where these demonstrably provide an effective control of footwear to prevent the introduction of pathogens into the area. A programme of environmental monitoring must be used to assess the effectiveness of footwear controls.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.5.1",
+    "section": "8.5 Housekeeping and hygiene in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Environmental cleaning procedures in high-care/high-risk areas shall consider t…",
+    "requirement_checklist": "Environmental cleaning procedures in high-care/high-risk areas shall consider the different microbiological risks associated with each production risk zone.\nAt a minimum, cleaning procedures in high-risk and high-care areas shall include all of the requirements in clause 4.11.2. The frequency and methods of cleaning shall be based on risk, and the procedures shall be implemented to ensure that appropriate standards of cleaning are achieved.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Environmental cleaning procedures in high-care/high-risk areas must consider the different microbiological risks associated with each production risk zone. At a minimum, cleaning procedures in high-risk and high-care areas must include all of the requirements in clause 4.11.2. The frequency and methods of cleaning must be based on risk, and the procedures must be implemented to ensure that appropriate standards of cleaning are achieved.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "The following items are considered where applicable:",
+        "weight": 3,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.5.2",
+    "section": "8.5 Housekeeping and hygiene in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Microbiological limits for acceptable and unacceptable cleaning performance sha…",
+    "requirement_checklist": "Microbiological limits for acceptable and unacceptable cleaning performance shall be defined for high-risk/high-care production risk zones.\nThese limits shall be based on the potential hazards relevant to the product or processing area. Therefore, acceptable levels of cleaning shall be defined, for example, by visual appearance, ATP bioluminescence techniques (see glossary), microbiological testing or chemical testing as appropriate. The site shall define the corrective action to be taken when monitored results are outside of the acceptable limits.\nWhere cleaning and disinfection procedures are part of a defined prerequisite plan to control the risk of a specific hazard, the procedures and frequencies shall be validated and records maintained. This shall include the risk from cleaning chemical residues on food contact surfaces.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Microbiological limits for acceptable and unacceptable cleaning performance must be defined for high-risk/high-care production risk zones.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "These limits must be based on the potential hazards relevant to the product or processing area.",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Therefore, acceptable levels of cleaning must be defined, for example, by visual appearance, ATP bioluminescence techniques (see glossary), microbiological testing or chemical testing as appropriate.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "The site must define the corrective action to be taken when monitored results are outside of the acceptable limits.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Where cleaning and disinfection procedures are part of a defined prerequisite plan to control the risk of a specific hazard, the procedures and frequencies must be validated and records maintained. This must include the risk from cleaning chemical residues on food contact surfaces.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "The following items are considered where applicable:",
+        "weight": 2,
+        "weight_label": "Section guide",
+        "default_partial": "—",
+        "default_nonconformity": "—",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [],
+        "non_assessable_header": true
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.5.3",
+    "section": "8.5 Housekeeping and hygiene in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Equipment used for cleaning in high-care and high-risk areas shall be:",
+    "requirement_checklist": "Equipment used for cleaning in high-care and high-risk areas shall be:\nvisually distinctive and dedicated for use in that area\nhygienically designed and fit for purpose\ncleaned and stored in a hygienic manner to prevent contamination (for example, storing equipment in designated locations, off the floor, when not in use).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Equipment used for cleaning in high-care and high-risk areas must be:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Visually distinctive and dedicated for use in that area",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Hygienically designed and fit for purpose",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Cleaned and stored in a hygienic manner to prevent contamination (for example, storing equipment in designated locations, off the floor, when not in use).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.5.4",
+    "section": "8.5 Housekeeping and hygiene in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where the site uses CIP equipment, either this shall be for a specific area onl…",
+    "requirement_checklist": "Where the site uses CIP equipment, either this shall be for a specific area only (i.e. separate equipment for high-risk, high-care and other production areas) or the CIP system shall be designed and controlled so that it does not present a risk of contamination to the high-risk/high-care area (i.e. controlling direction of flow from high-risk/high-care to low-risk areas, preventing the recycling or re-use of rinse solutions from one area to another).",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where the site uses CIP equipment, either this must be for a specific area only (i.e. separate equipment for high-risk, high-care and other production areas) or the CIP system must be designed and controlled so that it does not present a risk of contamination to the high-risk/high-care area (i.e. controlling direction of flow from high-risk/high-care to low-risk areas, preventing the recycling or re-use of rinse solutions from one area to another).",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.6.1",
+    "section": "8.6 Waste and waste disposal in high-risk, high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Waste disposal systems shall ensure that the risk of contamination of products…",
+    "requirement_checklist": "Waste disposal systems shall ensure that the risk of contamination of products is minimised through the control of potential cross-contamination.\nRisk assessment shall consider the movement and flow of waste and waste containers. For example, waste bins should be dedicated to either high-risk or high-care areas and not be moved between different production risk zones.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Waste disposal systems must ensure that the risk of contamination of products is minimised through the control of potential cross-contamination.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Risk assessment must consider the movement and flow of waste and waste containers. For example, waste bins should be dedicated to either high-risk or high-care areas and not be moved between different production risk zones.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.7.1",
+    "section": "8.7 Protective clothing in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Laundering of protective clothing for high-risk and high-care areas shall be do…",
+    "requirement_checklist": "Laundering of protective clothing for high-risk and high-care areas shall be done by an approved contracted or in-house laundry using defined criteria to validate the effectiveness of the laundering process. The laundry must operate procedures which ensure:\nadequate segregation between dirty and cleaned clothes\nadequate segregation between clothes for high-risk, high-care and low-risk areas etc.\neffective cleaning of the protective clothing\ncommercial sterilisation of the protective clothing following the washing and drying process\nprotection of the cleaned clothes from contamination until use.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Laundering of protective clothing for high-risk and high-care areas must be done by an approved contracted or in-house laundry using defined criteria to validate the effectiveness of the laundering process. The laundry must operate procedures which ensure:",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Adequate segregation between dirty and cleaned clothes",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Adequate segregation between clothes for high-risk, high-care and low-risk areas etc.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i3",
+        "text": "Effective cleaning of the protective clothing",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "EFF",
+          "IMPL"
+        ]
+      },
+      {
+        "id": "i4",
+        "text": "Commercial sterilisation of the protective clothing following the washing and drying process",
+        "weight": 2,
+        "weight_label": "Normal",
+        "default_partial": "OFI",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      },
+      {
+        "id": "i5",
+        "text": "Protection of the cleaned clothes from contamination until use.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.7.2",
+    "section": "8.7 Protective clothing in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Where protective clothing for high-care or high-risk areas is cleaned by a cont…",
+    "requirement_checklist": "Where protective clothing for high-care or high-risk areas is cleaned by a contracted or in-house laundry, the laundry shall be audited either directly or by a third party. The frequency of these audits shall be based on risk.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Where protective clothing for high-care or high-risk areas is cleaned by a contracted or in-house laundry, the laundry must be audited either directly or by a third party. The frequency of these audits must be based on risk.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  },
+  {
+    "clause": "8.7.3",
+    "section": "8.7 Protective clothing in high-risk and high-care zones",
+    "main_section": "8 Production risk zones – high risk, high care and ambient high care",
+    "title": "Protective clothing for use in high-risk and high-care areas shall be changed a…",
+    "requirement_checklist": "Protective clothing for use in high-risk and high-care areas shall be changed at an appropriate frequency based on risk, and at a minimum daily.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Protective clothing for use in high-risk and high-care areas must be changed at an appropriate frequency based on risk, and at a minimum daily.",
+        "weight": 3,
+        "weight_label": "High",
+        "default_partial": "Minor",
+        "default_nonconformity": "Minor",
+        "source": "BRCGS F904a Self-Assessment Checklist / Issue 9 Standard",
+        "axes": [
+          "DOC",
+          "EFF",
+          "IMPL",
+          "REC"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Relevant documented procedures, records, specifications, risk assessments, registers, logs or other objective evidence demonstrating implementation of this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "Interviews with responsible personnel and, where relevant, operators working in the area or process covered by this clause.",
+        "tags": [
+          "Evidence"
+        ]
+      },
+      {
+        "text": "How is this requirement implemented, monitored and kept up to date in practice?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "What records or objective evidence show that the requirement is consistently applied?",
+        "tags": [
+          "Question"
+        ]
+      },
+      {
+        "text": "Document review, on-site confirmation of implementation and objective records, where required.",
+        "tags": [
+          "Method"
+        ]
+      }
+    ],
+    "source": "BRCGS Food Safety Issue 9 F904a Self-Assessment Checklist English / Issue 9 Standard"
+  }
+]

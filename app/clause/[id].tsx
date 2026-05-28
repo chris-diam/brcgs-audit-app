@@ -8,8 +8,8 @@ import {
 } from 'react-native'
 import { SafeAreaView } from 'react-native-safe-area-context'
 import { useLocalSearchParams, useRouter } from 'expo-router'
-import { useAuditStore } from '../../src/store/auditStore'
-import { getClause, allClauses } from '../../src/data'
+import { useAuditStore, selectActiveClauses } from '../../src/store/auditStore'
+import { useDataset, getClause, getClauseIndex } from '../../src/data'
 import { evalClause } from '../../src/core/scoring'
 import SeverityPicker from '../../src/components/SeverityPicker'
 
@@ -27,8 +27,10 @@ export default function ClauseDetailScreen() {
   const { id } = useLocalSearchParams<{ id: string }>()
   const router = useRouter()
   const clauseId = decodeURIComponent(id ?? '')
-  const clause = getClause(clauseId)
-  const { clauses, setItemResult, setComments, recomputeSummary } = useAuditStore()
+  const { clauses: allClauses } = useDataset()
+  const clause = getClause(allClauses, clauseId)
+  const activeClauses = useAuditStore(selectActiveClauses)
+  const { setItemResult, setComments, recomputeSummary } = useAuditStore()
   const [showGuidance, setShowGuidance] = useState(false)
 
   if (!clause) {
@@ -42,12 +44,12 @@ export default function ClauseDetailScreen() {
     )
   }
 
-  const st = clauses[clauseId]
+  const st = activeClauses[clauseId]
   const ev = evalClause(clause, st)
   const badgeCls = SEV_BADGE[ev.severity] ?? { bg: '#f1f5f9', text: '#64748b' }
   const items = (clause.scored_checklist ?? []).filter(i => !i.non_assessable_header)
 
-  const idx = allClauses.findIndex(c => c.clause === clauseId)
+  const idx = getClauseIndex(allClauses, clauseId)
   const prev = idx > 0 ? allClauses[idx - 1] : null
   const next = idx < allClauses.length - 1 ? allClauses[idx + 1] : null
 
@@ -93,7 +95,7 @@ export default function ClauseDetailScreen() {
         {/* Requirement */}
         <View className="bg-blue-50 border border-blue-100 rounded-2xl p-4 mb-4">
           <Text className="text-blue-700 font-bold text-xs mb-1.5 uppercase tracking-wide">
-            Απαίτηση BRCGS
+            Απαίτηση
           </Text>
           <Text className="text-slate-700 text-sm leading-relaxed">
             {clause.requirement_checklist}

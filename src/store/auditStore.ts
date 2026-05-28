@@ -3,7 +3,8 @@ import { persist, createJSONStorage } from 'zustand/middleware'
 import { Platform } from 'react-native'
 import type { AuditMeta, ClauseState, OverrideMode, AuditSummary } from '../core/types'
 import { aggregateResults } from '../core/scoring'
-import { allClauses } from '../data'
+import { DATASETS } from '../data/datasets'
+import type { DatasetKey } from '../data/datasets'
 
 const storage =
   Platform.OS === 'web'
@@ -28,9 +29,12 @@ const defaultClauseState = (): ClauseState => ({
 })
 
 interface AuditStore {
+  activeDataset: DatasetKey
   meta: AuditMeta
-  clauses: Record<string, ClauseState>
+  // Clause states keyed by dataset, then by clauseId
+  clausesByDataset: Record<string, Record<string, ClauseState>>
   summary: AuditSummary | null
+  setActiveDataset: (key: DatasetKey) => void
   setMeta: (meta: Partial<AuditMeta>) => void
   setItemResult: (clauseId: string, itemId: string, result: string) => void
   setOverride: (clauseId: string, override: OverrideMode) => void
@@ -43,51 +47,98 @@ interface AuditStore {
 export const useAuditStore = create<AuditStore>()(
   persist(
     (set, get) => ({
+      activeDataset: 'brcgs_el',
       meta: defaultMeta,
-      clauses: {},
+      clausesByDataset: {},
       summary: null,
+
+      setActiveDataset: (key) => {
+        set({ activeDataset: key })
+        // Recompute summary for the new dataset immediately
+        const { clausesByDataset } = get()
+        const clauses = clausesByDataset[key] ?? {}
+        const summary = aggregateResults(DATASETS[key].clauses, clauses)
+        set({ summary })
+      },
 
       setMeta: (meta) => set(s => ({ meta: { ...s.meta, ...meta } })),
 
       setItemResult: (clauseId, itemId, result) =>
         set(s => {
-          const cs = s.clauses[clauseId] ?? defaultClauseState()
+          const { activeDataset, clausesByDataset } = s
+          const datasetClauses = clausesByDataset[activeDataset] ?? {}
+          const cs = datasetClauses[clauseId] ?? defaultClauseState()
           return {
-            clauses: {
-              ...s.clauses,
-              [clauseId]: { ...cs, results: { ...cs.results, [itemId]: result } },
+            clausesByDataset: {
+              ...clausesByDataset,
+              [activeDataset]: {
+                ...datasetClauses,
+                [clauseId]: { ...cs, results: { ...cs.results, [itemId]: result } },
+              },
             },
           }
         }),
 
       setOverride: (clauseId, override) =>
         set(s => {
-          const cs = s.clauses[clauseId] ?? defaultClauseState()
-          return { clauses: { ...s.clauses, [clauseId]: { ...cs, override } } }
+          const { activeDataset, clausesByDataset } = s
+          const datasetClauses = clausesByDataset[activeDataset] ?? {}
+          const cs = datasetClauses[clauseId] ?? defaultClauseState()
+          return {
+            clausesByDataset: {
+              ...clausesByDataset,
+              [activeDataset]: { ...datasetClauses, [clauseId]: { ...cs, override } },
+            },
+          }
         }),
 
       setComments: (clauseId, comments) =>
         set(s => {
-          const cs = s.clauses[clauseId] ?? defaultClauseState()
-          return { clauses: { ...s.clauses, [clauseId]: { ...cs, comments } } }
+          const { activeDataset, clausesByDataset } = s
+          const datasetClauses = clausesByDataset[activeDataset] ?? {}
+          const cs = datasetClauses[clauseId] ?? defaultClauseState()
+          return {
+            clausesByDataset: {
+              ...clausesByDataset,
+              [activeDataset]: { ...datasetClauses, [clauseId]: { ...cs, comments } },
+            },
+          }
         }),
 
       toggleSupportChecked: (clauseId, idx) =>
         set(s => {
-          const cs = s.clauses[clauseId] ?? defaultClauseState()
+          const { activeDataset, clausesByDataset } = s
+          const datasetClauses = clausesByDataset[activeDataset] ?? {}
+          const cs = datasetClauses[clauseId] ?? defaultClauseState()
           const sc = { ...cs.supportChecked, [idx]: !cs.supportChecked[idx] }
-          return { clauses: { ...s.clauses, [clauseId]: { ...cs, supportChecked: sc } } }
+          return {
+            clausesByDataset: {
+              ...clausesByDataset,
+              [activeDataset]: { ...datasetClauses, [clauseId]: { ...cs, supportChecked: sc } },
+            },
+          }
         }),
 
       recomputeSummary: () => {
-        const { clauses } = get()
-        const summary = aggregateResults(allClauses, clauses)
+        const { activeDataset, clausesByDataset } = get()
+        const clauses = clausesByDataset[activeDataset] ?? {}
+        const summary = aggregateResults(DATASETS[activeDataset].clauses, clauses)
         set({ summary })
       },
 
-      resetAudit: () =>
-        set({ clauses: {}, meta: { ...defaultMeta, auditDate: new Date().toISOString().split('T')[0] }, summary: null }),
+      resetAudit: () => {
+        const { activeDataset, clausesByDataset } = get()
+        set({
+          clausesByDataset: { ...clausesByDataset, [activeDataset]: {} },
+          meta: { ...defaultMeta, auditDate: new Date().toISOString().split('T')[0] },
+          summary: null,
+        })
+      },
     }),
-    { name: 'brcgs-audit-v1', storage },
+    { name: 'brcgs-audit-v2', storage },
   ),
 )
+
+// Selector helpers
+export const selectActiveClauses = (s: AuditStore) =>
+  s.clausesByDataset[s.activeDataset] ?? {}

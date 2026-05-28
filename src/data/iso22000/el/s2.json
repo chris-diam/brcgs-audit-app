@@ -1,0 +1,230 @@
+[
+  {
+    "clause": "5.1",
+    "section": "ISO 22000:2018 — 5 Ηγεσία",
+    "main_section": "ISO 22000:2018 — 5 Ηγεσία",
+    "title": "Ηγεσία και δέσμευση",
+    "requirement_checklist": "Η ανώτατη διοίκηση αποδεικνύει δέσμευση για πολιτική, στόχους, πόρους, επικοινωνία και βελτίωση.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Η διοίκηση διασφαλίζει πολιτική και στόχους συμβατούς με τον στρατηγικό προσανατολισμό.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Οι απαιτήσεις του ΣΔΑΤ ενσωματώνονται στις επιχειρησιακές διεργασίες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Παρέχονται πόροι και προωθείται συνεχής βελτίωση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ηγεσία και δέσμευση.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ηγεσία και δέσμευση;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "5.2",
+    "section": "ISO 22000:2018 — 5 Ηγεσία",
+    "main_section": "ISO 22000:2018 — 5 Ηγεσία",
+    "title": "Πολιτική ασφάλειας τροφίμων",
+    "requirement_checklist": "Κατάλληλη, διαθέσιμη, γνωστοποιημένη πολιτική με δέσμευση συμμόρφωσης και βελτίωσης.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Υπάρχει εγκεκριμένη πολιτική ασφάλειας τροφίμων.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Η πολιτική περιλαμβάνει δέσμευση για εφαρμοστέες απαιτήσεις, επικοινωνία, επάρκεια και συνεχή βελτίωση.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Η πολιτική γνωστοποιείται και κατανοείται σε όλα τα επίπεδα.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Πολιτική ασφάλειας τροφίμων.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Πολιτική ασφάλειας τροφίμων;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  },
+  {
+    "clause": "5.3",
+    "section": "ISO 22000:2018 — 5 Ηγεσία",
+    "main_section": "ISO 22000:2018 — 5 Ηγεσία",
+    "title": "Ρόλοι, υπευθυνότητες και αρμοδιότητες",
+    "requirement_checklist": "Ανάθεση, γνωστοποίηση και κατανόηση ρόλων, ομάδα ασφάλειας τροφίμων και συντονιστής.",
+    "fundamental_context": false,
+    "scored_checklist": [
+      {
+        "id": "i0",
+        "text": "Οι ρόλοι/αρμοδιότητες του ΣΔΑΤ έχουν ανατεθεί και γνωστοποιηθεί.",
+        "weight": 4,
+        "weight_label": "Κρίσιμη",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i1",
+        "text": "Έχει οριστεί ομάδα ασφάλειας τροφίμων και συντονιστής με σαφείς αρμοδιότητες.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      },
+      {
+        "id": "i2",
+        "text": "Το προσωπικό γνωρίζει την υποχρέωση αναφοράς προβλημάτων ΣΔΑΤ.",
+        "weight": 3,
+        "weight_label": "Υψηλή",
+        "default_partial": "Minor",
+        "default_nonconformity": "Major",
+        "source": "Paraphrased ISO audit control point",
+        "axes": [
+          "DOC",
+          "IMPL",
+          "REC",
+          "EFF"
+        ]
+      }
+    ],
+    "support_guidance": [
+      {
+        "text": "Διαδικασία/έντυπο/αρχείο που τεκμηριώνει: Ρόλοι, υπευθυνότητες και αρμοδιότητες.",
+        "tags": [
+          "Τεκμήριο"
+        ]
+      },
+      {
+        "text": "Πώς εφαρμόζεται στην πράξη η απαίτηση για: Ρόλοι, υπευθυνότητες και αρμοδιότητες;",
+        "tags": [
+          "Ερώτηση"
+        ]
+      },
+      {
+        "text": "Δειγματοληπτικός έλεγχος αρχείων, συνέντευξη προσωπικού και επιτόπια παρατήρηση.",
+        "tags": [
+          "Μέθοδος"
+        ]
+      }
+    ],
+    "source": "ΕΛΟΤ EN ISO 22000:2018"
+  }
+]
